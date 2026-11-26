@@ -33,4 +33,4 @@ Audio generation and uploads need your own credentials (Suno, YouTube OAuth). No
 
 ## Credits
 
-Portraits are vector-traced from Wikimedia Commons photos. Sources and licenses are listed in `public/assets/portrait-credits.md`. This is satire/parody content; no affiliation with anyone depicted.
+Code is MIT licensed (see `LICENSE`). Portrait-derived assets keep their original licenses (some CC BY-SA 4.0). Portraits are vector-traced from Wikimedia Commons photos. Sources and licenses are listed in `public/assets/portrait-credits.md`. This is satire/parody content; no affiliation with anyone depicted.
