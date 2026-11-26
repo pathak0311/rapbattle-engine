@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img">
+  <title>Stylized Donald Trump in navy suit, signature red tie, golden hair and microphone</title>
+  <defs>
+    <linearGradient id="trump-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E1304"/>
+      <stop offset="50%" stop-color="#2D1B06"/>
+      <stop offset="100%" stop-color="#0C0702"/>
+    </linearGradient>
+    <linearGradient id="trump-suit" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="55%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#090D16"/>
+    </linearGradient>
+    <linearGradient id="trump-skin" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0%" stop-color="#FFB878"/>
+      <stop offset="100%" stop-color="#E08B4B"/>
+    </linearGradient>
+    <linearGradient id="trump-hair" x1="0" y1="0" x2="1" y2="0.8">
+      <stop offset="0%" stop-color="#FFF08A"/>
+      <stop offset="50%" stop-color="#FACC15"/>
+      <stop offset="100%" stop-color="#CA8A04"/>
+    </linearGradient>
+    <linearGradient id="trump-tie" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#B91C1C"/>
+    </linearGradient>
+  </defs>
+  <!-- Rich Golden/Amber Arena Background -->
+  <rect width="600" height="760" fill="url(#trump-bg)"/>
+  <g stroke="#F59E0B" stroke-opacity="0.18" stroke-width="2">
+    <line x1="0" y1="120" x2="600" y2="120"/>
+    <line x1="0" y1="240" x2="600" y2="240"/>
+    <line x1="0" y1="360" x2="600" y2="360"/>
+    <line x1="0" y1="480" x2="600" y2="480"/>
+    <line x1="150" y1="0" x2="150" y2="760"/>
+    <line x1="300" y1="0" x2="300" y2="760"/>
+    <line x1="450" y1="0" x2="450" y2="760"/>
+  </g>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="#F59E0B" stroke-width="4" stroke-opacity="0.35"/>
+
+  <!-- Navy Suit Shoulders & Torso -->
+  <path d="M58 760V646c0-130 88-212 214-224h56c126 12 214 94 214 224v114" fill="url(#trump-suit)" stroke="#06080E" stroke-width="12"/>
+  <!-- Crisp White Dress Shirt V-Neck -->
+  <path d="M222 446l78 190 78-190z" fill="#F8FAFC" stroke="#06080E" stroke-width="8"/>
+  <!-- Neck -->
+  <path d="M248 432h104l-10 74-42 32-42-32z" fill="url(#trump-skin)" stroke="#06080E" stroke-width="9"/>
+  <!-- White Shirt Collar Wings -->
+  <path d="M236 446l64 62-44 38-36-78zM364 446l-64 62 44 38 36-78z" fill="#FFFFFF" stroke="#06080E" stroke-width="8" stroke-linejoin="round"/>
+  <!-- Signature Long Red Power Tie -->
+  <path d="M282 504h36l10 34-28 24-28-24z" fill="url(#trump-tie)" stroke="#06080E" stroke-width="7"/>
+  <path d="M284 554h32l18 206h-68z" fill="url(#trump-tie)" stroke="#06080E" stroke-width="8"/>
+  <!-- Suit Lapels & Flag Lapel Pin -->
+  <path d="M188 456l96 196-74 108-70-238zM412 456l-96 196 74 108 70-238z" fill="#172554" stroke="#06080E" stroke-width="9"/>
+  <!-- Gold & Flag Lapel Pin -->
+  <rect x="382" y="546" width="28" height="18" rx="3" fill="#EF4444" stroke="#FACC15" stroke-width="3"/>
+  <rect x="382" y="546" width="12" height="10" fill="#1D4ED8"/>
+
+  <!-- Ears -->
+  <ellipse cx="156" cy="318" rx="40" ry="58" fill="#E08B4B" stroke="#06080E" stroke-width="9"/>
+  <ellipse cx="444" cy="318" rx="40" ry="58" fill="#E08B4B" stroke="#06080E" stroke-width="9"/>
+
+  <!-- Head & Prominent Jaw/Chin -->
+  <path d="M164 244c0-100 60-156 136-156 88 0 140 60 136 164l-10 112c-8 86-64 130-126 130-68 0-120-44-126-130z" fill="url(#trump-skin)" stroke="#06080E" stroke-width="11"/>
+
+  <!-- Iconic Golden Swept Combover Hair -->
+  <path d="M150 246c-18-98 28-184 156-188 98-3 162 42 152 126-10-10-24-22-46-24-28 46-112 68-262 86z" fill="url(#trump-hair)" stroke="#06080E" stroke-width="11" stroke-linejoin="round"/>
+  <!-- Sweeping Swoop Lines in Hair -->
+  <path d="M166 190c48-68 136-96 244-70" fill="none" stroke="#FEF08A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M186 218c58-42 142-56 232-34" fill="none" stroke="#CA8A04" stroke-width="9" stroke-linecap="round"/>
+
+  <!-- Pale Eye Rings & Narrowed Expressive Eyes -->
+  <ellipse cx="244" cy="310" rx="38" ry="22" fill="#FFDAB3" opacity="0.55"/>
+  <ellipse cx="358" cy="310" rx="38" ry="22" fill="#FFDAB3" opacity="0.55"/>
+  <!-- Furrowed Golden-Blonde Eyebrows -->
+  <path d="M198 282l88 12M404 282l-88 12" stroke="#EAB308" stroke-width="14" stroke-linecap="round"/>
+  <!-- Eyes -->
+  <path d="M214 312q30-16 60 0-30 20-60 0zM328 312q30-16 60 0-30 20-60 0z" fill="#FFFFFF" stroke="#06080E" stroke-width="6"/>
+  <circle cx="244" cy="312" r="9" fill="#1E3A8A"/>
+  <circle cx="358" cy="312" r="9" fill="#1E3A8A"/>
+
+  <!-- Nose & Cheek Lines -->
+  <path d="M300 306l-14 62 32 4" fill="none" stroke="#B45309" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M228 392q-18 24-10 48M372 392q18 24 10 48" fill="none" stroke="#B45309" stroke-width="6" stroke-linecap="round"/>
+  <!-- Chin Cleft / Double Chin Curve -->
+  <path d="M268 458q32 16 64 0" fill="none" stroke="#B45309" stroke-width="6" stroke-linecap="round"/>
+
+  
+  <g id="mouth"><ellipse cx="300" cy="424" rx="34" ry="26" fill="#450A0A" stroke="#991B1B" stroke-width="9"/><path d="M276 406h48v10h-48z" fill="#FFFFFF"/><path d="M280 436q20-12 40 0-20 16-40 0z" fill="#F87171"/></g>
+
+  <!-- Arm + hand gripping mic (aimed at mouth) -->
+  <path d="M40 760l70-150q22-30 56-26l44 40-52 136z" fill="#0F172A" stroke="#06080E" stroke-width="10" stroke-linejoin="round"/>
+  <g transform="translate(236 480) rotate(45)">
+    <rect x="-15" y="26" width="30" height="150" rx="14" fill="#475569" stroke="#06080E" stroke-width="8"/>
+    <rect x="-17" y="30" width="34" height="14" rx="5" fill="#F59E0B" stroke="#06080E" stroke-width="5"/>
+    <ellipse cx="0" cy="0" rx="31" ry="38" fill="#1E293B" stroke="#F59E0B" stroke-width="8"/>
+    <path d="M-20 -14h40M-24 0h48M-20 14h40M-8 -30v58M8 -30v58" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+    <rect x="-27" y="78" width="54" height="56" rx="22" fill="#E9A066" stroke="#06080E" stroke-width="8"/>
+    <path d="M-27 92h54M-27 108h54M-27 122h50" stroke="#06080E" stroke-width="4" opacity="0.55"/>
+  </g>
+</svg>

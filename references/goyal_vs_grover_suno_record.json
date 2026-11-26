@@ -1,0 +1,60 @@
+{
+  "taskId": "fb931ba2b769294ebecbbc46f66356a5",
+  "parentMusicId": "",
+  "param": "{\"callBackUrl\":\"https://example.com/noop\",\"customMode\":true,\"instrumental\":false,\"model\":\"V4_5\",\"negativeTags\":\"announcer, host, hype man, spoken word, narration, chorus, singing, female vocals, crowd\",\"prompt\":\"[Verse 1: Deepinder Goyal]\\nZomato ka CEO, Gurugram se aaya\\nDus minute mein delivery, tera funda toh bhaya\\nTu Shark tha, par tank mein machhli nikla\\nMera stock upar, tera Bharat Pe phisla\\nTera Third Unicorn ab hai Third Class\\nMera Blinkit aaya, tera ego hua mass\\n\\n[Verse 2: Ashneer Grover]\\nOye, ye sab doglapan hai bhai\\nTu delivery wala, main funding wala, samjha kya bhai\\nTere paas red t-shirt, mere paas red flag ka stock\\nSab bakwaas bolke main tod doon tera clock\\nTip maangta hai tu, rating bhi maangta hai\\nMain Grover hoon bhai, har round mein jeet maangta hai\\n\\n[End]\",\"style\":\"Hindi desi hip-hop rap battle, Mumbai street boom-bap with dhol and tabla hits, 96 bpm, punchy drums, deep 808, two male Hindi rappers, verse 1 smooth cocky calm baritone, verse 2 loud brash raspy aggressive, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro, abrupt ending\",\"title\":\"Goyal Vs Grover\"}",
+  "response": {
+    "taskId": "fb931ba2b769294ebecbbc46f66356a5",
+    "sunoData": [
+      {
+        "id": "30e874b9-1e85-4ea0-905c-523b8641ad73",
+        "prompt": "[Verse 1: Deepinder Goyal]\nZomato ka CEO, Gurugram se aaya\nDus minute mein delivery, tera funda toh bhaya\nTu Shark tha, par tank mein machhli nikla\nMera stock upar, tera Bharat Pe phisla\nTera Third Unicorn ab hai Third Class\nMera Blinkit aaya, tera ego hua mass\n\n[Verse 2: Ashneer Grover]\nOye, ye sab doglapan hai bhai\nTu delivery wala, main funding wala, samjha kya bhai\nTere paas red t-shirt, mere paas red flag ka stock\nSab bakwaas bolke main tod doon tera clock\nTip maangta hai tu, rating bhi maangta hai\nMain Grover hoon bhai, har round mein jeet maangta hai\n\n[End]",
+        "title": "Goyal Vs Grover",
+        "tags": "Desi hip-hop Mumbai street boom-bap rap battle; dhol and tabla hits over punchy drums and deep 808; two male Hindi rappers trade dry, up-front calls and clipped backing-voice responses, smooth cocky calm baritone in verse 1, loud brash raspy aggressive in verse 2; 96 bpm head-nod groove; tape saturation, vinyl crackle, abrupt cut at the last beat.",
+        "createTime": 1795465115303,
+        "duration": 46.44,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/30e874b9-1e85-4ea0-905c-523b8641ad73.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/30e874b9-1e85-4ea0-905c-523b8641ad73.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/30e874b9-1e85-4ea0-905c-523b8641ad73.mp3",
+        "image_url": "https://musicfile.sunoapi.org/MzBlODc0YjktMWU4NS00ZWEwLTkwNWMtNTIzYjg2NDFhZDcz.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_30e874b9-1e85-4ea0-905c-523b8641ad73.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/30e874b9-1e85-4ea0-905c-523b8641ad73.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/30e874b9-1e85-4ea0-905c-523b8641ad73.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/30e874b9-1e85-4ea0-905c-523b8641ad73.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/MzBlODc0YjktMWU4NS00ZWEwLTkwNWMtNTIzYjg2NDFhZDcz.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_30e874b9-1e85-4ea0-905c-523b8641ad73.jpeg",
+        "modelName": "chirp-hawk"
+      },
+      {
+        "id": "eb503e37-0076-4b1a-9221-3646cd736c96",
+        "prompt": "[Verse 1: Deepinder Goyal]\nZomato ka CEO, Gurugram se aaya\nDus minute mein delivery, tera funda toh bhaya\nTu Shark tha, par tank mein machhli nikla\nMera stock upar, tera Bharat Pe phisla\nTera Third Unicorn ab hai Third Class\nMera Blinkit aaya, tera ego hua mass\n\n[Verse 2: Ashneer Grover]\nOye, ye sab doglapan hai bhai\nTu delivery wala, main funding wala, samjha kya bhai\nTere paas red t-shirt, mere paas red flag ka stock\nSab bakwaas bolke main tod doon tera clock\nTip maangta hai tu, rating bhi maangta hai\nMain Grover hoon bhai, har round mein jeet maangta hai\n\n[End]",
+        "title": "Goyal Vs Grover",
+        "tags": "Desi hip-hop, Mumbai street boom-bap at 96 bpm, punchy head-nod groove; mono bass and clipped drum transients with a roomy, unprocessed sound; dhol and tabla hits over punchy drums and deep 808; two male Hindi rappers, first verse smooth cocky calm baritone delivered hushed and close-mic, second verse loud brash raspy aggressive; rap verses only, abrupt ending.",
+        "createTime": 1795465115303,
+        "duration": 47.04,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/eb503e37-0076-4b1a-9221-3646cd736c96.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/eb503e37-0076-4b1a-9221-3646cd736c96.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/eb503e37-0076-4b1a-9221-3646cd736c96.mp3",
+        "image_url": "https://musicfile.sunoapi.org/ZWI1MDNlMzctMDA3Ni00YjFhLTkyMjEtMzY0NmNkNzM2Yzk2.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_eb503e37-0076-4b1a-9221-3646cd736c96.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/eb503e37-0076-4b1a-9221-3646cd736c96.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/eb503e37-0076-4b1a-9221-3646cd736c96.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/eb503e37-0076-4b1a-9221-3646cd736c96.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/ZWI1MDNlMzctMDA3Ni00YjFhLTkyMjEtMzY0NmNkNzM2Yzk2.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_eb503e37-0076-4b1a-9221-3646cd736c96.jpeg",
+        "modelName": "chirp-hawk"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "type": "chirp-auk",
+  "operationType": "generate",
+  "errorCode": null,
+  "errorMessage": null,
+  "createTime": 1795465094000
+}

@@ -1,0 +1,2178 @@
+{
+  "schemaVersion": 1,
+  "slug": "obama_vs_trump",
+  "title": "OBAMA VS TRUMP",
+  "hashtag": "#COMMANDERINRHYME",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "audio": {
+    "src": "audio/battle.mp3",
+    "duration": 46.946,
+    "durationInFrames": 1498,
+    "bpm": 91,
+    "beats": [
+      0.171,
+      0.843,
+      1.493,
+      2.165,
+      2.827,
+      3.477,
+      4.117,
+      4.725,
+      5.429,
+      6.091,
+      6.741,
+      7.413,
+      8.085,
+      8.736,
+      9.387,
+      10.048,
+      10.709,
+      11.371,
+      12.021,
+      12.693,
+      13.344,
+      13.984,
+      14.656,
+      15.328,
+      15.979,
+      16.64,
+      17.301,
+      17.963,
+      18.517,
+      19.275,
+      19.947,
+      20.597,
+      21.259,
+      21.92,
+      22.709,
+      23.285,
+      23.925,
+      24.555,
+      25.195,
+      25.792,
+      26.485,
+      27.189,
+      27.861,
+      28.512,
+      29.109,
+      29.835,
+      30.539,
+      31.147,
+      31.808,
+      32.469,
+      33.12,
+      33.717,
+      34.368,
+      34.997,
+      35.755,
+      36.416,
+      36.949,
+      37.429,
+      38.08,
+      38.741,
+      39.403,
+      40.053
+    ],
+    "energy": [
+      {
+        "t": 0.0,
+        "v": 0.15
+      },
+      {
+        "t": 1.204,
+        "v": 0.418
+      },
+      {
+        "t": 2.407,
+        "v": 0.15
+      },
+      {
+        "t": 3.611,
+        "v": 0.379
+      },
+      {
+        "t": 4.815,
+        "v": 0.458
+      },
+      {
+        "t": 6.019,
+        "v": 0.26
+      },
+      {
+        "t": 7.222,
+        "v": 0.184
+      },
+      {
+        "t": 8.426,
+        "v": 1.0
+      },
+      {
+        "t": 9.63,
+        "v": 0.331
+      },
+      {
+        "t": 10.834,
+        "v": 0.425
+      },
+      {
+        "t": 12.037,
+        "v": 0.875
+      },
+      {
+        "t": 13.241,
+        "v": 0.79
+      },
+      {
+        "t": 14.445,
+        "v": 0.376
+      },
+      {
+        "t": 15.649,
+        "v": 0.289
+      },
+      {
+        "t": 16.852,
+        "v": 0.352
+      },
+      {
+        "t": 18.056,
+        "v": 0.41
+      },
+      {
+        "t": 19.26,
+        "v": 0.417
+      },
+      {
+        "t": 20.464,
+        "v": 0.295
+      },
+      {
+        "t": 21.667,
+        "v": 0.708
+      },
+      {
+        "t": 22.871,
+        "v": 0.263
+      },
+      {
+        "t": 24.075,
+        "v": 0.386
+      },
+      {
+        "t": 25.279,
+        "v": 0.734
+      },
+      {
+        "t": 26.482,
+        "v": 0.792
+      },
+      {
+        "t": 27.686,
+        "v": 0.394
+      },
+      {
+        "t": 28.89,
+        "v": 0.39
+      },
+      {
+        "t": 30.094,
+        "v": 0.353
+      },
+      {
+        "t": 31.297,
+        "v": 0.279
+      },
+      {
+        "t": 32.501,
+        "v": 0.58
+      },
+      {
+        "t": 33.705,
+        "v": 0.34
+      },
+      {
+        "t": 34.909,
+        "v": 0.245
+      },
+      {
+        "t": 36.112,
+        "v": 0.476
+      },
+      {
+        "t": 37.316,
+        "v": 0.231
+      },
+      {
+        "t": 38.52,
+        "v": 0.4
+      },
+      {
+        "t": 39.724,
+        "v": 0.341
+      },
+      {
+        "t": 40.927,
+        "v": 0.15
+      },
+      {
+        "t": 42.131,
+        "v": 0.15
+      },
+      {
+        "t": 43.335,
+        "v": 0.15
+      },
+      {
+        "t": 44.539,
+        "v": 0.15
+      },
+      {
+        "t": 45.742,
+        "v": 0.15
+      },
+      {
+        "t": 46.946,
+        "v": 0.15
+      }
+    ],
+    "mouth": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000022221112220022112112111211121222221001122222211222222212200211222000211112222122211122211121121200211211211222111112222222211122212210012022121111112111122222222211112211122221122112210002221111222222112222211122112212111222222211222112122212211222222221111122111122222222112122222221221222111211212211222121122200022222212211222211111122121112211222221222222212222111222221121111221122112222211222222222112221122112222111122212221121122222222001222112112111222100122211121122222212112222111111200122112211222111112222111221122211211211122221121121111222222122222122211121211111222221122222220022222221112222222221111122221222222222222211112222222222112112222222211221122222222221001222222100111222222211122122122222222211122211221212222211122211122222222221122112222212121112221211112221111222222221111221121121122222221112221122222222122112222212112112221100221111222222222112111222212001112211221122222112222222111112221111122212211121121111112222222112211112222121111122112221122222212222211112221111221121122221112222111221222222222112221111221222112211122222122222211122001221111111001111100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "intro": {
+    "start": 0.0,
+    "end": 3.5
+  },
+  "outro": {
+    "start": 45.796,
+    "end": 49.946
+  },
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "BARACK OBAMA",
+      "badge": "YES WE CAN",
+      "color": "#3B82F6",
+      "portrait": "assets/obama.svg",
+      "svg": "assets/obama.svg",
+      "talkSvg": "assets/obama-talk.svg",
+      "emblemSvg": "assets/obama-emblem.svg",
+      "mouthSvgs": [
+        "assets/obama-m0.svg",
+        "assets/obama-m1.svg",
+        "assets/obama-m2.svg"
+      ]
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "DONALD TRUMP",
+      "badge": "MAGA MOGUL",
+      "color": "#F59E0B",
+      "portrait": "assets/trump.svg",
+      "svg": "assets/trump.svg",
+      "talkSvg": "assets/trump-talk.svg",
+      "emblemSvg": "assets/gold-tower.svg",
+      "mouthSvgs": [
+        "assets/trump-m0.svg",
+        "assets/trump-m1.svg",
+        "assets/trump-m2.svg"
+      ]
+    }
+  },
+  "captions": [
+    {
+      "id": 0,
+      "speaker": "fighter1",
+      "start": 3.5,
+      "end": 6.433,
+      "text": "Let me be clear, I came here to drop the mic",
+      "words": [
+        {
+          "text": "Let",
+          "start": 3.5,
+          "end": 3.624
+        },
+        {
+          "text": "me",
+          "start": 3.704,
+          "end": 3.931
+        },
+        {
+          "text": "be",
+          "start": 4.011,
+          "end": 4.168
+        },
+        {
+          "text": "clear,",
+          "start": 4.241,
+          "end": 4.576
+        },
+        {
+          "text": "I",
+          "start": 4.617,
+          "end": 4.642
+        },
+        {
+          "text": "came",
+          "start": 4.731,
+          "end": 4.998
+        },
+        {
+          "text": "here",
+          "start": 5.074,
+          "end": 5.301
+        },
+        {
+          "text": "to",
+          "start": 5.338,
+          "end": 5.374
+        },
+        {
+          "text": "drop",
+          "start": 5.454,
+          "end": 5.746
+        },
+        {
+          "text": "the",
+          "start": 5.782,
+          "end": 5.853
+        },
+        {
+          "text": "mic",
+          "start": 5.937,
+          "end": 6.433
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 3.5,
+          "end": 4.576,
+          "words": [
+            {
+              "text": "Let",
+              "start": 3.5,
+              "end": 3.624
+            },
+            {
+              "text": "me",
+              "start": 3.704,
+              "end": 3.931
+            },
+            {
+              "text": "be",
+              "start": 4.011,
+              "end": 4.168
+            },
+            {
+              "text": "clear,",
+              "start": 4.241,
+              "end": 4.576
+            }
+          ]
+        },
+        {
+          "start": 4.617,
+          "end": 5.374,
+          "words": [
+            {
+              "text": "I",
+              "start": 4.617,
+              "end": 4.642
+            },
+            {
+              "text": "came",
+              "start": 4.731,
+              "end": 4.998
+            },
+            {
+              "text": "here",
+              "start": 5.074,
+              "end": 5.301
+            },
+            {
+              "text": "to",
+              "start": 5.338,
+              "end": 5.374
+            }
+          ]
+        },
+        {
+          "start": 5.454,
+          "end": 6.433,
+          "words": [
+            {
+              "text": "drop",
+              "start": 5.454,
+              "end": 5.746
+            },
+            {
+              "text": "the",
+              "start": 5.782,
+              "end": 5.853
+            },
+            {
+              "text": "mic",
+              "start": 5.937,
+              "end": 6.433
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "speaker": "fighter1",
+      "start": 6.513,
+      "end": 8.789,
+      "text": "Two terms, no scandals, now that's a clean strike",
+      "words": [
+        {
+          "text": "Two",
+          "start": 6.513,
+          "end": 6.711
+        },
+        {
+          "text": "terms,",
+          "start": 6.755,
+          "end": 7.053
+        },
+        {
+          "text": "no",
+          "start": 7.1,
+          "end": 7.146
+        },
+        {
+          "text": "scandals,",
+          "start": 7.208,
+          "end": 7.694
+        },
+        {
+          "text": "now",
+          "start": 7.729,
+          "end": 7.797
+        },
+        {
+          "text": "that's",
+          "start": 7.797,
+          "end": 7.991
+        },
+        {
+          "text": "a",
+          "start": 8.1,
+          "end": 8.1
+        },
+        {
+          "text": "clean",
+          "start": 8.154,
+          "end": 8.368
+        },
+        {
+          "text": "strike",
+          "start": 8.438,
+          "end": 8.789
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 6.513,
+          "end": 7.146,
+          "words": [
+            {
+              "text": "Two",
+              "start": 6.513,
+              "end": 6.711
+            },
+            {
+              "text": "terms,",
+              "start": 6.755,
+              "end": 7.053
+            },
+            {
+              "text": "no",
+              "start": 7.1,
+              "end": 7.146
+            }
+          ]
+        },
+        {
+          "start": 7.208,
+          "end": 7.991,
+          "words": [
+            {
+              "text": "scandals,",
+              "start": 7.208,
+              "end": 7.694
+            },
+            {
+              "text": "now",
+              "start": 7.729,
+              "end": 7.797
+            },
+            {
+              "text": "that's",
+              "start": 7.797,
+              "end": 7.991
+            }
+          ]
+        },
+        {
+          "start": 8.1,
+          "end": 8.789,
+          "words": [
+            {
+              "text": "a",
+              "start": 8.1,
+              "end": 8.1
+            },
+            {
+              "text": "clean",
+              "start": 8.154,
+              "end": 8.368
+            },
+            {
+              "text": "strike",
+              "start": 8.438,
+              "end": 8.789
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speaker": "fighter1",
+      "start": 8.855,
+      "end": 11.238,
+      "text": "Hope was my anthem, change was the plan",
+      "words": [
+        {
+          "text": "Hope",
+          "start": 8.855,
+          "end": 9.051
+        },
+        {
+          "text": "was",
+          "start": 9.084,
+          "end": 9.149
+        },
+        {
+          "text": "my",
+          "start": 9.235,
+          "end": 9.415
+        },
+        {
+          "text": "anthem,",
+          "start": 9.495,
+          "end": 10.129
+        },
+        {
+          "text": "change",
+          "start": 10.181,
+          "end": 10.445
+        },
+        {
+          "text": "was",
+          "start": 10.515,
+          "end": 10.656
+        },
+        {
+          "text": "the",
+          "start": 10.695,
+          "end": 10.773
+        },
+        {
+          "text": "plan",
+          "start": 10.853,
+          "end": 11.238
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 8.855,
+          "end": 9.415,
+          "words": [
+            {
+              "text": "Hope",
+              "start": 8.855,
+              "end": 9.051
+            },
+            {
+              "text": "was",
+              "start": 9.084,
+              "end": 9.149
+            },
+            {
+              "text": "my",
+              "start": 9.235,
+              "end": 9.415
+            }
+          ]
+        },
+        {
+          "start": 9.495,
+          "end": 10.656,
+          "words": [
+            {
+              "text": "anthem,",
+              "start": 9.495,
+              "end": 10.129
+            },
+            {
+              "text": "change",
+              "start": 10.181,
+              "end": 10.445
+            },
+            {
+              "text": "was",
+              "start": 10.515,
+              "end": 10.656
+            }
+          ]
+        },
+        {
+          "start": 10.695,
+          "end": 11.238,
+          "words": [
+            {
+              "text": "the",
+              "start": 10.695,
+              "end": 10.773
+            },
+            {
+              "text": "plan",
+              "start": 10.853,
+              "end": 11.238
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "speaker": "fighter1",
+      "start": 11.244,
+      "end": 13.721,
+      "text": "You're tweeting at midnight, I was leading the land",
+      "words": [
+        {
+          "text": "You're",
+          "start": 11.244,
+          "end": 11.429
+        },
+        {
+          "text": "tweeting",
+          "start": 11.502,
+          "end": 11.829
+        },
+        {
+          "text": "at",
+          "start": 11.877,
+          "end": 11.924
+        },
+        {
+          "text": "midnight,",
+          "start": 12.004,
+          "end": 12.522
+        },
+        {
+          "text": "I",
+          "start": 12.555,
+          "end": 12.555
+        },
+        {
+          "text": "was",
+          "start": 12.618,
+          "end": 12.744
+        },
+        {
+          "text": "leading",
+          "start": 12.795,
+          "end": 13.099
+        },
+        {
+          "text": "the",
+          "start": 13.132,
+          "end": 13.197
+        },
+        {
+          "text": "land",
+          "start": 13.277,
+          "end": 13.721
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 11.244,
+          "end": 11.924,
+          "words": [
+            {
+              "text": "You're",
+              "start": 11.244,
+              "end": 11.429
+            },
+            {
+              "text": "tweeting",
+              "start": 11.502,
+              "end": 11.829
+            },
+            {
+              "text": "at",
+              "start": 11.877,
+              "end": 11.924
+            }
+          ]
+        },
+        {
+          "start": 12.004,
+          "end": 12.744,
+          "words": [
+            {
+              "text": "midnight,",
+              "start": 12.004,
+              "end": 12.522
+            },
+            {
+              "text": "I",
+              "start": 12.555,
+              "end": 12.555
+            },
+            {
+              "text": "was",
+              "start": 12.618,
+              "end": 12.744
+            }
+          ]
+        },
+        {
+          "start": 12.795,
+          "end": 13.721,
+          "words": [
+            {
+              "text": "leading",
+              "start": 12.795,
+              "end": 13.099
+            },
+            {
+              "text": "the",
+              "start": 13.132,
+              "end": 13.197
+            },
+            {
+              "text": "land",
+              "start": 13.277,
+              "end": 13.721
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "speaker": "fighter1",
+      "start": 13.801,
+      "end": 16.369,
+      "text": "Nobel on my shelf, you got a golden toilet seat",
+      "words": [
+        {
+          "text": "Nobel",
+          "start": 13.801,
+          "end": 14.215
+        },
+        {
+          "text": "on",
+          "start": 14.265,
+          "end": 14.315
+        },
+        {
+          "text": "my",
+          "start": 14.384,
+          "end": 14.453
+        },
+        {
+          "text": "shelf,",
+          "start": 14.533,
+          "end": 14.938
+        },
+        {
+          "text": "you",
+          "start": 14.975,
+          "end": 15.049
+        },
+        {
+          "text": "got",
+          "start": 15.111,
+          "end": 15.234
+        },
+        {
+          "text": "a",
+          "start": 15.317,
+          "end": 15.333
+        },
+        {
+          "text": "golden",
+          "start": 15.381,
+          "end": 15.621
+        },
+        {
+          "text": "toilet",
+          "start": 15.706,
+          "end": 16.01
+        },
+        {
+          "text": "seat",
+          "start": 16.09,
+          "end": 16.369
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 13.801,
+          "end": 14.938,
+          "words": [
+            {
+              "text": "Nobel",
+              "start": 13.801,
+              "end": 14.215
+            },
+            {
+              "text": "on",
+              "start": 14.265,
+              "end": 14.315
+            },
+            {
+              "text": "my",
+              "start": 14.384,
+              "end": 14.453
+            },
+            {
+              "text": "shelf,",
+              "start": 14.533,
+              "end": 14.938
+            }
+          ]
+        },
+        {
+          "start": 14.975,
+          "end": 15.621,
+          "words": [
+            {
+              "text": "you",
+              "start": 14.975,
+              "end": 15.049
+            },
+            {
+              "text": "got",
+              "start": 15.111,
+              "end": 15.234
+            },
+            {
+              "text": "a",
+              "start": 15.317,
+              "end": 15.333
+            },
+            {
+              "text": "golden",
+              "start": 15.381,
+              "end": 15.621
+            }
+          ]
+        },
+        {
+          "start": 15.706,
+          "end": 16.369,
+          "words": [
+            {
+              "text": "toilet",
+              "start": 15.706,
+              "end": 16.01
+            },
+            {
+              "text": "seat",
+              "start": 16.09,
+              "end": 16.369
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "speaker": "fighter1",
+      "start": 16.422,
+      "end": 18.94,
+      "text": "Healthcare for the nation while you golfed every week",
+      "words": [
+        {
+          "text": "Healthcare",
+          "start": 16.422,
+          "end": 16.964
+        },
+        {
+          "text": "for",
+          "start": 17.024,
+          "end": 17.143
+        },
+        {
+          "text": "the",
+          "start": 17.168,
+          "end": 17.218
+        },
+        {
+          "text": "nation",
+          "start": 17.287,
+          "end": 17.633
+        },
+        {
+          "text": "while",
+          "start": 17.672,
+          "end": 17.827
+        },
+        {
+          "text": "you",
+          "start": 17.891,
+          "end": 18.02
+        },
+        {
+          "text": "golfed",
+          "start": 18.035,
+          "end": 18.333
+        },
+        {
+          "text": "every",
+          "start": 18.407,
+          "end": 18.702
+        },
+        {
+          "text": "week",
+          "start": 18.761,
+          "end": 18.94
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 16.422,
+          "end": 17.218,
+          "words": [
+            {
+              "text": "Healthcare",
+              "start": 16.422,
+              "end": 16.964
+            },
+            {
+              "text": "for",
+              "start": 17.024,
+              "end": 17.143
+            },
+            {
+              "text": "the",
+              "start": 17.168,
+              "end": 17.218
+            }
+          ]
+        },
+        {
+          "start": 17.287,
+          "end": 18.02,
+          "words": [
+            {
+              "text": "nation",
+              "start": 17.287,
+              "end": 17.633
+            },
+            {
+              "text": "while",
+              "start": 17.672,
+              "end": 17.827
+            },
+            {
+              "text": "you",
+              "start": 17.891,
+              "end": 18.02
+            }
+          ]
+        },
+        {
+          "start": 18.035,
+          "end": 18.94,
+          "words": [
+            {
+              "text": "golfed",
+              "start": 18.035,
+              "end": 18.333
+            },
+            {
+              "text": "every",
+              "start": 18.407,
+              "end": 18.702
+            },
+            {
+              "text": "week",
+              "start": 18.761,
+              "end": 18.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "speaker": "fighter1",
+      "start": 19.02,
+      "end": 21.628,
+      "text": "Cool, calm, collected, that's presidential grace",
+      "words": [
+        {
+          "text": "Cool,",
+          "start": 19.02,
+          "end": 19.403
+        },
+        {
+          "text": "calm,",
+          "start": 19.456,
+          "end": 19.678
+        },
+        {
+          "text": "collected,",
+          "start": 19.741,
+          "end": 20.319
+        },
+        {
+          "text": "that's",
+          "start": 20.32,
+          "end": 20.643
+        },
+        {
+          "text": "presidential",
+          "start": 20.709,
+          "end": 21.315
+        },
+        {
+          "text": "grace",
+          "start": 21.378,
+          "end": 21.628
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 19.02,
+          "end": 20.319,
+          "words": [
+            {
+              "text": "Cool,",
+              "start": 19.02,
+              "end": 19.403
+            },
+            {
+              "text": "calm,",
+              "start": 19.456,
+              "end": 19.678
+            },
+            {
+              "text": "collected,",
+              "start": 19.741,
+              "end": 20.319
+            }
+          ]
+        },
+        {
+          "start": 20.32,
+          "end": 21.628,
+          "words": [
+            {
+              "text": "that's",
+              "start": 20.32,
+              "end": 20.643
+            },
+            {
+              "text": "presidential",
+              "start": 20.709,
+              "end": 21.315
+            },
+            {
+              "text": "grace",
+              "start": 21.378,
+              "end": 21.628
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "speaker": "fighter1",
+      "start": 21.693,
+      "end": 24.33,
+      "text": "Yes we can, yes we did, now get up out my face",
+      "words": [
+        {
+          "text": "Yes",
+          "start": 21.693,
+          "end": 21.824
+        },
+        {
+          "text": "we",
+          "start": 21.904,
+          "end": 21.992
+        },
+        {
+          "text": "can,",
+          "start": 22.072,
+          "end": 22.299
+        },
+        {
+          "text": "yes",
+          "start": 22.359,
+          "end": 22.479
+        },
+        {
+          "text": "we",
+          "start": 22.559,
+          "end": 22.724
+        },
+        {
+          "text": "did,",
+          "start": 22.804,
+          "end": 23.044
+        },
+        {
+          "text": "now",
+          "start": 23.104,
+          "end": 23.264
+        },
+        {
+          "text": "get",
+          "start": 23.321,
+          "end": 23.435
+        },
+        {
+          "text": "up",
+          "start": 23.515,
+          "end": 23.597
+        },
+        {
+          "text": "out",
+          "start": 23.646,
+          "end": 23.744
+        },
+        {
+          "text": "my",
+          "start": 23.824,
+          "end": 23.909
+        },
+        {
+          "text": "face",
+          "start": 23.989,
+          "end": 24.33
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 21.693,
+          "end": 22.479,
+          "words": [
+            {
+              "text": "Yes",
+              "start": 21.693,
+              "end": 21.824
+            },
+            {
+              "text": "we",
+              "start": 21.904,
+              "end": 21.992
+            },
+            {
+              "text": "can,",
+              "start": 22.072,
+              "end": 22.299
+            },
+            {
+              "text": "yes",
+              "start": 22.359,
+              "end": 22.479
+            }
+          ]
+        },
+        {
+          "start": 22.559,
+          "end": 23.435,
+          "words": [
+            {
+              "text": "we",
+              "start": 22.559,
+              "end": 22.724
+            },
+            {
+              "text": "did,",
+              "start": 22.804,
+              "end": 23.044
+            },
+            {
+              "text": "now",
+              "start": 23.104,
+              "end": 23.264
+            },
+            {
+              "text": "get",
+              "start": 23.321,
+              "end": 23.435
+            }
+          ]
+        },
+        {
+          "start": 23.515,
+          "end": 24.33,
+          "words": [
+            {
+              "text": "up",
+              "start": 23.515,
+              "end": 23.597
+            },
+            {
+              "text": "out",
+              "start": 23.646,
+              "end": 23.744
+            },
+            {
+              "text": "my",
+              "start": 23.824,
+              "end": 23.909
+            },
+            {
+              "text": "face",
+              "start": 23.989,
+              "end": 24.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "speaker": "fighter2",
+      "start": 24.344,
+      "end": 27.562,
+      "text": "Wrong, totally wrong, Barack, sad little act",
+      "words": [
+        {
+          "text": "Wrong,",
+          "start": 24.344,
+          "end": 24.833
+        },
+        {
+          "text": "totally",
+          "start": 24.904,
+          "end": 25.272
+        },
+        {
+          "text": "wrong,",
+          "start": 25.352,
+          "end": 25.82
+        },
+        {
+          "text": "Barack,",
+          "start": 25.844,
+          "end": 26.535
+        },
+        {
+          "text": "sad",
+          "start": 26.621,
+          "end": 26.918
+        },
+        {
+          "text": "little",
+          "start": 26.98,
+          "end": 27.292
+        },
+        {
+          "text": "act",
+          "start": 27.372,
+          "end": 27.562
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 24.344,
+          "end": 25.82,
+          "words": [
+            {
+              "text": "Wrong,",
+              "start": 24.344,
+              "end": 24.833
+            },
+            {
+              "text": "totally",
+              "start": 24.904,
+              "end": 25.272
+            },
+            {
+              "text": "wrong,",
+              "start": 25.352,
+              "end": 25.82
+            }
+          ]
+        },
+        {
+          "start": 25.844,
+          "end": 27.292,
+          "words": [
+            {
+              "text": "Barack,",
+              "start": 25.844,
+              "end": 26.535
+            },
+            {
+              "text": "sad",
+              "start": 26.621,
+              "end": 26.918
+            },
+            {
+              "text": "little",
+              "start": 26.98,
+              "end": 27.292
+            }
+          ]
+        },
+        {
+          "start": 27.372,
+          "end": 27.562,
+          "words": [
+            {
+              "text": "act",
+              "start": 27.372,
+              "end": 27.562
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "speaker": "fighter2",
+      "start": 27.63,
+      "end": 30.169,
+      "text": "I'm the comeback king, everybody knows that's fact",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 27.63,
+          "end": 27.797
+        },
+        {
+          "text": "the",
+          "start": 27.847,
+          "end": 27.946
+        },
+        {
+          "text": "comeback",
+          "start": 27.984,
+          "end": 28.38
+        },
+        {
+          "text": "king,",
+          "start": 28.438,
+          "end": 28.669
+        },
+        {
+          "text": "everybody",
+          "start": 28.726,
+          "end": 29.186
+        },
+        {
+          "text": "knows",
+          "start": 29.266,
+          "end": 29.603
+        },
+        {
+          "text": "that's",
+          "start": 29.605,
+          "end": 29.839
+        },
+        {
+          "text": "fact",
+          "start": 29.919,
+          "end": 30.169
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 27.63,
+          "end": 28.38,
+          "words": [
+            {
+              "text": "I'm",
+              "start": 27.63,
+              "end": 27.797
+            },
+            {
+              "text": "the",
+              "start": 27.847,
+              "end": 27.946
+            },
+            {
+              "text": "comeback",
+              "start": 27.984,
+              "end": 28.38
+            }
+          ]
+        },
+        {
+          "start": 28.438,
+          "end": 29.603,
+          "words": [
+            {
+              "text": "king,",
+              "start": 28.438,
+              "end": 28.669
+            },
+            {
+              "text": "everybody",
+              "start": 28.726,
+              "end": 29.186
+            },
+            {
+              "text": "knows",
+              "start": 29.266,
+              "end": 29.603
+            }
+          ]
+        },
+        {
+          "start": 29.605,
+          "end": 30.169,
+          "words": [
+            {
+              "text": "that's",
+              "start": 29.605,
+              "end": 29.839
+            },
+            {
+              "text": "fact",
+              "start": 29.919,
+              "end": 30.169
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "speaker": "fighter2",
+      "start": 30.212,
+      "end": 32.68,
+      "text": "Biggest crowds ever, nobody's seen such love",
+      "words": [
+        {
+          "text": "Biggest",
+          "start": 30.212,
+          "end": 30.471
+        },
+        {
+          "text": "crowds",
+          "start": 30.559,
+          "end": 30.889
+        },
+        {
+          "text": "ever,",
+          "start": 30.969,
+          "end": 31.343
+        },
+        {
+          "text": "nobody's",
+          "start": 31.392,
+          "end": 31.772
+        },
+        {
+          "text": "seen",
+          "start": 31.831,
+          "end": 32.008
+        },
+        {
+          "text": "such",
+          "start": 32.084,
+          "end": 32.313
+        },
+        {
+          "text": "love",
+          "start": 32.393,
+          "end": 32.68
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 30.212,
+          "end": 31.343,
+          "words": [
+            {
+              "text": "Biggest",
+              "start": 30.212,
+              "end": 30.471
+            },
+            {
+              "text": "crowds",
+              "start": 30.559,
+              "end": 30.889
+            },
+            {
+              "text": "ever,",
+              "start": 30.969,
+              "end": 31.343
+            }
+          ]
+        },
+        {
+          "start": 31.392,
+          "end": 32.313,
+          "words": [
+            {
+              "text": "nobody's",
+              "start": 31.392,
+              "end": 31.772
+            },
+            {
+              "text": "seen",
+              "start": 31.831,
+              "end": 32.008
+            },
+            {
+              "text": "such",
+              "start": 32.084,
+              "end": 32.313
+            }
+          ]
+        },
+        {
+          "start": 32.393,
+          "end": 32.68,
+          "words": [
+            {
+              "text": "love",
+              "start": 32.393,
+              "end": 32.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "speaker": "fighter2",
+      "start": 32.738,
+      "end": 35.423,
+      "text": "You read a teleprompter, I freestyle from above",
+      "words": [
+        {
+          "text": "You",
+          "start": 32.738,
+          "end": 32.855
+        },
+        {
+          "text": "read",
+          "start": 32.894,
+          "end": 33.01
+        },
+        {
+          "text": "a",
+          "start": 33.097,
+          "end": 33.159
+        },
+        {
+          "text": "teleprompter,",
+          "start": 33.231,
+          "end": 33.903
+        },
+        {
+          "text": "I",
+          "start": 33.943,
+          "end": 33.982
+        },
+        {
+          "text": "freestyle",
+          "start": 34.074,
+          "end": 34.58
+        },
+        {
+          "text": "from",
+          "start": 34.646,
+          "end": 34.844
+        },
+        {
+          "text": "above",
+          "start": 34.924,
+          "end": 35.423
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 32.738,
+          "end": 33.159,
+          "words": [
+            {
+              "text": "You",
+              "start": 32.738,
+              "end": 32.855
+            },
+            {
+              "text": "read",
+              "start": 32.894,
+              "end": 33.01
+            },
+            {
+              "text": "a",
+              "start": 33.097,
+              "end": 33.159
+            }
+          ]
+        },
+        {
+          "start": 33.231,
+          "end": 34.58,
+          "words": [
+            {
+              "text": "teleprompter,",
+              "start": 33.231,
+              "end": 33.903
+            },
+            {
+              "text": "I",
+              "start": 33.943,
+              "end": 33.982
+            },
+            {
+              "text": "freestyle",
+              "start": 34.074,
+              "end": 34.58
+            }
+          ]
+        },
+        {
+          "start": 34.646,
+          "end": 35.423,
+          "words": [
+            {
+              "text": "from",
+              "start": 34.646,
+              "end": 34.844
+            },
+            {
+              "text": "above",
+              "start": 34.924,
+              "end": 35.423
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "speaker": "fighter2",
+      "start": 35.503,
+      "end": 37.952,
+      "text": "Tariffs on your rhymes, they're weak, they're low energy",
+      "words": [
+        {
+          "text": "Tariffs",
+          "start": 35.503,
+          "end": 35.85
+        },
+        {
+          "text": "on",
+          "start": 35.927,
+          "end": 36.004
+        },
+        {
+          "text": "your",
+          "start": 36.041,
+          "end": 36.153
+        },
+        {
+          "text": "rhymes,",
+          "start": 36.21,
+          "end": 36.51
+        },
+        {
+          "text": "they're",
+          "start": 36.525,
+          "end": 36.681
+        },
+        {
+          "text": "weak,",
+          "start": 36.752,
+          "end": 36.977
+        },
+        {
+          "text": "they're",
+          "start": 36.988,
+          "end": 37.12
+        },
+        {
+          "text": "low",
+          "start": 37.2,
+          "end": 37.393
+        },
+        {
+          "text": "energy",
+          "start": 37.473,
+          "end": 37.952
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 35.503,
+          "end": 36.153,
+          "words": [
+            {
+              "text": "Tariffs",
+              "start": 35.503,
+              "end": 35.85
+            },
+            {
+              "text": "on",
+              "start": 35.927,
+              "end": 36.004
+            },
+            {
+              "text": "your",
+              "start": 36.041,
+              "end": 36.153
+            }
+          ]
+        },
+        {
+          "start": 36.21,
+          "end": 36.977,
+          "words": [
+            {
+              "text": "rhymes,",
+              "start": 36.21,
+              "end": 36.51
+            },
+            {
+              "text": "they're",
+              "start": 36.525,
+              "end": 36.681
+            },
+            {
+              "text": "weak,",
+              "start": 36.752,
+              "end": 36.977
+            }
+          ]
+        },
+        {
+          "start": 36.988,
+          "end": 37.952,
+          "words": [
+            {
+              "text": "they're",
+              "start": 36.988,
+              "end": 37.12
+            },
+            {
+              "text": "low",
+              "start": 37.2,
+              "end": 37.393
+            },
+            {
+              "text": "energy",
+              "start": 37.473,
+              "end": 37.952
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "speaker": "fighter2",
+      "start": 38.032,
+      "end": 40.503,
+      "text": "I built a hundred towers, you just built a library",
+      "words": [
+        {
+          "text": "I",
+          "start": 38.032,
+          "end": 38.132
+        },
+        {
+          "text": "built",
+          "start": 38.168,
+          "end": 38.31
+        },
+        {
+          "text": "a",
+          "start": 38.39,
+          "end": 38.41
+        },
+        {
+          "text": "hundred",
+          "start": 38.459,
+          "end": 38.756
+        },
+        {
+          "text": "towers,",
+          "start": 38.813,
+          "end": 39.137
+        },
+        {
+          "text": "you",
+          "start": 39.173,
+          "end": 39.247
+        },
+        {
+          "text": "just",
+          "start": 39.294,
+          "end": 39.437
+        },
+        {
+          "text": "built",
+          "start": 39.487,
+          "end": 39.685
+        },
+        {
+          "text": "a",
+          "start": 39.765,
+          "end": 39.827
+        },
+        {
+          "text": "library",
+          "start": 39.919,
+          "end": 40.503
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 38.032,
+          "end": 38.756,
+          "words": [
+            {
+              "text": "I",
+              "start": 38.032,
+              "end": 38.132
+            },
+            {
+              "text": "built",
+              "start": 38.168,
+              "end": 38.31
+            },
+            {
+              "text": "a",
+              "start": 38.39,
+              "end": 38.41
+            },
+            {
+              "text": "hundred",
+              "start": 38.459,
+              "end": 38.756
+            }
+          ]
+        },
+        {
+          "start": 38.813,
+          "end": 39.685,
+          "words": [
+            {
+              "text": "towers,",
+              "start": 38.813,
+              "end": 39.137
+            },
+            {
+              "text": "you",
+              "start": 39.173,
+              "end": 39.247
+            },
+            {
+              "text": "just",
+              "start": 39.294,
+              "end": 39.437
+            },
+            {
+              "text": "built",
+              "start": 39.487,
+              "end": 39.685
+            }
+          ]
+        },
+        {
+          "start": 39.765,
+          "end": 40.503,
+          "words": [
+            {
+              "text": "a",
+              "start": 39.765,
+              "end": 39.827
+            },
+            {
+              "text": "library",
+              "start": 39.919,
+              "end": 40.503
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "speaker": "fighter2",
+      "start": 40.558,
+      "end": 43.189,
+      "text": "Tremendous flow, believe me, best you've ever heard",
+      "words": [
+        {
+          "text": "Tremendous",
+          "start": 40.558,
+          "end": 41.017
+        },
+        {
+          "text": "flow,",
+          "start": 41.097,
+          "end": 41.385
+        },
+        {
+          "text": "believe",
+          "start": 41.417,
+          "end": 41.608
+        },
+        {
+          "text": "me,",
+          "start": 41.7,
+          "end": 42.022
+        },
+        {
+          "text": "best",
+          "start": 42.068,
+          "end": 42.204
+        },
+        {
+          "text": "you've",
+          "start": 42.227,
+          "end": 42.43
+        },
+        {
+          "text": "ever",
+          "start": 42.492,
+          "end": 42.679
+        },
+        {
+          "text": "heard",
+          "start": 42.759,
+          "end": 43.189
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 40.558,
+          "end": 41.608,
+          "words": [
+            {
+              "text": "Tremendous",
+              "start": 40.558,
+              "end": 41.017
+            },
+            {
+              "text": "flow,",
+              "start": 41.097,
+              "end": 41.385
+            },
+            {
+              "text": "believe",
+              "start": 41.417,
+              "end": 41.608
+            }
+          ]
+        },
+        {
+          "start": 41.7,
+          "end": 42.43,
+          "words": [
+            {
+              "text": "me,",
+              "start": 41.7,
+              "end": 42.022
+            },
+            {
+              "text": "best",
+              "start": 42.068,
+              "end": 42.204
+            },
+            {
+              "text": "you've",
+              "start": 42.227,
+              "end": 42.43
+            }
+          ]
+        },
+        {
+          "start": 42.492,
+          "end": 43.189,
+          "words": [
+            {
+              "text": "ever",
+              "start": 42.492,
+              "end": 42.679
+            },
+            {
+              "text": "heard",
+              "start": 42.759,
+              "end": 43.189
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "speaker": "fighter2",
+      "start": 43.264,
+      "end": 45.446,
+      "text": "You had hope and change, but I get the final word",
+      "words": [
+        {
+          "text": "You",
+          "start": 43.264,
+          "end": 43.415
+        },
+        {
+          "text": "had",
+          "start": 43.474,
+          "end": 43.592
+        },
+        {
+          "text": "hope",
+          "start": 43.672,
+          "end": 43.915
+        },
+        {
+          "text": "and",
+          "start": 43.933,
+          "end": 43.97
+        },
+        {
+          "text": "change,",
+          "start": 44.043,
+          "end": 44.444
+        },
+        {
+          "text": "but",
+          "start": 44.48,
+          "end": 44.549
+        },
+        {
+          "text": "I",
+          "start": 44.629,
+          "end": 44.721
+        },
+        {
+          "text": "get",
+          "start": 44.771,
+          "end": 44.87
+        },
+        {
+          "text": "the",
+          "start": 44.893,
+          "end": 44.938
+        },
+        {
+          "text": "final",
+          "start": 45.018,
+          "end": 45.355
+        },
+        {
+          "text": "word",
+          "start": 45.378,
+          "end": 45.446
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 43.264,
+          "end": 43.97,
+          "words": [
+            {
+              "text": "You",
+              "start": 43.264,
+              "end": 43.415
+            },
+            {
+              "text": "had",
+              "start": 43.474,
+              "end": 43.592
+            },
+            {
+              "text": "hope",
+              "start": 43.672,
+              "end": 43.915
+            },
+            {
+              "text": "and",
+              "start": 43.933,
+              "end": 43.97
+            }
+          ]
+        },
+        {
+          "start": 44.043,
+          "end": 44.87,
+          "words": [
+            {
+              "text": "change,",
+              "start": 44.043,
+              "end": 44.444
+            },
+            {
+              "text": "but",
+              "start": 44.48,
+              "end": 44.549
+            },
+            {
+              "text": "I",
+              "start": 44.629,
+              "end": 44.721
+            },
+            {
+              "text": "get",
+              "start": 44.771,
+              "end": 44.87
+            }
+          ]
+        },
+        {
+          "start": 44.893,
+          "end": 45.446,
+          "words": [
+            {
+              "text": "the",
+              "start": 44.893,
+              "end": 44.938
+            },
+            {
+              "text": "final",
+              "start": 45.018,
+              "end": 45.355
+            },
+            {
+              "text": "word",
+              "start": 45.378,
+              "end": 45.446
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

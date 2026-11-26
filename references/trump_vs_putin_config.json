@@ -1,0 +1,119 @@
+{
+  "slug": "trump_vs_putin",
+  "title": "TRUMP VS PUTIN",
+  "hashtag": "#COLDWAR2",
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "DONALD TRUMP",
+      "badge": "MAGA MOGUL",
+      "color": "#F59E0B",
+      "portrait": "assets/trump.svg",
+      "svg": "assets/trump.svg",
+      "talkSvg": "assets/trump-talk.svg",
+      "emblemSvg": "assets/gold-tower.svg",
+      "mouthSvgs": [
+        "assets/trump-m0.svg",
+        "assets/trump-m1.svg",
+        "assets/trump-m2.svg"
+      ]
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "VLADIMIR PUTIN",
+      "badge": "THE KREMLIN",
+      "color": "#DC2626",
+      "portrait": "assets/putin.svg",
+      "svg": "assets/putin.svg",
+      "talkSvg": "assets/putin-talk.svg",
+      "emblemSvg": "assets/obama-emblem.svg",
+      "mouthSvgs": [
+        "assets/putin-m0.svg",
+        "assets/putin-m1.svg",
+        "assets/putin-m2.svg"
+      ]
+    }
+  },
+  "lines": [
+    {
+      "speaker": "fighter1",
+      "text": "Vladimir, listen, I'll keep it plain and clear,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Twenty years in power, and you're still scared of a year?",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You hug a tiger, ride a bear, shirtless on a steed,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "I do it all in a suit, and I'm the one they need.",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Black belt in judo? Your opponents all fell,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Nobody throws the boss, that's the story they tell.",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You're a desk-job spy from Dresden, small man, big chair,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "I wrote the Art of the Deal. You wrote the Art of the scare.",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Donald, your hair has its own zip code,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "It's losing to the wind on every road.",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Golden toilets in a tower, orange from the tan,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Fired on TV twice, and you still call it a plan.",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You tweet at three AM about enemies near,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "I sleep like a bear, and my enemies fear.",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Your name's on a steak and a vodka, both gone,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "My name's on a whole country. Do svidaniya. I won.",
+      "punchline": true
+    }
+  ]
+}

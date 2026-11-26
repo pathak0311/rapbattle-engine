@@ -1,0 +1,119 @@
+{
+  "slug": "obama_vs_trump",
+  "title": "OBAMA VS TRUMP",
+  "hashtag": "#COMMANDERINRHYME",
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "BARACK OBAMA",
+      "badge": "YES WE CAN",
+      "color": "#3B82F6",
+      "portrait": "assets/obama.svg",
+      "svg": "assets/obama.svg",
+      "talkSvg": "assets/obama-talk.svg",
+      "emblemSvg": "assets/obama-emblem.svg",
+      "mouthSvgs": [
+        "assets/obama-m0.svg",
+        "assets/obama-m1.svg",
+        "assets/obama-m2.svg"
+      ]
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "DONALD TRUMP",
+      "badge": "MAGA MOGUL",
+      "color": "#F59E0B",
+      "portrait": "assets/trump.svg",
+      "svg": "assets/trump.svg",
+      "talkSvg": "assets/trump-talk.svg",
+      "emblemSvg": "assets/gold-tower.svg",
+      "mouthSvgs": [
+        "assets/trump-m0.svg",
+        "assets/trump-m1.svg",
+        "assets/trump-m2.svg"
+      ]
+    }
+  },
+  "lines": [
+    {
+      "speaker": "fighter1",
+      "text": "Let me be clear, I came here to drop the mic",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Two terms, no scandals, now that's a clean strike",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Hope was my anthem, change was the plan",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You're tweeting at midnight, I was leading the land",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Nobel on my shelf, you got a golden toilet seat",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Healthcare for the nation while you golfed every week",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Cool, calm, collected, that's presidential grace",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Yes we can, yes we did, now get up out my face",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Wrong, totally wrong, Barack, sad little act",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "I'm the comeback king, everybody knows that's fact",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Biggest crowds ever, nobody's seen such love",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You read a teleprompter, I freestyle from above",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Tariffs on your rhymes, they're weak, they're low energy",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "I built a hundred towers, you just built a library",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Tremendous flow, believe me, best you've ever heard",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You had hope and change, but I get the final word",
+      "punchline": true
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img">
+  <title>Don Pizza - Streetwear Pepperoni Pizza Slice Rapper with Mic</title>
+  <defs>
+    <linearGradient id="pizza-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#220507"/>
+      <stop offset="50%" stop-color="#450A0A"/>
+      <stop offset="100%" stop-color="#090203"/>
+    </linearGradient>
+    <linearGradient id="pizza-crust" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="50%" stop-color="#D97706"/>
+      <stop offset="100%" stop-color="#92400E"/>
+    </linearGradient>
+    <linearGradient id="pizza-cheese" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#FEF08A"/>
+      <stop offset="55%" stop-color="#FACC15"/>
+      <stop offset="100%" stop-color="#EAB308"/>
+    </linearGradient>
+    <linearGradient id="pizza-jacket" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#DC2626"/>
+      <stop offset="60%" stop-color="#991B1B"/>
+      <stop offset="100%" stop-color="#450A0A"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="760" fill="url(#pizza-bg)"/>
+  <g stroke="#EF4444" stroke-opacity="0.18" stroke-width="2">
+    <line x1="0" y1="120" x2="600" y2="120"/><line x1="0" y1="240" x2="600" y2="240"/><line x1="0" y1="360" x2="600" y2="360"/><line x1="0" y1="480" x2="600" y2="480"/>
+    <line x1="150" y1="0" x2="150" y2="760"/><line x1="300" y1="0" x2="300" y2="760"/><line x1="450" y1="0" x2="450" y2="760"/>
+  </g>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="#EF4444" stroke-width="4" stroke-opacity="0.35"/>
+
+  <!-- Red & Green Italian Streetwear Track Jacket Torso -->
+  <path d="M58 760V646c0-130 88-206 214-218h56c126 12 214 88 214 218v114" fill="url(#pizza-jacket)" stroke="#06080E" stroke-width="12"/>
+  <path d="M120 480l-30 280M480 480l30 280" stroke="#16A34A" stroke-width="18"/>
+  <path d="M136 475l-30 285M464 475l30 285" stroke="#FFFFFF" stroke-width="8"/>
+  <!-- Heavy Gold Chain -->
+  <path d="M210 475q90 95 180 0" fill="none" stroke="#FACC15" stroke-width="22" stroke-linecap="round"/>
+  <path d="M210 475q90 95 180 0" fill="none" stroke="#06080E" stroke-width="22" stroke-dasharray="12 16" stroke-linecap="round" opacity="0.35"/>
+
+  <!-- Pizza Slice Triangular Head (Pointing down to chin at y=495) -->
+  <!-- Golden Stuffed Crust Top Rim -->
+  <path d="M105 140c65-55 325-55 390 0 24 20 8 68-25 62-110-28-230-28-340 0-33 6-49-42-25-62z" fill="url(#pizza-crust)" stroke="#06080E" stroke-width="11" stroke-linejoin="round"/>
+  <!-- Marinara Sauce Trim under crust -->
+  <path d="M128 184q172-36 344 0l-18 40q-154-26-308 0z" fill="#B91C1C" stroke="#06080E" stroke-width="8"/>
+  <!-- Melted Cheese Slice Face -->
+  <path d="M132 186q168-30 336 0L348 470c-18 36-78 36-96 0z" fill="url(#pizza-cheese)" stroke="#06080E" stroke-width="11" stroke-linejoin="round"/>
+  <!-- Cheese Drips on sides -->
+  <path d="M150 245q-18 35-8 55 12 18 22-12M450 255q18 40 6 60-12 18-22-14" fill="url(#pizza-cheese)" stroke="#06080E" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- Pepperoni Slices on Forehead & Cheeks -->
+  <circle cx="220" cy="215" r="28" fill="#DC2626" stroke="#7F1D1D" stroke-width="7"/>
+  <circle cx="212" cy="208" r="4" fill="#FCA5A5"/><circle cx="228" cy="222" r="3" fill="#FCA5A5"/>
+  <circle cx="305" cy="200" r="26" fill="#DC2626" stroke="#7F1D1D" stroke-width="7"/>
+  <circle cx="300" cy="194" r="4" fill="#FCA5A5"/><circle cx="314" cy="205" r="3" fill="#FCA5A5"/>
+  <circle cx="385" cy="218" r="28" fill="#DC2626" stroke="#7F1D1D" stroke-width="7"/>
+  <circle cx="378" cy="212" r="4" fill="#FCA5A5"/><circle cx="392" cy="224" r="3" fill="#FCA5A5"/>
+  <circle cx="205" cy="355" r="22" fill="#DC2626" stroke="#7F1D1D" stroke-width="6"/>
+  <circle cx="395" cy="355" r="22" fill="#DC2626" stroke="#7F1D1D" stroke-width="6"/>
+  <!-- Basil Leaf Accent -->
+  <path d="M255 225q18-18 36 0-18 18-36 0z" fill="#16A34A" stroke="#06080E" stroke-width="5"/>
+
+  <!-- Fierce Rap Battle Eyes & Eyebrows -->
+  <path d="M196 266l86 18M404 266l-86 18" stroke="#450A0A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M210 302q32-20 64 0-32 22-64 0zM326 302q32-20 64 0-32 22-64 0z" fill="#FFFFFF" stroke="#06080E" stroke-width="7"/>
+  <circle cx="244" cy="302" r="10" fill="#111827"/>
+  <circle cx="356" cy="302" r="10" fill="#111827"/>
+  <circle cx="241" cy="299" r="3" fill="#FFFFFF"/>
+  <circle cx="353" cy="299" r="3" fill="#FFFFFF"/>
+
+  <g id="mouth"><ellipse cx="300" cy="424" rx="34" ry="26" fill="#3A0606" stroke="#7F1D1D" stroke-width="9"/><path d="M276 406h48v10h-48z" fill="#FFFFFF"/><path d="M280 436q20-12 40 0-20 16-40 0z" fill="#F87171"/></g>
+
+  <!-- Arm + hand gripping mic (aimed at mouth) -->
+  <path d="M40 760l70-150q22-30 56-26l44 40-52 136z" fill="#991B1B" stroke="#06080E" stroke-width="10" stroke-linejoin="round"/>
+  <g transform="translate(236 480) rotate(45)">
+    <rect x="-15" y="26" width="30" height="150" rx="14" fill="#475569" stroke="#06080E" stroke-width="8"/>
+    <rect x="-17" y="30" width="34" height="14" rx="5" fill="#EF4444" stroke="#06080E" stroke-width="5"/>
+    <ellipse cx="0" cy="0" rx="31" ry="38" fill="#1E293B" stroke="#EF4444" stroke-width="8"/>
+    <path d="M-20 -14h40M-24 0h48M-20 14h40M-8 -30v58M8 -30v58" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+    <rect x="-27" y="78" width="54" height="56" rx="22" fill="#FACC15" stroke="#06080E" stroke-width="8"/>
+    <path d="M-27 92h54M-27 108h54M-27 122h50" stroke="#06080E" stroke-width="4" opacity="0.55"/>
+  </g>
+</svg>

@@ -1,0 +1,120 @@
+{
+  "slug": "pizza_vs_burger",
+  "title": "PIZZA VS BURGER",
+  "hashtag": "#FASTFOODWARS",
+  "sunoStyle": "epic hard-hitting boom-bap trap rap battle, 94 bpm, punchy drums, booming 808 bass, brass stabs, two male rappers, verse 1 swaggering smooth Italian-New-York style male rapper, verse 2 heavy booming gravelly backyard-grill male rapper, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro",
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "DON PIZZA",
+      "badge": "SLICE SUPREME",
+      "color": "#EF4444",
+      "svg": "assets/pizza-m0.svg",
+      "portrait": "assets/pizza-m0.svg",
+      "talkSvg": "assets/pizza-m2.svg",
+      "emblemSvg": "assets/pizza-emblem.svg",
+      "mouthSvgs": [
+        "assets/pizza-m0.svg",
+        "assets/pizza-m1.svg",
+        "assets/pizza-m2.svg"
+      ]
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "BOSS BURGER",
+      "badge": "DOUBLE SMASH",
+      "color": "#F59E0B",
+      "svg": "assets/burger-m0.svg",
+      "portrait": "assets/burger-m0.svg",
+      "talkSvg": "assets/burger-m2.svg",
+      "emblemSvg": "assets/burger-emblem.svg",
+      "mouthSvgs": [
+        "assets/burger-m0.svg",
+        "assets/burger-m1.svg",
+        "assets/burger-m2.svg"
+      ]
+    }
+  },
+  "lines": [
+    {
+      "speaker": "fighter1",
+      "text": "Out the brick-oven flames, five hundred degrees",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "One pull of my slice got 'em weak in the knees!",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Golden crust, marinara, mozzarella supreme",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Pepperoni crown jewels, I'm the Friday night king",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Feed a whole house party out a cardboard box",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "While you leak soggy grease through your sesame top",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "From Naples to Brooklyn, eight slices of art",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Take one soggy bite and your buns fall apart!",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Man, fold up your triangle, flat little bread",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "I'm a double-stack titan, you're cheese on a sled!",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Flame-broiled smash patty, hear that sizzle and sear",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Melted cheddar and bacon, I'm the boss in here",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You get left in the fridge and eaten cold the next day",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "I'm fresh off the grill, make 'em drool on the tray",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Secret sauce dripping down, every bite's heavyweight",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "I'm the king of the cookout, now get off my plate!",
+      "punchline": true
+    }
+  ]
+}

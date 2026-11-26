@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img">
+  <title>NVIDIA Blackwell GPU Chip Emblem</title>
+  <rect x="36" y="36" width="168" height="168" rx="22" fill="#0B1905" stroke="#76B900" stroke-width="10"/>
+  <rect x="68" y="68" width="104" height="104" rx="12" fill="#142E08" stroke="#A3E635" stroke-width="6"/>
+  <circle cx="120" cy="120" r="28" fill="#76B900"/>
+  <path d="M64 16v20M92 16v20M120 16v20M148 16v20M176 16v20M64 204v20M92 204v20M120 204v20M148 204v20M176 204v20M16 64h20M16 92h20M16 120h20M16 148h20M16 176h20M204 64h20M204 92h20M204 120h20M204 148h20M204 176h20" stroke="#76B900" stroke-width="8" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,60 @@
+{
+  "taskId": "94ce9ccac4385768823bb4b3466bb792",
+  "parentMusicId": "",
+  "param": "{\"callBackUrl\":\"https://example.com/noop\",\"customMode\":true,\"instrumental\":false,\"model\":\"V4_5\",\"negativeTags\":\"announcer, host, hype man, spoken word, narration, chorus, singing, female vocals, crowd\",\"prompt\":\"[Verse 1: Barack Obama]\\nLet me be clear, I came here to drop the mic\\nTwo terms, no scandals, now that's a clean strike\\nHope was my anthem, change was the plan\\nYou're tweeting at midnight, I was leading the land\\nNobel on my shelf, you got a golden toilet seat\\nHealthcare for the nation while you golfed every week\\nCool, calm, collected, that's presidential grace\\nYes we can, yes we did, now get up out my face\\n\\n[Verse 2: Donald Trump]\\nWrong, totally wrong, Barack, sad little act\\nI'm the comeback king, everybody knows that's fact\\nBiggest crowds ever, nobody's seen such love\\nYou read a teleprompter, I freestyle from above\\nTariffs on your rhymes, they're weak, they're low energy\\nI built a hundred towers, you just built a library\\nTremendous flow, believe me, best you've ever heard\\nYou had hope and change, but I get the final word\\n\\n[End]\",\"style\":\"hardcore boom bap rap battle, 92 bpm, punchy drums, deep 808, dark piano stabs, two male rappers, verse 1 smooth calm baritone, verse 2 brash raspy loud, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro, abrupt ending\",\"title\":\"Obama Vs Trump\"}",
+  "response": {
+    "taskId": "94ce9ccac4385768823bb4b3466bb792",
+    "sunoData": [
+      {
+        "id": "3c2f8f4b-76b3-4707-afe7-7ea9b670a80b",
+        "prompt": "[Verse 1: Barack Obama]\nLet me be clear, I came here to drop the mic\nTwo terms, no scandals, now that's a clean strike\nHope was my anthem, change was the plan\nYou're tweeting at midnight, I was leading the land\nNobel on my shelf, you got a golden toilet seat\nHealthcare for the nation while you golfed every week\nCool, calm, collected, that's presidential grace\nYes we can, yes we did, now get up out my face\n\n[Verse 2: Donald Trump]\nWrong, totally wrong, Barack, sad little act\nI'm the comeback king, everybody knows that's fact\nBiggest crowds ever, nobody's seen such love\nYou read a teleprompter, I freestyle from above\nTariffs on your rhymes, they're weak, they're low energy\nI built a hundred towers, you just built a library\nTremendous flow, believe me, best you've ever heard\nYou had hope and change, but I get the final word\n\n[End]",
+        "title": "Obama Vs Trump",
+        "tags": "Hardcore boom bap rap; hard-panned sample chops and dry drum hits; two male rappers trade close-mic bars, smooth calm baritone in verse one, brash raspy loud in verse two, with gang-vocal shouts tucked into bar-end accents; dark 92 bpm head-nod groove; punchy drums, deep 808, dark piano stabs; rap verses only, abrupt ending.",
+        "createTime": 1795364417273,
+        "duration": 64.6,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/3c2f8f4b-76b3-4707-afe7-7ea9b670a80b.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/3c2f8f4b-76b3-4707-afe7-7ea9b670a80b.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/3c2f8f4b-76b3-4707-afe7-7ea9b670a80b.mp3",
+        "image_url": "https://musicfile.sunoapi.org/M2MyZjhmNGItNzZiMy00NzA3LWFmZTctN2VhOWI2NzBhODBi.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_3c2f8f4b-76b3-4707-afe7-7ea9b670a80b.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/3c2f8f4b-76b3-4707-afe7-7ea9b670a80b.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/3c2f8f4b-76b3-4707-afe7-7ea9b670a80b.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/3c2f8f4b-76b3-4707-afe7-7ea9b670a80b.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/M2MyZjhmNGItNzZiMy00NzA3LWFmZTctN2VhOWI2NzBhODBi.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_3c2f8f4b-76b3-4707-afe7-7ea9b670a80b.jpeg",
+        "modelName": "chirp-hawk"
+      },
+      {
+        "id": "d1056c98-e28d-4391-af59-3d7023ebb055",
+        "prompt": "[Verse 1: Barack Obama]\nLet me be clear, I came here to drop the mic\nTwo terms, no scandals, now that's a clean strike\nHope was my anthem, change was the plan\nYou're tweeting at midnight, I was leading the land\nNobel on my shelf, you got a golden toilet seat\nHealthcare for the nation while you golfed every week\nCool, calm, collected, that's presidential grace\nYes we can, yes we did, now get up out my face\n\n[Verse 2: Donald Trump]\nWrong, totally wrong, Barack, sad little act\nI'm the comeback king, everybody knows that's fact\nBiggest crowds ever, nobody's seen such love\nYou read a teleprompter, I freestyle from above\nTariffs on your rhymes, they're weak, they're low energy\nI built a hundred towers, you just built a library\nTremendous flow, believe me, best you've ever heard\nYou had hope and change, but I get the final word\n\n[End]",
+        "title": "Obama Vs Trump",
+        "tags": "hardcore boom bap rap, dark piano stabs between punchy drums and deep 808; 92 bpm head-nod swing; two male rappers trade baritone rap verses, smooth calm in verse 1, brash raspy loud in verse 2; rap-only call-and-response, their own layered octave doubles and backing voices, tape-saturated drum bus, abrupt ending.",
+        "createTime": 1795364417273,
+        "duration": 59.12,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/d1056c98-e28d-4391-af59-3d7023ebb055.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/d1056c98-e28d-4391-af59-3d7023ebb055.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/d1056c98-e28d-4391-af59-3d7023ebb055.mp3",
+        "image_url": "https://musicfile.sunoapi.org/ZDEwNTZjOTgtZTI4ZC00MzkxLWFmNTktM2Q3MDIzZWJiMDU1.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_d1056c98-e28d-4391-af59-3d7023ebb055.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/d1056c98-e28d-4391-af59-3d7023ebb055.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/d1056c98-e28d-4391-af59-3d7023ebb055.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/d1056c98-e28d-4391-af59-3d7023ebb055.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/ZDEwNTZjOTgtZTI4ZC00MzkxLWFmNTktM2Q3MDIzZWJiMDU1.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_d1056c98-e28d-4391-af59-3d7023ebb055.jpeg",
+        "modelName": "chirp-hawk"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "type": "chirp-auk",
+  "operationType": "generate",
+  "errorCode": null,
+  "errorMessage": null,
+  "createTime": 1795364398000
+}

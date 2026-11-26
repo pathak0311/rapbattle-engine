@@ -1,0 +1,120 @@
+{
+  "slug": "khan_vs_jensen",
+  "title": "KHAN VS HUANG",
+  "hashtag": "#WARFORCOMPUTE",
+  "sunoStyle": "Epic cinematic trap hip-hop rap battle, thundering taiko and Mongolian war drums, morin khuur horsehead fiddle riff, deep 808, 92 bpm, two male English rappers, verse 1 very deep gravelly menacing commanding baritone, verse 2 smooth cocky clean mid-range tenor, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro, abrupt ending",
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "GENGHIS KHAN",
+      "badge": "GREAT KHAN",
+      "color": "#E0A526",
+      "svg": "assets/khan-m0.svg",
+      "portrait": "assets/khan-m0.svg",
+      "talkSvg": "assets/khan-m2.svg",
+      "emblemSvg": "assets/khan-emblem.svg",
+      "mouthSvgs": [
+        "assets/khan-m0.svg",
+        "assets/khan-m1.svg",
+        "assets/khan-m2.svg"
+      ]
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "JENSEN HUANG",
+      "badge": "LEATHER JACKET CEO",
+      "color": "#76B900",
+      "svg": "assets/jhuang-m0.svg",
+      "portrait": "assets/jhuang-m0.svg",
+      "talkSvg": "assets/jhuang-m2.svg",
+      "emblemSvg": "assets/jhuang-emblem.svg",
+      "mouthSvgs": [
+        "assets/jhuang-m0.svg",
+        "assets/jhuang-m1.svg",
+        "assets/jhuang-m2.svg"
+      ]
+    }
+  },
+  "lines": [
+    {
+      "speaker": "fighter1",
+      "text": "I built the biggest land empire, bro, before you learned to type",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "No cloud, no fiber, just a horse and a bow, no hype",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Your jacket's made of leather, mine came off the whole herd",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "My riders sent the message and they never missed a word",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You sell the shovels, bro, I took the whole gold rush",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "One horn blast from the steppe and your whole keynote goes hush",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Two hours on a stage just to launch one little chip",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "I took the world on horseback with no slides and no script",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Nice horse, nice bow, but where's your compute at, big guy?",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Your empire split in four, my backorders touch the sky",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You sent a rider with a letter, I ship the entire net",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Your fastest mail is slower than my fiber, don't forget",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "The more you buy, the more you save, that's how I take the land",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You burned the cities down, I made them all my fans",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Eight hundred years and nobody has found where you lie down",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "I'm in every phone, every chat, and every town",
+      "punchline": true
+    }
+  ]
+}

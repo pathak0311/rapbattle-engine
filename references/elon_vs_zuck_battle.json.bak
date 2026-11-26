@@ -1,0 +1,2274 @@
+{
+  "schemaVersion": 1,
+  "slug": "elon_vs_zuck",
+  "title": "ELON VS ZUCK",
+  "hashtag": "#CAGEMATCH",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "audio": {
+    "src": "audio/battle.mp3",
+    "duration": 52.813,
+    "durationInFrames": 1644,
+    "bpm": 94,
+    "beats": [
+      0.213,
+      0.864,
+      1.493,
+      2.133,
+      2.763,
+      3.403,
+      4.032,
+      4.651,
+      5.291,
+      5.931,
+      6.571,
+      7.221,
+      7.861,
+      8.501,
+      9.131,
+      9.749,
+      10.4,
+      11.04,
+      11.691,
+      12.309,
+      12.96,
+      13.589,
+      14.251,
+      14.88,
+      15.52,
+      16.149,
+      16.8,
+      17.429,
+      18.08,
+      18.709,
+      19.36,
+      19.989,
+      20.64,
+      21.259,
+      21.803,
+      22.539,
+      23.179,
+      23.819,
+      24.352,
+      24.981,
+      25.611,
+      26.379,
+      27.072,
+      27.648,
+      28.299,
+      28.939,
+      29.579,
+      30.208,
+      30.848,
+      31.477,
+      32.128,
+      32.757,
+      33.397,
+      34.037,
+      34.688,
+      35.285,
+      35.957,
+      36.587,
+      37.109,
+      37.717,
+      38.357,
+      39.008,
+      39.637,
+      40.277,
+      40.907,
+      41.547,
+      42.187,
+      42.837,
+      43.616,
+      44.256,
+      44.875,
+      45.536,
+      46.176,
+      46.805,
+      47.371,
+      48.085,
+      48.736,
+      49.216,
+      49.717,
+      50.325,
+      50.965,
+      51.584
+    ],
+    "energy": [
+      {
+        "t": 0.0,
+        "v": 0.15
+      },
+      {
+        "t": 1.354,
+        "v": 0.15
+      },
+      {
+        "t": 2.708,
+        "v": 0.15
+      },
+      {
+        "t": 4.063,
+        "v": 0.171
+      },
+      {
+        "t": 5.417,
+        "v": 0.249
+      },
+      {
+        "t": 6.771,
+        "v": 0.15
+      },
+      {
+        "t": 8.125,
+        "v": 0.158
+      },
+      {
+        "t": 9.479,
+        "v": 0.388
+      },
+      {
+        "t": 10.833,
+        "v": 0.415
+      },
+      {
+        "t": 12.188,
+        "v": 0.235
+      },
+      {
+        "t": 13.542,
+        "v": 0.333
+      },
+      {
+        "t": 14.896,
+        "v": 0.429
+      },
+      {
+        "t": 16.25,
+        "v": 0.221
+      },
+      {
+        "t": 17.604,
+        "v": 0.181
+      },
+      {
+        "t": 18.959,
+        "v": 0.171
+      },
+      {
+        "t": 20.313,
+        "v": 0.307
+      },
+      {
+        "t": 21.667,
+        "v": 0.26
+      },
+      {
+        "t": 23.021,
+        "v": 0.245
+      },
+      {
+        "t": 24.375,
+        "v": 0.363
+      },
+      {
+        "t": 25.729,
+        "v": 0.724
+      },
+      {
+        "t": 27.084,
+        "v": 0.245
+      },
+      {
+        "t": 28.438,
+        "v": 0.467
+      },
+      {
+        "t": 29.792,
+        "v": 0.36
+      },
+      {
+        "t": 31.146,
+        "v": 0.436
+      },
+      {
+        "t": 32.5,
+        "v": 0.799
+      },
+      {
+        "t": 33.854,
+        "v": 0.329
+      },
+      {
+        "t": 35.209,
+        "v": 0.15
+      },
+      {
+        "t": 36.563,
+        "v": 0.475
+      },
+      {
+        "t": 37.917,
+        "v": 0.28
+      },
+      {
+        "t": 39.271,
+        "v": 0.267
+      },
+      {
+        "t": 40.625,
+        "v": 0.854
+      },
+      {
+        "t": 41.98,
+        "v": 0.243
+      },
+      {
+        "t": 43.334,
+        "v": 0.349
+      },
+      {
+        "t": 44.688,
+        "v": 0.34
+      },
+      {
+        "t": 46.042,
+        "v": 0.402
+      },
+      {
+        "t": 47.396,
+        "v": 0.413
+      },
+      {
+        "t": 48.75,
+        "v": 0.958
+      },
+      {
+        "t": 50.105,
+        "v": 0.283
+      },
+      {
+        "t": 51.459,
+        "v": 0.596
+      },
+      {
+        "t": 52.813,
+        "v": 0.15
+      }
+    ],
+    "mouth": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000021112221122100221122111222222121112211211102111201001221112211222000222111000111222121221111211111121111122100221001212222111121120001210000121121121110012212211221111122212211212222112111000221122210002112100002211222100111212111211222100021002222212212210001100120002211221100200000222222111221122111112112112222221211112211211111222112111221121112221000211120001222212221221112211120022211122000222212002112112221122111001222111120002000022222211222212122112212222111221122111222121221221111221111212211120000022111122002211220012200121122211122002221112200222212211211112220022211211122012211112222222222222222221222112221222212221122222122122211122112221111111220002211121111200021212210022210011000222211001121112200002111210022211122111210022000220000001112110001222212000022221222122221122111212112112222211221120211221122210002121000122222211122000222001211222100210012211221122211220002221002211221112221211112222222222221112221221111221112211221122211222212211122112100112221100122221122002222112211121111200222100121122100122122210021211122110000122221100222221222122112211112222211112222211222222112100222211121121100012222211122002222110002222222111122222200112112121112200211211121122211212221111122100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "intro": {
+    "start": 0.0,
+    "end": 3.5
+  },
+  "outro": {
+    "start": 50.489,
+    "end": 54.813
+  },
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "ELON MUSK",
+      "badge": "MARS OR BUST",
+      "color": "#EF4444",
+      "svg": "assets/elon2-m0.svg",
+      "portrait": "assets/elon2-m0.svg",
+      "talkSvg": "assets/elon2-m2.svg",
+      "emblemSvg": "assets/rocket-emblem.svg",
+      "mouthSvgs": [
+        "assets/elon2-m0.svg",
+        "assets/elon2-m1.svg",
+        "assets/elon2-m2.svg"
+      ]
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "MARK ZUCKERBERG",
+      "badge": "META OVERLORD",
+      "color": "#3B82F6",
+      "svg": "assets/zuck-m0.svg",
+      "portrait": "assets/zuck-m0.svg",
+      "talkSvg": "assets/zuck-m2.svg",
+      "emblemSvg": "assets/meta-emblem.svg",
+      "mouthSvgs": [
+        "assets/zuck-m0.svg",
+        "assets/zuck-m1.svg",
+        "assets/zuck-m2.svg"
+      ]
+    }
+  },
+  "captions": [
+    {
+      "id": 0,
+      "speaker": "fighter1",
+      "start": 9.674,
+      "end": 12.149,
+      "text": "Rockets on the launchpad, I land 'em standing upright",
+      "words": [
+        {
+          "text": "Rockets",
+          "start": 9.674,
+          "end": 10.071
+        },
+        {
+          "text": "on",
+          "start": 10.155,
+          "end": 10.279
+        },
+        {
+          "text": "the",
+          "start": 10.301,
+          "end": 10.345
+        },
+        {
+          "text": "launchpad,",
+          "start": 10.393,
+          "end": 10.946
+        },
+        {
+          "text": "I",
+          "start": 10.986,
+          "end": 11.005
+        },
+        {
+          "text": "land",
+          "start": 11.12,
+          "end": 11.208
+        },
+        {
+          "text": "'em",
+          "start": 11.298,
+          "end": 11.348
+        },
+        {
+          "text": "standing",
+          "start": 11.39,
+          "end": 11.685
+        },
+        {
+          "text": "upright",
+          "start": 11.755,
+          "end": 12.149
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 9.674,
+          "end": 10.345,
+          "words": [
+            {
+              "text": "Rockets",
+              "start": 9.674,
+              "end": 10.071
+            },
+            {
+              "text": "on",
+              "start": 10.155,
+              "end": 10.279
+            },
+            {
+              "text": "the",
+              "start": 10.301,
+              "end": 10.345
+            }
+          ]
+        },
+        {
+          "start": 10.393,
+          "end": 11.208,
+          "words": [
+            {
+              "text": "launchpad,",
+              "start": 10.393,
+              "end": 10.946
+            },
+            {
+              "text": "I",
+              "start": 10.986,
+              "end": 11.005
+            },
+            {
+              "text": "land",
+              "start": 11.12,
+              "end": 11.208
+            }
+          ]
+        },
+        {
+          "start": 11.298,
+          "end": 12.149,
+          "words": [
+            {
+              "text": "'em",
+              "start": 11.298,
+              "end": 11.348
+            },
+            {
+              "text": "standing",
+              "start": 11.39,
+              "end": 11.685
+            },
+            {
+              "text": "upright",
+              "start": 11.755,
+              "end": 12.149
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "speaker": "fighter1",
+      "start": 12.217,
+      "end": 14.696,
+      "text": "You built a whole metaverse with no legs in sight",
+      "words": [
+        {
+          "text": "You",
+          "start": 12.217,
+          "end": 12.354
+        },
+        {
+          "text": "built",
+          "start": 12.387,
+          "end": 12.517
+        },
+        {
+          "text": "a",
+          "start": 12.614,
+          "end": 12.614
+        },
+        {
+          "text": "whole",
+          "start": 12.677,
+          "end": 12.927
+        },
+        {
+          "text": "metaverse",
+          "start": 12.992,
+          "end": 13.462
+        },
+        {
+          "text": "with",
+          "start": 13.499,
+          "end": 13.609
+        },
+        {
+          "text": "no",
+          "start": 13.671,
+          "end": 13.732
+        },
+        {
+          "text": "legs",
+          "start": 13.819,
+          "end": 14.098
+        },
+        {
+          "text": "in",
+          "start": 14.14,
+          "end": 14.183
+        },
+        {
+          "text": "sight",
+          "start": 14.263,
+          "end": 14.696
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 12.217,
+          "end": 12.927,
+          "words": [
+            {
+              "text": "You",
+              "start": 12.217,
+              "end": 12.354
+            },
+            {
+              "text": "built",
+              "start": 12.387,
+              "end": 12.517
+            },
+            {
+              "text": "a",
+              "start": 12.614,
+              "end": 12.614
+            },
+            {
+              "text": "whole",
+              "start": 12.677,
+              "end": 12.927
+            }
+          ]
+        },
+        {
+          "start": 12.992,
+          "end": 14.098,
+          "words": [
+            {
+              "text": "metaverse",
+              "start": 12.992,
+              "end": 13.462
+            },
+            {
+              "text": "with",
+              "start": 13.499,
+              "end": 13.609
+            },
+            {
+              "text": "no",
+              "start": 13.671,
+              "end": 13.732
+            },
+            {
+              "text": "legs",
+              "start": 13.819,
+              "end": 14.098
+            }
+          ]
+        },
+        {
+          "start": 14.14,
+          "end": 14.696,
+          "words": [
+            {
+              "text": "in",
+              "start": 14.14,
+              "end": 14.183
+            },
+            {
+              "text": "sight",
+              "start": 14.263,
+              "end": 14.696
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speaker": "fighter1",
+      "start": 14.742,
+      "end": 17.04,
+      "text": "Tesla on autopilot, Starlink in the sky",
+      "words": [
+        {
+          "text": "Tesla",
+          "start": 14.742,
+          "end": 15.062
+        },
+        {
+          "text": "on",
+          "start": 15.142,
+          "end": 15.241
+        },
+        {
+          "text": "autopilot,",
+          "start": 15.272,
+          "end": 15.931
+        },
+        {
+          "text": "Starlink",
+          "start": 15.98,
+          "end": 16.356
+        },
+        {
+          "text": "in",
+          "start": 16.418,
+          "end": 16.479
+        },
+        {
+          "text": "the",
+          "start": 16.5,
+          "end": 16.542
+        },
+        {
+          "text": "sky",
+          "start": 16.631,
+          "end": 17.04
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 14.742,
+          "end": 15.931,
+          "words": [
+            {
+              "text": "Tesla",
+              "start": 14.742,
+              "end": 15.062
+            },
+            {
+              "text": "on",
+              "start": 15.142,
+              "end": 15.241
+            },
+            {
+              "text": "autopilot,",
+              "start": 15.272,
+              "end": 15.931
+            }
+          ]
+        },
+        {
+          "start": 15.98,
+          "end": 16.542,
+          "words": [
+            {
+              "text": "Starlink",
+              "start": 15.98,
+              "end": 16.356
+            },
+            {
+              "text": "in",
+              "start": 16.418,
+              "end": 16.479
+            },
+            {
+              "text": "the",
+              "start": 16.5,
+              "end": 16.542
+            }
+          ]
+        },
+        {
+          "start": 16.631,
+          "end": 17.04,
+          "words": [
+            {
+              "text": "sky",
+              "start": 16.631,
+              "end": 17.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "speaker": "fighter1",
+      "start": 17.046,
+      "end": 19.811,
+      "text": "You're harvesting data, I'm teaching boosters to fly",
+      "words": [
+        {
+          "text": "You're",
+          "start": 17.046,
+          "end": 17.176
+        },
+        {
+          "text": "harvesting",
+          "start": 17.24,
+          "end": 17.774
+        },
+        {
+          "text": "data,",
+          "start": 17.849,
+          "end": 18.072
+        },
+        {
+          "text": "I'm",
+          "start": 18.072,
+          "end": 18.266
+        },
+        {
+          "text": "teaching",
+          "start": 18.302,
+          "end": 18.553
+        },
+        {
+          "text": "boosters",
+          "start": 18.581,
+          "end": 18.94
+        },
+        {
+          "text": "to",
+          "start": 18.955,
+          "end": 18.97
+        },
+        {
+          "text": "fly",
+          "start": 19.061,
+          "end": 19.811
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 17.046,
+          "end": 18.072,
+          "words": [
+            {
+              "text": "You're",
+              "start": 17.046,
+              "end": 17.176
+            },
+            {
+              "text": "harvesting",
+              "start": 17.24,
+              "end": 17.774
+            },
+            {
+              "text": "data,",
+              "start": 17.849,
+              "end": 18.072
+            }
+          ]
+        },
+        {
+          "start": 18.072,
+          "end": 18.94,
+          "words": [
+            {
+              "text": "I'm",
+              "start": 18.072,
+              "end": 18.266
+            },
+            {
+              "text": "teaching",
+              "start": 18.302,
+              "end": 18.553
+            },
+            {
+              "text": "boosters",
+              "start": 18.581,
+              "end": 18.94
+            }
+          ]
+        },
+        {
+          "start": 18.955,
+          "end": 19.811,
+          "words": [
+            {
+              "text": "to",
+              "start": 18.955,
+              "end": 18.97
+            },
+            {
+              "text": "fly",
+              "start": 19.061,
+              "end": 19.811
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "speaker": "fighter1",
+      "start": 19.867,
+      "end": 22.052,
+      "text": "You called me to the cage, then you ghosted the date",
+      "words": [
+        {
+          "text": "You",
+          "start": 19.867,
+          "end": 19.978
+        },
+        {
+          "text": "called",
+          "start": 20.006,
+          "end": 20.149
+        },
+        {
+          "text": "me",
+          "start": 20.229,
+          "end": 20.308
+        },
+        {
+          "text": "to",
+          "start": 20.394,
+          "end": 20.494
+        },
+        {
+          "text": "the",
+          "start": 20.537,
+          "end": 20.622
+        },
+        {
+          "text": "cage,",
+          "start": 20.702,
+          "end": 21.007
+        },
+        {
+          "text": "then",
+          "start": 21.033,
+          "end": 21.11
+        },
+        {
+          "text": "you",
+          "start": 21.176,
+          "end": 21.307
+        },
+        {
+          "text": "ghosted",
+          "start": 21.335,
+          "end": 21.613
+        },
+        {
+          "text": "the",
+          "start": 21.671,
+          "end": 21.787
+        },
+        {
+          "text": "date",
+          "start": 21.858,
+          "end": 22.052
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 19.867,
+          "end": 20.494,
+          "words": [
+            {
+              "text": "You",
+              "start": 19.867,
+              "end": 19.978
+            },
+            {
+              "text": "called",
+              "start": 20.006,
+              "end": 20.149
+            },
+            {
+              "text": "me",
+              "start": 20.229,
+              "end": 20.308
+            },
+            {
+              "text": "to",
+              "start": 20.394,
+              "end": 20.494
+            }
+          ]
+        },
+        {
+          "start": 20.537,
+          "end": 21.307,
+          "words": [
+            {
+              "text": "the",
+              "start": 20.537,
+              "end": 20.622
+            },
+            {
+              "text": "cage,",
+              "start": 20.702,
+              "end": 21.007
+            },
+            {
+              "text": "then",
+              "start": 21.033,
+              "end": 21.11
+            },
+            {
+              "text": "you",
+              "start": 21.176,
+              "end": 21.307
+            }
+          ]
+        },
+        {
+          "start": 21.335,
+          "end": 22.052,
+          "words": [
+            {
+              "text": "ghosted",
+              "start": 21.335,
+              "end": 21.613
+            },
+            {
+              "text": "the",
+              "start": 21.671,
+              "end": 21.787
+            },
+            {
+              "text": "date",
+              "start": 21.858,
+              "end": 22.052
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "speaker": "fighter1",
+      "start": 22.16,
+      "end": 24.766,
+      "text": "I bought the bird for forty-four, now I run the debate",
+      "words": [
+        {
+          "text": "I",
+          "start": 22.16,
+          "end": 22.223
+        },
+        {
+          "text": "bought",
+          "start": 22.254,
+          "end": 22.418
+        },
+        {
+          "text": "the",
+          "start": 22.449,
+          "end": 22.511
+        },
+        {
+          "text": "bird",
+          "start": 22.57,
+          "end": 22.748
+        },
+        {
+          "text": "for",
+          "start": 22.788,
+          "end": 22.869
+        },
+        {
+          "text": "forty-four,",
+          "start": 22.93,
+          "end": 23.502
+        },
+        {
+          "text": "now",
+          "start": 23.559,
+          "end": 23.674
+        },
+        {
+          "text": "I",
+          "start": 23.802,
+          "end": 23.802
+        },
+        {
+          "text": "run",
+          "start": 23.875,
+          "end": 24.022
+        },
+        {
+          "text": "the",
+          "start": 24.084,
+          "end": 24.208
+        },
+        {
+          "text": "debate",
+          "start": 24.247,
+          "end": 24.766
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 22.16,
+          "end": 22.748,
+          "words": [
+            {
+              "text": "I",
+              "start": 22.16,
+              "end": 22.223
+            },
+            {
+              "text": "bought",
+              "start": 22.254,
+              "end": 22.418
+            },
+            {
+              "text": "the",
+              "start": 22.449,
+              "end": 22.511
+            },
+            {
+              "text": "bird",
+              "start": 22.57,
+              "end": 22.748
+            }
+          ]
+        },
+        {
+          "start": 22.788,
+          "end": 23.802,
+          "words": [
+            {
+              "text": "for",
+              "start": 22.788,
+              "end": 22.869
+            },
+            {
+              "text": "forty-four,",
+              "start": 22.93,
+              "end": 23.502
+            },
+            {
+              "text": "now",
+              "start": 23.559,
+              "end": 23.674
+            },
+            {
+              "text": "I",
+              "start": 23.802,
+              "end": 23.802
+            }
+          ]
+        },
+        {
+          "start": 23.875,
+          "end": 24.766,
+          "words": [
+            {
+              "text": "run",
+              "start": 23.875,
+              "end": 24.022
+            },
+            {
+              "text": "the",
+              "start": 24.084,
+              "end": 24.208
+            },
+            {
+              "text": "debate",
+              "start": 24.247,
+              "end": 24.766
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "speaker": "fighter1",
+      "start": 24.825,
+      "end": 27.122,
+      "text": "Neuralink in the brain, I'm wired to the stars",
+      "words": [
+        {
+          "text": "Neuralink",
+          "start": 24.825,
+          "end": 25.289
+        },
+        {
+          "text": "in",
+          "start": 25.372,
+          "end": 25.475
+        },
+        {
+          "text": "the",
+          "start": 25.504,
+          "end": 25.561
+        },
+        {
+          "text": "brain,",
+          "start": 25.629,
+          "end": 25.902
+        },
+        {
+          "text": "I'm",
+          "start": 25.902,
+          "end": 26.067
+        },
+        {
+          "text": "wired",
+          "start": 26.16,
+          "end": 26.401
+        },
+        {
+          "text": "to",
+          "start": 26.453,
+          "end": 26.506
+        },
+        {
+          "text": "the",
+          "start": 26.53,
+          "end": 26.579
+        },
+        {
+          "text": "stars",
+          "start": 26.659,
+          "end": 27.122
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 24.825,
+          "end": 25.561,
+          "words": [
+            {
+              "text": "Neuralink",
+              "start": 24.825,
+              "end": 25.289
+            },
+            {
+              "text": "in",
+              "start": 25.372,
+              "end": 25.475
+            },
+            {
+              "text": "the",
+              "start": 25.504,
+              "end": 25.561
+            }
+          ]
+        },
+        {
+          "start": 25.629,
+          "end": 26.401,
+          "words": [
+            {
+              "text": "brain,",
+              "start": 25.629,
+              "end": 25.902
+            },
+            {
+              "text": "I'm",
+              "start": 25.902,
+              "end": 26.067
+            },
+            {
+              "text": "wired",
+              "start": 26.16,
+              "end": 26.401
+            }
+          ]
+        },
+        {
+          "start": 26.453,
+          "end": 27.122,
+          "words": [
+            {
+              "text": "to",
+              "start": 26.453,
+              "end": 26.506
+            },
+            {
+              "text": "the",
+              "start": 26.53,
+              "end": 26.579
+            },
+            {
+              "text": "stars",
+              "start": 26.659,
+              "end": 27.122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "speaker": "fighter1",
+      "start": 27.125,
+      "end": 30.816,
+      "text": "You're stuck in Menlo Park, I'm putting people on Mars!",
+      "words": [
+        {
+          "text": "You're",
+          "start": 27.125,
+          "end": 27.252
+        },
+        {
+          "text": "stuck",
+          "start": 27.293,
+          "end": 27.458
+        },
+        {
+          "text": "in",
+          "start": 27.535,
+          "end": 27.612
+        },
+        {
+          "text": "Menlo",
+          "start": 27.666,
+          "end": 28.008
+        },
+        {
+          "text": "Park,",
+          "start": 28.088,
+          "end": 28.391
+        },
+        {
+          "text": "I'm",
+          "start": 28.391,
+          "end": 28.589
+        },
+        {
+          "text": "putting",
+          "start": 28.642,
+          "end": 28.962
+        },
+        {
+          "text": "people",
+          "start": 29.015,
+          "end": 29.279
+        },
+        {
+          "text": "on",
+          "start": 29.366,
+          "end": 29.54
+        },
+        {
+          "text": "Mars!",
+          "start": 29.629,
+          "end": 30.816
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 27.125,
+          "end": 28.008,
+          "words": [
+            {
+              "text": "You're",
+              "start": 27.125,
+              "end": 27.252
+            },
+            {
+              "text": "stuck",
+              "start": 27.293,
+              "end": 27.458
+            },
+            {
+              "text": "in",
+              "start": 27.535,
+              "end": 27.612
+            },
+            {
+              "text": "Menlo",
+              "start": 27.666,
+              "end": 28.008
+            }
+          ]
+        },
+        {
+          "start": 28.088,
+          "end": 29.279,
+          "words": [
+            {
+              "text": "Park,",
+              "start": 28.088,
+              "end": 28.391
+            },
+            {
+              "text": "I'm",
+              "start": 28.391,
+              "end": 28.589
+            },
+            {
+              "text": "putting",
+              "start": 28.642,
+              "end": 28.962
+            },
+            {
+              "text": "people",
+              "start": 29.015,
+              "end": 29.279
+            }
+          ]
+        },
+        {
+          "start": 29.366,
+          "end": 30.816,
+          "words": [
+            {
+              "text": "on",
+              "start": 29.366,
+              "end": 29.54
+            },
+            {
+              "text": "Mars!",
+              "start": 29.629,
+              "end": 30.816
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "speaker": "fighter2",
+      "start": 30.82,
+      "end": 32.936,
+      "text": "Elon, my man, let's be honest for a sec",
+      "words": [
+        {
+          "text": "Elon,",
+          "start": 30.82,
+          "end": 31.31
+        },
+        {
+          "text": "my",
+          "start": 31.373,
+          "end": 31.436
+        },
+        {
+          "text": "man,",
+          "start": 31.522,
+          "end": 31.747
+        },
+        {
+          "text": "let's",
+          "start": 31.747,
+          "end": 32.03
+        },
+        {
+          "text": "be",
+          "start": 32.065,
+          "end": 32.1
+        },
+        {
+          "text": "honest",
+          "start": 32.152,
+          "end": 32.41
+        },
+        {
+          "text": "for",
+          "start": 32.478,
+          "end": 32.615
+        },
+        {
+          "text": "a",
+          "start": 32.625,
+          "end": 32.625
+        },
+        {
+          "text": "sec",
+          "start": 32.715,
+          "end": 32.936
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 30.82,
+          "end": 31.747,
+          "words": [
+            {
+              "text": "Elon,",
+              "start": 30.82,
+              "end": 31.31
+            },
+            {
+              "text": "my",
+              "start": 31.373,
+              "end": 31.436
+            },
+            {
+              "text": "man,",
+              "start": 31.522,
+              "end": 31.747
+            }
+          ]
+        },
+        {
+          "start": 31.747,
+          "end": 32.41,
+          "words": [
+            {
+              "text": "let's",
+              "start": 31.747,
+              "end": 32.03
+            },
+            {
+              "text": "be",
+              "start": 32.065,
+              "end": 32.1
+            },
+            {
+              "text": "honest",
+              "start": 32.152,
+              "end": 32.41
+            }
+          ]
+        },
+        {
+          "start": 32.478,
+          "end": 32.936,
+          "words": [
+            {
+              "text": "for",
+              "start": 32.478,
+              "end": 32.615
+            },
+            {
+              "text": "a",
+              "start": 32.625,
+              "end": 32.625
+            },
+            {
+              "text": "sec",
+              "start": 32.715,
+              "end": 32.936
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "speaker": "fighter2",
+      "start": 33.005,
+      "end": 35.61,
+      "text": "You paid forty-four billion just to wreck a blue check",
+      "words": [
+        {
+          "text": "You",
+          "start": 33.005,
+          "end": 33.144
+        },
+        {
+          "text": "paid",
+          "start": 33.2,
+          "end": 33.368
+        },
+        {
+          "text": "forty-four",
+          "start": 33.428,
+          "end": 33.99
+        },
+        {
+          "text": "billion",
+          "start": 34.042,
+          "end": 34.357
+        },
+        {
+          "text": "just",
+          "start": 34.402,
+          "end": 34.537
+        },
+        {
+          "text": "to",
+          "start": 34.6,
+          "end": 34.663
+        },
+        {
+          "text": "wreck",
+          "start": 34.694,
+          "end": 34.82
+        },
+        {
+          "text": "a",
+          "start": 34.973,
+          "end": 34.986
+        },
+        {
+          "text": "blue",
+          "start": 35.058,
+          "end": 35.274
+        },
+        {
+          "text": "check",
+          "start": 35.341,
+          "end": 35.61
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 33.005,
+          "end": 34.357,
+          "words": [
+            {
+              "text": "You",
+              "start": 33.005,
+              "end": 33.144
+            },
+            {
+              "text": "paid",
+              "start": 33.2,
+              "end": 33.368
+            },
+            {
+              "text": "forty-four",
+              "start": 33.428,
+              "end": 33.99
+            },
+            {
+              "text": "billion",
+              "start": 34.042,
+              "end": 34.357
+            }
+          ]
+        },
+        {
+          "start": 34.402,
+          "end": 34.986,
+          "words": [
+            {
+              "text": "just",
+              "start": 34.402,
+              "end": 34.537
+            },
+            {
+              "text": "to",
+              "start": 34.6,
+              "end": 34.663
+            },
+            {
+              "text": "wreck",
+              "start": 34.694,
+              "end": 34.82
+            },
+            {
+              "text": "a",
+              "start": 34.973,
+              "end": 34.986
+            }
+          ]
+        },
+        {
+          "start": 35.058,
+          "end": 35.61,
+          "words": [
+            {
+              "text": "blue",
+              "start": 35.058,
+              "end": 35.274
+            },
+            {
+              "text": "check",
+              "start": 35.341,
+              "end": 35.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "speaker": "fighter2",
+      "start": 35.671,
+      "end": 37.992,
+      "text": "Three billion users logging in every day",
+      "words": [
+        {
+          "text": "Three",
+          "start": 35.671,
+          "end": 35.915
+        },
+        {
+          "text": "billion",
+          "start": 35.965,
+          "end": 36.266
+        },
+        {
+          "text": "users",
+          "start": 36.34,
+          "end": 36.596
+        },
+        {
+          "text": "logging",
+          "start": 36.633,
+          "end": 36.934
+        },
+        {
+          "text": "in",
+          "start": 37.059,
+          "end": 37.185
+        },
+        {
+          "text": "every",
+          "start": 37.271,
+          "end": 37.635
+        },
+        {
+          "text": "day",
+          "start": 37.715,
+          "end": 37.992
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 35.671,
+          "end": 36.596,
+          "words": [
+            {
+              "text": "Three",
+              "start": 35.671,
+              "end": 35.915
+            },
+            {
+              "text": "billion",
+              "start": 35.965,
+              "end": 36.266
+            },
+            {
+              "text": "users",
+              "start": 36.34,
+              "end": 36.596
+            }
+          ]
+        },
+        {
+          "start": 36.633,
+          "end": 37.635,
+          "words": [
+            {
+              "text": "logging",
+              "start": 36.633,
+              "end": 36.934
+            },
+            {
+              "text": "in",
+              "start": 37.059,
+              "end": 37.185
+            },
+            {
+              "text": "every",
+              "start": 37.271,
+              "end": 37.635
+            }
+          ]
+        },
+        {
+          "start": 37.715,
+          "end": 37.992,
+          "words": [
+            {
+              "text": "day",
+              "start": 37.715,
+              "end": 37.992
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "speaker": "fighter2",
+      "start": 38.021,
+      "end": 40.487,
+      "text": "Your bird keeps dropping feathers while my Threads are here to stay",
+      "words": [
+        {
+          "text": "Your",
+          "start": 38.021,
+          "end": 38.109
+        },
+        {
+          "text": "bird",
+          "start": 38.15,
+          "end": 38.272
+        },
+        {
+          "text": "keeps",
+          "start": 38.314,
+          "end": 38.48
+        },
+        {
+          "text": "dropping",
+          "start": 38.519,
+          "end": 38.792
+        },
+        {
+          "text": "feathers",
+          "start": 38.815,
+          "end": 39.132
+        },
+        {
+          "text": "while",
+          "start": 39.158,
+          "end": 39.261
+        },
+        {
+          "text": "my",
+          "start": 39.309,
+          "end": 39.356
+        },
+        {
+          "text": "Threads",
+          "start": 39.408,
+          "end": 39.717
+        },
+        {
+          "text": "are",
+          "start": 39.744,
+          "end": 39.797
+        },
+        {
+          "text": "here",
+          "start": 39.852,
+          "end": 40.017
+        },
+        {
+          "text": "to",
+          "start": 40.048,
+          "end": 40.079
+        },
+        {
+          "text": "stay",
+          "start": 40.163,
+          "end": 40.487
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 38.021,
+          "end": 38.792,
+          "words": [
+            {
+              "text": "Your",
+              "start": 38.021,
+              "end": 38.109
+            },
+            {
+              "text": "bird",
+              "start": 38.15,
+              "end": 38.272
+            },
+            {
+              "text": "keeps",
+              "start": 38.314,
+              "end": 38.48
+            },
+            {
+              "text": "dropping",
+              "start": 38.519,
+              "end": 38.792
+            }
+          ]
+        },
+        {
+          "start": 38.815,
+          "end": 39.717,
+          "words": [
+            {
+              "text": "feathers",
+              "start": 38.815,
+              "end": 39.132
+            },
+            {
+              "text": "while",
+              "start": 39.158,
+              "end": 39.261
+            },
+            {
+              "text": "my",
+              "start": 39.309,
+              "end": 39.356
+            },
+            {
+              "text": "Threads",
+              "start": 39.408,
+              "end": 39.717
+            }
+          ]
+        },
+        {
+          "start": 39.744,
+          "end": 40.487,
+          "words": [
+            {
+              "text": "are",
+              "start": 39.744,
+              "end": 39.797
+            },
+            {
+              "text": "here",
+              "start": 39.852,
+              "end": 40.017
+            },
+            {
+              "text": "to",
+              "start": 40.048,
+              "end": 40.079
+            },
+            {
+              "text": "stay",
+              "start": 40.163,
+              "end": 40.487
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "speaker": "fighter2",
+      "start": 40.51,
+      "end": 42.768,
+      "text": "I train jiu-jitsu, I got medals, show respect",
+      "words": [
+        {
+          "text": "I",
+          "start": 40.51,
+          "end": 40.51
+        },
+        {
+          "text": "train",
+          "start": 40.538,
+          "end": 40.649
+        },
+        {
+          "text": "jiu-jitsu,",
+          "start": 40.691,
+          "end": 41.459
+        },
+        {
+          "text": "I",
+          "start": 41.524,
+          "end": 41.524
+        },
+        {
+          "text": "got",
+          "start": 41.568,
+          "end": 41.657
+        },
+        {
+          "text": "medals,",
+          "start": 41.714,
+          "end": 42.008
+        },
+        {
+          "text": "show",
+          "start": 42.069,
+          "end": 42.252
+        },
+        {
+          "text": "respect",
+          "start": 42.326,
+          "end": 42.768
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 40.51,
+          "end": 41.459,
+          "words": [
+            {
+              "text": "I",
+              "start": 40.51,
+              "end": 40.51
+            },
+            {
+              "text": "train",
+              "start": 40.538,
+              "end": 40.649
+            },
+            {
+              "text": "jiu-jitsu,",
+              "start": 40.691,
+              "end": 41.459
+            }
+          ]
+        },
+        {
+          "start": 41.524,
+          "end": 42.008,
+          "words": [
+            {
+              "text": "I",
+              "start": 41.524,
+              "end": 41.524
+            },
+            {
+              "text": "got",
+              "start": 41.568,
+              "end": 41.657
+            },
+            {
+              "text": "medals,",
+              "start": 41.714,
+              "end": 42.008
+            }
+          ]
+        },
+        {
+          "start": 42.069,
+          "end": 42.768,
+          "words": [
+            {
+              "text": "show",
+              "start": 42.069,
+              "end": 42.252
+            },
+            {
+              "text": "respect",
+              "start": 42.326,
+              "end": 42.768
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "speaker": "fighter2",
+      "start": 42.793,
+      "end": 45.404,
+      "text": "Your Cybertruck's a toaster that the whole world rejects",
+      "words": [
+        {
+          "text": "Your",
+          "start": 42.793,
+          "end": 42.867
+        },
+        {
+          "text": "Cybertruck's",
+          "start": 42.958,
+          "end": 43.491
+        },
+        {
+          "text": "a",
+          "start": 43.611,
+          "end": 43.611
+        },
+        {
+          "text": "toaster",
+          "start": 43.692,
+          "end": 43.979
+        },
+        {
+          "text": "that",
+          "start": 44.008,
+          "end": 44.095
+        },
+        {
+          "text": "the",
+          "start": 44.126,
+          "end": 44.189
+        },
+        {
+          "text": "whole",
+          "start": 44.225,
+          "end": 44.371
+        },
+        {
+          "text": "world",
+          "start": 44.428,
+          "end": 44.656
+        },
+        {
+          "text": "rejects",
+          "start": 44.736,
+          "end": 45.404
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 42.793,
+          "end": 43.611,
+          "words": [
+            {
+              "text": "Your",
+              "start": 42.793,
+              "end": 42.867
+            },
+            {
+              "text": "Cybertruck's",
+              "start": 42.958,
+              "end": 43.491
+            },
+            {
+              "text": "a",
+              "start": 43.611,
+              "end": 43.611
+            }
+          ]
+        },
+        {
+          "start": 43.692,
+          "end": 44.189,
+          "words": [
+            {
+              "text": "toaster",
+              "start": 43.692,
+              "end": 43.979
+            },
+            {
+              "text": "that",
+              "start": 44.008,
+              "end": 44.095
+            },
+            {
+              "text": "the",
+              "start": 44.126,
+              "end": 44.189
+            }
+          ]
+        },
+        {
+          "start": 44.225,
+          "end": 45.404,
+          "words": [
+            {
+              "text": "whole",
+              "start": 44.225,
+              "end": 44.371
+            },
+            {
+              "text": "world",
+              "start": 44.428,
+              "end": 44.656
+            },
+            {
+              "text": "rejects",
+              "start": 44.736,
+              "end": 45.404
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "speaker": "fighter2",
+      "start": 45.482,
+      "end": 47.601,
+      "text": "Open-source Llama, I'm the king of the stack",
+      "words": [
+        {
+          "text": "Open-source",
+          "start": 45.482,
+          "end": 46.119
+        },
+        {
+          "text": "Llama,",
+          "start": 46.189,
+          "end": 46.47
+        },
+        {
+          "text": "I'm",
+          "start": 46.472,
+          "end": 46.717
+        },
+        {
+          "text": "the",
+          "start": 46.74,
+          "end": 46.786
+        },
+        {
+          "text": "king",
+          "start": 46.841,
+          "end": 47.007
+        },
+        {
+          "text": "of",
+          "start": 47.083,
+          "end": 47.158
+        },
+        {
+          "text": "the",
+          "start": 47.175,
+          "end": 47.21
+        },
+        {
+          "text": "stack",
+          "start": 47.288,
+          "end": 47.601
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 45.482,
+          "end": 46.717,
+          "words": [
+            {
+              "text": "Open-source",
+              "start": 45.482,
+              "end": 46.119
+            },
+            {
+              "text": "Llama,",
+              "start": 46.189,
+              "end": 46.47
+            },
+            {
+              "text": "I'm",
+              "start": 46.472,
+              "end": 46.717
+            }
+          ]
+        },
+        {
+          "start": 46.74,
+          "end": 47.158,
+          "words": [
+            {
+              "text": "the",
+              "start": 46.74,
+              "end": 46.786
+            },
+            {
+              "text": "king",
+              "start": 46.841,
+              "end": 47.007
+            },
+            {
+              "text": "of",
+              "start": 47.083,
+              "end": 47.158
+            }
+          ]
+        },
+        {
+          "start": 47.175,
+          "end": 47.601,
+          "words": [
+            {
+              "text": "the",
+              "start": 47.175,
+              "end": 47.21
+            },
+            {
+              "text": "stack",
+              "start": 47.288,
+              "end": 47.601
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "speaker": "fighter2",
+      "start": 47.674,
+      "end": 50.089,
+      "text": "So go fly to Mars, buddy, and please don't come back!",
+      "words": [
+        {
+          "text": "So",
+          "start": 47.674,
+          "end": 47.747
+        },
+        {
+          "text": "go",
+          "start": 47.843,
+          "end": 47.939
+        },
+        {
+          "text": "fly",
+          "start": 48.044,
+          "end": 48.29
+        },
+        {
+          "text": "to",
+          "start": 48.355,
+          "end": 48.42
+        },
+        {
+          "text": "Mars,",
+          "start": 48.5,
+          "end": 48.808
+        },
+        {
+          "text": "buddy,",
+          "start": 48.859,
+          "end": 49.114
+        },
+        {
+          "text": "and",
+          "start": 49.164,
+          "end": 49.264
+        },
+        {
+          "text": "please",
+          "start": 49.312,
+          "end": 49.551
+        },
+        {
+          "text": "don't",
+          "start": 49.559,
+          "end": 49.773
+        },
+        {
+          "text": "come",
+          "start": 49.828,
+          "end": 49.993
+        },
+        {
+          "text": "back!",
+          "start": 50.014,
+          "end": 50.089
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 47.674,
+          "end": 48.42,
+          "words": [
+            {
+              "text": "So",
+              "start": 47.674,
+              "end": 47.747
+            },
+            {
+              "text": "go",
+              "start": 47.843,
+              "end": 47.939
+            },
+            {
+              "text": "fly",
+              "start": 48.044,
+              "end": 48.29
+            },
+            {
+              "text": "to",
+              "start": 48.355,
+              "end": 48.42
+            }
+          ]
+        },
+        {
+          "start": 48.5,
+          "end": 49.551,
+          "words": [
+            {
+              "text": "Mars,",
+              "start": 48.5,
+              "end": 48.808
+            },
+            {
+              "text": "buddy,",
+              "start": 48.859,
+              "end": 49.114
+            },
+            {
+              "text": "and",
+              "start": 49.164,
+              "end": 49.264
+            },
+            {
+              "text": "please",
+              "start": 49.312,
+              "end": 49.551
+            }
+          ]
+        },
+        {
+          "start": 49.559,
+          "end": 50.089,
+          "words": [
+            {
+              "text": "don't",
+              "start": 49.559,
+              "end": 49.773
+            },
+            {
+              "text": "come",
+              "start": 49.828,
+              "end": 49.993
+            },
+            {
+              "text": "back!",
+              "start": 50.014,
+              "end": 50.089
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

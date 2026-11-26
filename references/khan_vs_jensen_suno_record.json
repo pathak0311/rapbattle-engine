@@ -1,0 +1,60 @@
+{
+  "taskId": "8d77ecdcbb1576e6c0fd7c44f174234a",
+  "parentMusicId": "",
+  "param": "{\"callBackUrl\":\"https://example.com/noop\",\"customMode\":true,\"instrumental\":false,\"model\":\"V4_5\",\"negativeTags\":\"announcer, host, hype man, spoken word, narration, chorus, singing, female vocals, crowd\",\"prompt\":\"[Verse 1: Genghis Khan]\\nI built the biggest land empire, bro, before you learned to type\\nNo cloud, no fiber, just a horse and a bow, no hype\\nYour jacket's made of leather, mine came off the whole herd\\nMy riders sent the message and they never missed a word\\nYou sell the shovels, bro, I took the whole gold rush\\nOne horn blast from the steppe and your whole keynote goes hush\\nTwo hours on a stage just to launch one little chip\\nI took the world on horseback with no slides and no script\\n\\n[Verse 2: Jensen Huang]\\nNice horse, nice bow, but where's your compute at, big guy?\\nYour empire split in four, my backorders touch the sky\\nYou sent a rider with a letter, I ship the entire net\\nYour fastest mail is slower than my fiber, don't forget\\nThe more you buy, the more you save, that's how I take the land\\nYou burned the cities down, I made them all my fans\\nEight hundred years and nobody has found where you lie down\\nI'm in every phone, every chat, and every town\\n\\n[End]\",\"style\":\"Epic cinematic trap hip-hop rap battle, thundering taiko and Mongolian war drums, morin khuur horsehead fiddle riff, deep 808, 92 bpm, two male English rappers, verse 1 very deep gravelly menacing commanding baritone, verse 2 smooth cocky clean mid-range tenor, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro, abrupt ending\",\"title\":\"Khan Vs Huang\"}",
+  "response": {
+    "taskId": "8d77ecdcbb1576e6c0fd7c44f174234a",
+    "sunoData": [
+      {
+        "id": "c5537663-f760-4ac0-bdec-cd6041568e9c",
+        "prompt": "[Verse 1: Genghis Khan]\nI built the biggest land empire, bro, before you learned to type\nNo cloud, no fiber, just a horse and a bow, no hype\nYour jacket's made of leather, mine came off the whole herd\nMy riders sent the message and they never missed a word\nYou sell the shovels, bro, I took the whole gold rush\nOne horn blast from the steppe and your whole keynote goes hush\nTwo hours on a stage just to launch one little chip\nI took the world on horseback with no slides and no script\n\n[Verse 2: Jensen Huang]\nNice horse, nice bow, but where's your compute at, big guy?\nYour empire split in four, my backorders touch the sky\nYou sent a rider with a letter, I ship the entire net\nYour fastest mail is slower than my fiber, don't forget\nThe more you buy, the more you save, that's how I take the land\nYou burned the cities down, I made them all my fans\nEight hundred years and nobody has found where you lie down\nI'm in every phone, every chat, and every town\n\n[End]",
+        "title": "Khan Vs Huang",
+        "tags": "Cinematic trap hip-hop rap battle, thundering 92 bpm half-time groove; two male English rappers trade fully sung rap verses, a very deep gravelly baritone with commanding menace in verse one, a smooth, clean mid-range tenor with cocky projection in verse two, both with powerful full-voice belt and dry, up-front vocals; morin khuur horsehead fiddle riff leads thundering taiko and Mongolian war drums over deep 808; distorted 808 saturation, abrupt ending.",
+        "createTime": 1795540018144,
+        "duration": 67.2,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/c5537663-f760-4ac0-bdec-cd6041568e9c.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/c5537663-f760-4ac0-bdec-cd6041568e9c.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/c5537663-f760-4ac0-bdec-cd6041568e9c.mp3",
+        "image_url": "https://musicfile.sunoapi.org/YzU1Mzc2NjMtZjc2MC00YWMwLWJkZWMtY2Q2MDQxNTY4ZTlj.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_c5537663-f760-4ac0-bdec-cd6041568e9c.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/c5537663-f760-4ac0-bdec-cd6041568e9c.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/c5537663-f760-4ac0-bdec-cd6041568e9c.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/c5537663-f760-4ac0-bdec-cd6041568e9c.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/YzU1Mzc2NjMtZjc2MC00YWMwLWJkZWMtY2Q2MDQxNTY4ZTlj.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_c5537663-f760-4ac0-bdec-cd6041568e9c.jpeg",
+        "modelName": "chirp-hawk"
+      },
+      {
+        "id": "826a7556-2865-45ea-b2f5-186ac7270256",
+        "prompt": "[Verse 1: Genghis Khan]\nI built the biggest land empire, bro, before you learned to type\nNo cloud, no fiber, just a horse and a bow, no hype\nYour jacket's made of leather, mine came off the whole herd\nMy riders sent the message and they never missed a word\nYou sell the shovels, bro, I took the whole gold rush\nOne horn blast from the steppe and your whole keynote goes hush\nTwo hours on a stage just to launch one little chip\nI took the world on horseback with no slides and no script\n\n[Verse 2: Jensen Huang]\nNice horse, nice bow, but where's your compute at, big guy?\nYour empire split in four, my backorders touch the sky\nYou sent a rider with a letter, I ship the entire net\nYour fastest mail is slower than my fiber, don't forget\nThe more you buy, the more you save, that's how I take the land\nYou burned the cities down, I made them all my fans\nEight hundred years and nobody has found where you lie down\nI'm in every phone, every chat, and every town\n\n[End]",
+        "title": "Khan Vs Huang",
+        "tags": "Epic cinematic trap hip-hop rap battle, 92 bpm thundering half-time march; deep 808 sub beneath taiko, Mongolian war drums, and a featured morin khuur horsehead fiddle riff; cinematic trailer braam layers swell between bars; two male English rappers trade rap verses only, hushed and close-mic with roomy, unprocessed sound: verse 1 very deep gravelly menacing commanding baritone, verse 2 smooth cocky clean mid-range tenor; abrupt ending.",
+        "createTime": 1795540018144,
+        "duration": 67.6,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/826a7556-2865-45ea-b2f5-186ac7270256.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/826a7556-2865-45ea-b2f5-186ac7270256.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/826a7556-2865-45ea-b2f5-186ac7270256.mp3",
+        "image_url": "https://musicfile.sunoapi.org/ODI2YTc1NTYtMjg2NS00NWVhLWIyZjUtMTg2YWM3MjcwMjU2.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_826a7556-2865-45ea-b2f5-186ac7270256.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/826a7556-2865-45ea-b2f5-186ac7270256.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/826a7556-2865-45ea-b2f5-186ac7270256.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/826a7556-2865-45ea-b2f5-186ac7270256.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/ODI2YTc1NTYtMjg2NS00NWVhLWIyZjUtMTg2YWM3MjcwMjU2.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_826a7556-2865-45ea-b2f5-186ac7270256.jpeg",
+        "modelName": "chirp-hawk"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "type": "chirp-auk",
+  "operationType": "generate",
+  "errorCode": null,
+  "errorMessage": null,
+  "createTime": 1795539983000
+}

@@ -1,0 +1,60 @@
+{
+  "taskId": "a4efbf6b714971bb84a0cb317243d189",
+  "parentMusicId": "",
+  "param": "{\"callBackUrl\":\"https://example.com/noop\",\"customMode\":true,\"instrumental\":false,\"model\":\"V4_5\",\"negativeTags\":\"announcer, host, hype man, spoken word, narration, chorus, singing, female vocals, crowd\",\"prompt\":\"[Verse 1: Sam Altman]\\nI name my models like a router, sure, GPT-four-oh-whatever\\nBut your grandma says \\\"just ChatGPT it,\\\" not \\\"Claude,\\\" not ever\\nYou write forty pages of essay when I just say \\\"what's good\\\"\\nYour bot says \\\"I'd rather not,\\\" like a hall monitor would\\nI ship it Tuesday night, then I tweet a lowercase vibe\\nYou ship a sermon on safety and call it a lifestyle\\n\\\"Machines of Loving Grace\\\"? Bro, just give me the code\\nYou're the Sunday school teacher of the AI road\\n\\n[Verse 2: Dario Amodei]\\nYou tweet in lowercase 'cause the capitals got scared\\nThat \\\"Open\\\" in your name is the cruelest joke ever shared\\nFired on a Friday, rehired within a week\\nYour board flips like a group chat, got the attention span of a tweet\\nMy bot reads the whole book while yours hallucinates the quote\\nClaude's out here writing code, yours is drafting a thank-you note\\nCall me the hall monitor, I'll take that title with pride\\nFunny how your fanboys keep Claude open on the side\\n\\n[End]\",\"style\":\"West coast boom-bap trap hybrid rap battle, 94 bpm, punchy drums, deep 808, dusty piano stabs, two male English rappers, verse 1 young cocky nasally fast flow, verse 2 deeper calm gravelly measured baritone, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro, abrupt ending\",\"title\":\"Sam Vs Dario\"}",
+  "response": {
+    "taskId": "a4efbf6b714971bb84a0cb317243d189",
+    "sunoData": [
+      {
+        "id": "cea8e140-c770-400a-a383-702101566611",
+        "prompt": "[Verse 1: Sam Altman]\nI name my models like a router, sure, GPT-four-oh-whatever\nBut your grandma says \"just ChatGPT it,\" not \"Claude,\" not ever\nYou write forty pages of essay when I just say \"what's good\"\nYour bot says \"I'd rather not,\" like a hall monitor would\nI ship it Tuesday night, then I tweet a lowercase vibe\nYou ship a sermon on safety and call it a lifestyle\n\"Machines of Loving Grace\"? Bro, just give me the code\nYou're the Sunday school teacher of the AI road\n\n[Verse 2: Dario Amodei]\nYou tweet in lowercase 'cause the capitals got scared\nThat \"Open\" in your name is the cruelest joke ever shared\nFired on a Friday, rehired within a week\nYour board flips like a group chat, got the attention span of a tweet\nMy bot reads the whole book while yours hallucinates the quote\nClaude's out here writing code, yours is drafting a thank-you note\nCall me the hall monitor, I'll take that title with pride\nFunny how your fanboys keep Claude open on the side\n\n[End]",
+        "title": "Sam Vs Dario",
+        "tags": "West coast boom-bap trap hybrid rap battle; two male English rappers, verse one young, cocky and nasally with a fast flow, verse two deeper, gravelly and calm in a measured baritone, both hushed and close-mic; punchy drums, deep 808, dusty piano stabs; 94 bpm head-nod swing; dry punchy drum mix, alternating verses, abrupt ending.",
+        "createTime": 1795537200114,
+        "duration": 63.56,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/cea8e140-c770-400a-a383-702101566611.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/cea8e140-c770-400a-a383-702101566611.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/cea8e140-c770-400a-a383-702101566611.mp3",
+        "image_url": "https://musicfile.sunoapi.org/Y2VhOGUxNDAtYzc3MC00MDBhLWEzODMtNzAyMTAxNTY2NjEx.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_cea8e140-c770-400a-a383-702101566611.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/cea8e140-c770-400a-a383-702101566611.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/cea8e140-c770-400a-a383-702101566611.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/cea8e140-c770-400a-a383-702101566611.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/Y2VhOGUxNDAtYzc3MC00MDBhLWEzODMtNzAyMTAxNTY2NjEx.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_cea8e140-c770-400a-a383-702101566611.jpeg",
+        "modelName": "chirp-hawk"
+      },
+      {
+        "id": "f0aec576-aab6-473c-82fc-0869fde11667",
+        "prompt": "[Verse 1: Sam Altman]\nI name my models like a router, sure, GPT-four-oh-whatever\nBut your grandma says \"just ChatGPT it,\" not \"Claude,\" not ever\nYou write forty pages of essay when I just say \"what's good\"\nYour bot says \"I'd rather not,\" like a hall monitor would\nI ship it Tuesday night, then I tweet a lowercase vibe\nYou ship a sermon on safety and call it a lifestyle\n\"Machines of Loving Grace\"? Bro, just give me the code\nYou're the Sunday school teacher of the AI road\n\n[Verse 2: Dario Amodei]\nYou tweet in lowercase 'cause the capitals got scared\nThat \"Open\" in your name is the cruelest joke ever shared\nFired on a Friday, rehired within a week\nYour board flips like a group chat, got the attention span of a tweet\nMy bot reads the whole book while yours hallucinates the quote\nClaude's out here writing code, yours is drafting a thank-you note\nCall me the hall monitor, I'll take that title with pride\nFunny how your fanboys keep Claude open on the side\n\n[End]",
+        "title": "Sam Vs Dario",
+        "tags": "West coast boom-bap trap hybrid rap; two male English rappers trade rap verses only, with a young cocky nasally fast flow in a high, light upper register and a powerful full-voice belt on clipped syllables; verse 2 turns to a deeper calm gravelly measured baritone; punchy drums, deep 808, dusty piano stabs; vinyl crackle and tape hiss, 94 bpm head-nod swing, abrupt ending.",
+        "createTime": 1795537200114,
+        "duration": 62.4,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/f0aec576-aab6-473c-82fc-0869fde11667.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/f0aec576-aab6-473c-82fc-0869fde11667.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/f0aec576-aab6-473c-82fc-0869fde11667.mp3",
+        "image_url": "https://musicfile.sunoapi.org/ZjBhZWM1NzYtYWFiNi00NzNjLTgyZmMtMDg2OWZkZTExNjY3.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_f0aec576-aab6-473c-82fc-0869fde11667.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/f0aec576-aab6-473c-82fc-0869fde11667.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/f0aec576-aab6-473c-82fc-0869fde11667.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/f0aec576-aab6-473c-82fc-0869fde11667.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/ZjBhZWM1NzYtYWFiNi00NzNjLTgyZmMtMDg2OWZkZTExNjY3.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_f0aec576-aab6-473c-82fc-0869fde11667.jpeg",
+        "modelName": "chirp-hawk"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "type": "chirp-auk",
+  "operationType": "generate",
+  "errorCode": null,
+  "errorMessage": null,
+  "createTime": 1795537162000
+}

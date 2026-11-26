@@ -1,0 +1,1519 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "alignedWords": [
+      {
+        "word": "[Verse 1: Sam Altman]\nI ",
+        "success": true,
+        "startS": 9.373,
+        "endS": 9.538,
+        "palign": 0
+      },
+      {
+        "word": "name ",
+        "success": true,
+        "startS": 9.589,
+        "endS": 9.742,
+        "palign": 0
+      },
+      {
+        "word": "my ",
+        "success": true,
+        "startS": 9.811,
+        "endS": 9.88,
+        "palign": 0
+      },
+      {
+        "word": "models ",
+        "success": true,
+        "startS": 9.941,
+        "endS": 10.302,
+        "palign": 0
+      },
+      {
+        "word": "like ",
+        "success": true,
+        "startS": 10.33475,
+        "endS": 10.433,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 10.508,
+        "endS": 10.508,
+        "palign": 0
+      },
+      {
+        "word": "router, ",
+        "success": true,
+        "startS": 10.57375,
+        "endS": 10.926,
+        "palign": 0
+      },
+      {
+        "word": "sure, ",
+        "success": true,
+        "startS": 10.99,
+        "endS": 11.227,
+        "palign": 0
+      },
+      {
+        "word": "GPT-four-oh-whatever\n",
+        "success": true,
+        "startS": 11.267,
+        "endS": 12.862,
+        "palign": 0
+      },
+      {
+        "word": "But ",
+        "success": true,
+        "startS": 12.891,
+        "endS": 12.949,
+        "palign": 0
+      },
+      {
+        "word": "your ",
+        "success": true,
+        "startS": 12.9815,
+        "endS": 13.079,
+        "palign": 0
+      },
+      {
+        "word": "grandma ",
+        "success": true,
+        "startS": 13.12314,
+        "endS": 13.388,
+        "palign": 0
+      },
+      {
+        "word": "says \"",
+        "success": true,
+        "startS": 13.44975,
+        "endS": 13.656,
+        "palign": 0
+      },
+      {
+        "word": "just ",
+        "success": true,
+        "startS": 13.677,
+        "endS": 13.74,
+        "palign": 0
+      },
+      {
+        "word": "ChatGPT ",
+        "success": true,
+        "startS": 13.7895,
+        "endS": 14.504,
+        "palign": 0
+      },
+      {
+        "word": "it,\" ",
+        "success": true,
+        "startS": 14.5575,
+        "endS": 14.659,
+        "palign": 0
+      },
+      {
+        "word": "not \"",
+        "success": true,
+        "startS": 14.683,
+        "endS": 14.758,
+        "palign": 0
+      },
+      {
+        "word": "Claude,\" ",
+        "success": true,
+        "startS": 14.785,
+        "endS": 15.1784,
+        "palign": 0
+      },
+      {
+        "word": "not ",
+        "success": true,
+        "startS": 15.2136,
+        "endS": 15.284,
+        "palign": 0
+      },
+      {
+        "word": "ever\n",
+        "success": true,
+        "startS": 15.3565,
+        "endS": 15.574,
+        "palign": 0
+      },
+      {
+        "word": "You ",
+        "success": true,
+        "startS": 15.62567,
+        "endS": 15.729,
+        "palign": 0
+      },
+      {
+        "word": "write ",
+        "success": true,
+        "startS": 15.763,
+        "endS": 15.899,
+        "palign": 0
+      },
+      {
+        "word": "forty ",
+        "success": true,
+        "startS": 15.9648,
+        "endS": 16.228,
+        "palign": 0
+      },
+      {
+        "word": "pages ",
+        "success": true,
+        "startS": 16.305,
+        "endS": 16.613,
+        "palign": 0
+      },
+      {
+        "word": "of ",
+        "success": true,
+        "startS": 16.6435,
+        "endS": 16.674,
+        "palign": 0
+      },
+      {
+        "word": "essay ",
+        "success": true,
+        "startS": 16.707,
+        "endS": 17.087,
+        "palign": 0
+      },
+      {
+        "word": "when ",
+        "success": true,
+        "startS": 17.121,
+        "endS": 17.223,
+        "palign": 0
+      },
+      {
+        "word": "I ",
+        "success": true,
+        "startS": 17.303,
+        "endS": 17.324,
+        "palign": 0
+      },
+      {
+        "word": "just ",
+        "success": true,
+        "startS": 17.35225,
+        "endS": 17.437,
+        "palign": 0
+      },
+      {
+        "word": "say \"",
+        "success": true,
+        "startS": 17.517,
+        "endS": 17.703,
+        "palign": 0
+      },
+      {
+        "word": "what's ",
+        "success": true,
+        "startS": 17.703,
+        "endS": 17.949,
+        "palign": 0
+      },
+      {
+        "word": "good\"\n",
+        "success": true,
+        "startS": 18.008,
+        "endS": 18.2096,
+        "palign": 0
+      },
+      {
+        "word": "Your ",
+        "success": true,
+        "startS": 18.2342,
+        "endS": 18.308,
+        "palign": 0
+      },
+      {
+        "word": "bot ",
+        "success": true,
+        "startS": 18.37067,
+        "endS": 18.496,
+        "palign": 0
+      },
+      {
+        "word": "says \"",
+        "success": true,
+        "startS": 18.54275,
+        "endS": 18.69,
+        "palign": 0
+      },
+      {
+        "word": "I'd ",
+        "success": true,
+        "startS": 18.697,
+        "endS": 18.826,
+        "palign": 0
+      },
+      {
+        "word": "rather ",
+        "success": true,
+        "startS": 18.877,
+        "endS": 19.132,
+        "palign": 0
+      },
+      {
+        "word": "not,\" ",
+        "success": true,
+        "startS": 19.20067,
+        "endS": 19.401,
+        "palign": 0
+      },
+      {
+        "word": "like ",
+        "success": true,
+        "startS": 19.4325,
+        "endS": 19.527,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 19.59,
+        "endS": 19.59,
+        "palign": 0
+      },
+      {
+        "word": "hall ",
+        "success": true,
+        "startS": 19.63975,
+        "endS": 19.789,
+        "palign": 0
+      },
+      {
+        "word": "monitor ",
+        "success": true,
+        "startS": 19.904,
+        "endS": 20.276,
+        "palign": 0
+      },
+      {
+        "word": "would\n",
+        "success": true,
+        "startS": 20.356,
+        "endS": 20.726,
+        "palign": 0
+      },
+      {
+        "word": "I ",
+        "success": true,
+        "startS": 20.806,
+        "endS": 20.861,
+        "palign": 0
+      },
+      {
+        "word": "ship ",
+        "success": true,
+        "startS": 20.9315,
+        "endS": 21.143,
+        "palign": 0
+      },
+      {
+        "word": "it ",
+        "success": true,
+        "startS": 21.1715,
+        "endS": 21.2,
+        "palign": 0
+      },
+      {
+        "word": "Tuesday ",
+        "success": true,
+        "startS": 21.24986,
+        "endS": 21.549,
+        "palign": 0
+      },
+      {
+        "word": "night, ",
+        "success": true,
+        "startS": 21.5958,
+        "endS": 21.8082,
+        "palign": 0
+      },
+      {
+        "word": "then ",
+        "success": true,
+        "startS": 21.8334,
+        "endS": 21.909,
+        "palign": 0
+      },
+      {
+        "word": "I ",
+        "success": true,
+        "startS": 22.053,
+        "endS": 22.055,
+        "palign": 0
+      },
+      {
+        "word": "tweet ",
+        "success": true,
+        "startS": 22.09267,
+        "endS": 22.262,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 22.373,
+        "endS": 22.397,
+        "palign": 0
+      },
+      {
+        "word": "lowercase ",
+        "success": true,
+        "startS": 22.441,
+        "endS": 22.926,
+        "palign": 0
+      },
+      {
+        "word": "vibe\n",
+        "success": true,
+        "startS": 22.99225,
+        "endS": 23.191,
+        "palign": 0
+      },
+      {
+        "word": "You ",
+        "success": true,
+        "startS": 23.22333,
+        "endS": 23.288,
+        "palign": 0
+      },
+      {
+        "word": "ship ",
+        "success": true,
+        "startS": 23.35125,
+        "endS": 23.541,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 23.603,
+        "endS": 23.603,
+        "palign": 0
+      },
+      {
+        "word": "sermon ",
+        "success": true,
+        "startS": 23.66567,
+        "endS": 23.981,
+        "palign": 0
+      },
+      {
+        "word": "on ",
+        "success": true,
+        "startS": 24.028,
+        "endS": 24.075,
+        "palign": 0
+      },
+      {
+        "word": "safety ",
+        "success": true,
+        "startS": 24.151,
+        "endS": 24.531,
+        "palign": 0
+      },
+      {
+        "word": "and ",
+        "success": true,
+        "startS": 24.54933,
+        "endS": 24.586,
+        "palign": 0
+      },
+      {
+        "word": "call ",
+        "success": true,
+        "startS": 24.64575,
+        "endS": 24.825,
+        "palign": 0
+      },
+      {
+        "word": "it ",
+        "success": true,
+        "startS": 24.905,
+        "endS": 24.995,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 25.044,
+        "endS": 25.044,
+        "palign": 0
+      },
+      {
+        "word": "lifestyle\n\"",
+        "success": true,
+        "startS": 25.16433,
+        "endS": 25.943,
+        "palign": 0
+      },
+      {
+        "word": "Machines ",
+        "success": true,
+        "startS": 25.995,
+        "endS": 26.359,
+        "palign": 0
+      },
+      {
+        "word": "of ",
+        "success": true,
+        "startS": 26.401,
+        "endS": 26.443,
+        "palign": 0
+      },
+      {
+        "word": "Loving ",
+        "success": true,
+        "startS": 26.489,
+        "endS": 26.719,
+        "palign": 0
+      },
+      {
+        "word": "Grace\"? ",
+        "success": true,
+        "startS": 26.7848,
+        "endS": 27.144,
+        "palign": 0
+      },
+      {
+        "word": "Bro, ",
+        "success": true,
+        "startS": 27.192,
+        "endS": 27.3162,
+        "palign": 0
+      },
+      {
+        "word": "just ",
+        "success": true,
+        "startS": 27.3444,
+        "endS": 27.429,
+        "palign": 0
+      },
+      {
+        "word": "give ",
+        "success": true,
+        "startS": 27.45725,
+        "endS": 27.542,
+        "palign": 0
+      },
+      {
+        "word": "me ",
+        "success": true,
+        "startS": 27.6375,
+        "endS": 27.767,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 27.80667,
+        "endS": 27.886,
+        "palign": 0
+      },
+      {
+        "word": "code\n",
+        "success": true,
+        "startS": 27.966,
+        "endS": 28.37,
+        "palign": 0
+      },
+      {
+        "word": "You're ",
+        "success": true,
+        "startS": 28.39133,
+        "endS": 28.537,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 28.545,
+        "endS": 28.561,
+        "palign": 0
+      },
+      {
+        "word": "Sunday ",
+        "success": true,
+        "startS": 28.6205,
+        "endS": 28.918,
+        "palign": 0
+      },
+      {
+        "word": "school ",
+        "success": true,
+        "startS": 28.98683,
+        "endS": 29.331,
+        "palign": 0
+      },
+      {
+        "word": "teacher ",
+        "success": true,
+        "startS": 29.38629,
+        "endS": 29.718,
+        "palign": 0
+      },
+      {
+        "word": "of ",
+        "success": true,
+        "startS": 29.7795,
+        "endS": 29.841,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 29.87933,
+        "endS": 29.956,
+        "palign": 0
+      },
+      {
+        "word": "AI ",
+        "success": true,
+        "startS": 30.036,
+        "endS": 30.414,
+        "palign": 0
+      },
+      {
+        "word": "road\n\n",
+        "success": true,
+        "startS": 30.494,
+        "endS": 30.77044,
+        "palign": 0
+      },
+      {
+        "word": "[Verse 2: Dario Amodei]\nYou ",
+        "success": true,
+        "startS": 30.77089,
+        "endS": 30.969,
+        "palign": 0
+      },
+      {
+        "word": "tweet ",
+        "success": true,
+        "startS": 30.98767,
+        "endS": 31.122,
+        "palign": 0
+      },
+      {
+        "word": "in ",
+        "success": true,
+        "startS": 31.2265,
+        "endS": 31.331,
+        "palign": 0
+      },
+      {
+        "word": "lowercase ",
+        "success": true,
+        "startS": 31.3866,
+        "endS": 32.133,
+        "palign": 0
+      },
+      {
+        "word": "'cause ",
+        "success": true,
+        "startS": 32.133,
+        "endS": 32.328,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 32.36467,
+        "endS": 32.438,
+        "palign": 0
+      },
+      {
+        "word": "capitals ",
+        "success": true,
+        "startS": 32.50567,
+        "endS": 32.931,
+        "palign": 0
+      },
+      {
+        "word": "got ",
+        "success": true,
+        "startS": 32.98267,
+        "endS": 33.086,
+        "palign": 0
+      },
+      {
+        "word": "scared\n",
+        "success": true,
+        "startS": 33.15233,
+        "endS": 33.484,
+        "palign": 0
+      },
+      {
+        "word": "That \"",
+        "success": true,
+        "startS": 33.5115,
+        "endS": 33.6538,
+        "palign": 0
+      },
+      {
+        "word": "Open\" ",
+        "success": true,
+        "startS": 33.7136,
+        "endS": 33.94267,
+        "palign": 0
+      },
+      {
+        "word": "in ",
+        "success": true,
+        "startS": 33.99233,
+        "endS": 34.042,
+        "palign": 0
+      },
+      {
+        "word": "your ",
+        "success": true,
+        "startS": 34.05925,
+        "endS": 34.111,
+        "palign": 0
+      },
+      {
+        "word": "name ",
+        "success": true,
+        "startS": 34.18875,
+        "endS": 34.422,
+        "palign": 0
+      },
+      {
+        "word": "is ",
+        "success": true,
+        "startS": 34.498,
+        "endS": 34.574,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 34.59567,
+        "endS": 34.639,
+        "palign": 0
+      },
+      {
+        "word": "cruelest ",
+        "success": true,
+        "startS": 34.6786,
+        "endS": 35.004,
+        "palign": 0
+      },
+      {
+        "word": "joke ",
+        "success": true,
+        "startS": 35.0865,
+        "endS": 35.383,
+        "palign": 0
+      },
+      {
+        "word": "ever ",
+        "success": true,
+        "startS": 35.4345,
+        "endS": 35.589,
+        "palign": 0
+      },
+      {
+        "word": "shared\n",
+        "success": true,
+        "startS": 35.669,
+        "endS": 36.107,
+        "palign": 0
+      },
+      {
+        "word": "Fired ",
+        "success": true,
+        "startS": 36.154,
+        "endS": 36.443,
+        "palign": 0
+      },
+      {
+        "word": "on ",
+        "success": true,
+        "startS": 36.528,
+        "endS": 36.629,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 36.694,
+        "endS": 36.694,
+        "palign": 0
+      },
+      {
+        "word": "Friday, ",
+        "success": true,
+        "startS": 36.774,
+        "endS": 37.304,
+        "palign": 0
+      },
+      {
+        "word": "rehired ",
+        "success": true,
+        "startS": 37.362,
+        "endS": 37.746,
+        "palign": 0
+      },
+      {
+        "word": "within ",
+        "success": true,
+        "startS": 37.804,
+        "endS": 38.094,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 38.174,
+        "endS": 38.25,
+        "palign": 0
+      },
+      {
+        "word": "week\n",
+        "success": true,
+        "startS": 38.33,
+        "endS": 38.586,
+        "palign": 0
+      },
+      {
+        "word": "Your ",
+        "success": true,
+        "startS": 38.62,
+        "endS": 38.722,
+        "palign": 0
+      },
+      {
+        "word": "board ",
+        "success": true,
+        "startS": 38.7554,
+        "endS": 38.889,
+        "palign": 0
+      },
+      {
+        "word": "flips ",
+        "success": true,
+        "startS": 38.904,
+        "endS": 39.172,
+        "palign": 0
+      },
+      {
+        "word": "like ",
+        "success": true,
+        "startS": 39.206,
+        "endS": 39.308,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 39.344,
+        "endS": 39.344,
+        "palign": 0
+      },
+      {
+        "word": "group ",
+        "success": true,
+        "startS": 39.385,
+        "endS": 39.549,
+        "palign": 0
+      },
+      {
+        "word": "chat, ",
+        "success": true,
+        "startS": 39.61525,
+        "endS": 39.8565,
+        "palign": 0
+      },
+      {
+        "word": "got ",
+        "success": true,
+        "startS": 39.899,
+        "endS": 39.984,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 40.004,
+        "endS": 40.044,
+        "palign": 0
+      },
+      {
+        "word": "attention ",
+        "success": true,
+        "startS": 40.09256,
+        "endS": 40.481,
+        "palign": 0
+      },
+      {
+        "word": "span ",
+        "success": true,
+        "startS": 40.5385,
+        "endS": 40.711,
+        "palign": 0
+      },
+      {
+        "word": "of ",
+        "success": true,
+        "startS": 40.791,
+        "endS": 40.879,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 40.91,
+        "endS": 40.91,
+        "palign": 0
+      },
+      {
+        "word": "tweet\n",
+        "success": true,
+        "startS": 40.94867,
+        "endS": 41.278,
+        "palign": 0
+      },
+      {
+        "word": "My ",
+        "success": true,
+        "startS": 41.358,
+        "endS": 41.443,
+        "palign": 0
+      },
+      {
+        "word": "bot ",
+        "success": true,
+        "startS": 41.499,
+        "endS": 41.611,
+        "palign": 0
+      },
+      {
+        "word": "reads ",
+        "success": true,
+        "startS": 41.6405,
+        "endS": 41.892,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 41.91167,
+        "endS": 41.951,
+        "palign": 0
+      },
+      {
+        "word": "whole ",
+        "success": true,
+        "startS": 42.0012,
+        "endS": 42.202,
+        "palign": 0
+      },
+      {
+        "word": "book ",
+        "success": true,
+        "startS": 42.238,
+        "endS": 42.346,
+        "palign": 0
+      },
+      {
+        "word": "while ",
+        "success": true,
+        "startS": 42.3738,
+        "endS": 42.485,
+        "palign": 0
+      },
+      {
+        "word": "yours ",
+        "success": true,
+        "startS": 42.5274,
+        "endS": 42.697,
+        "palign": 0
+      },
+      {
+        "word": "hallucinates ",
+        "success": true,
+        "startS": 42.71425,
+        "endS": 43.327,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 43.35033,
+        "endS": 43.397,
+        "palign": 0
+      },
+      {
+        "word": "quote\n",
+        "success": true,
+        "startS": 43.405,
+        "endS": 43.746,
+        "palign": 0
+      },
+      {
+        "word": "Claude's ",
+        "success": true,
+        "startS": 43.75533,
+        "endS": 44.03,
+        "palign": 0
+      },
+      {
+        "word": "out ",
+        "success": true,
+        "startS": 44.05533,
+        "endS": 44.106,
+        "palign": 0
+      },
+      {
+        "word": "here ",
+        "success": true,
+        "startS": 44.14875,
+        "endS": 44.277,
+        "palign": 0
+      },
+      {
+        "word": "writing ",
+        "success": true,
+        "startS": 44.32129,
+        "endS": 44.587,
+        "palign": 0
+      },
+      {
+        "word": "code, ",
+        "success": true,
+        "startS": 44.62675,
+        "endS": 44.783,
+        "palign": 0
+      },
+      {
+        "word": "yours ",
+        "success": true,
+        "startS": 44.82,
+        "endS": 44.968,
+        "palign": 0
+      },
+      {
+        "word": "is ",
+        "success": true,
+        "startS": 45.0045,
+        "endS": 45.041,
+        "palign": 0
+      },
+      {
+        "word": "drafting ",
+        "success": true,
+        "startS": 45.06267,
+        "endS": 45.494,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 45.574,
+        "endS": 45.585,
+        "palign": 0
+      },
+      {
+        "word": "thank-you ",
+        "success": true,
+        "startS": 45.635,
+        "endS": 46.009,
+        "palign": 0
+      },
+      {
+        "word": "note\n",
+        "success": true,
+        "startS": 46.089,
+        "endS": 46.378,
+        "palign": 0
+      },
+      {
+        "word": "Call ",
+        "success": true,
+        "startS": 46.41775,
+        "endS": 46.537,
+        "palign": 0
+      },
+      {
+        "word": "me ",
+        "success": true,
+        "startS": 46.617,
+        "endS": 46.75,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 46.78167,
+        "endS": 46.845,
+        "palign": 0
+      },
+      {
+        "word": "hall ",
+        "success": true,
+        "startS": 46.91825,
+        "endS": 47.138,
+        "palign": 0
+      },
+      {
+        "word": "monitor, ",
+        "success": true,
+        "startS": 47.22967,
+        "endS": 47.6595,
+        "palign": 0
+      },
+      {
+        "word": "I'll ",
+        "success": true,
+        "startS": 47.671,
+        "endS": 47.803,
+        "palign": 0
+      },
+      {
+        "word": "take ",
+        "success": true,
+        "startS": 47.853,
+        "endS": 48.003,
+        "palign": 0
+      },
+      {
+        "word": "that ",
+        "success": true,
+        "startS": 48.03625,
+        "endS": 48.136,
+        "palign": 0
+      },
+      {
+        "word": "title ",
+        "success": true,
+        "startS": 48.204,
+        "endS": 48.476,
+        "palign": 0
+      },
+      {
+        "word": "with ",
+        "success": true,
+        "startS": 48.50975,
+        "endS": 48.611,
+        "palign": 0
+      },
+      {
+        "word": "pride\n",
+        "success": true,
+        "startS": 48.691,
+        "endS": 49.103,
+        "palign": 0
+      },
+      {
+        "word": "Funny ",
+        "success": true,
+        "startS": 49.1608,
+        "endS": 49.392,
+        "palign": 0
+      },
+      {
+        "word": "how ",
+        "success": true,
+        "startS": 49.46133,
+        "endS": 49.6,
+        "palign": 0
+      },
+      {
+        "word": "your ",
+        "success": true,
+        "startS": 49.62375,
+        "endS": 49.695,
+        "palign": 0
+      },
+      {
+        "word": "fanboys ",
+        "success": true,
+        "startS": 49.775,
+        "endS": 50.151,
+        "palign": 0
+      },
+      {
+        "word": "keep ",
+        "success": true,
+        "startS": 50.21,
+        "endS": 50.387,
+        "palign": 0
+      },
+      {
+        "word": "Claude ",
+        "success": true,
+        "startS": 50.4325,
+        "endS": 50.749,
+        "palign": 0
+      },
+      {
+        "word": "open ",
+        "success": true,
+        "startS": 50.82275,
+        "endS": 51.044,
+        "palign": 0
+      },
+      {
+        "word": "on ",
+        "success": true,
+        "startS": 51.124,
+        "endS": 51.214,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 51.23167,
+        "endS": 51.267,
+        "palign": 0
+      },
+      {
+        "word": "side\n\n[",
+        "success": true,
+        "startS": 51.28986,
+        "endS": 51.427,
+        "palign": 0
+      },
+      {
+        "word": "End]\n\n\n",
+        "success": true,
+        "startS": 51.44986,
+        "endS": 51.587,
+        "palign": 0
+      }
+    ],
+    "waveformData": [
+      0.00739,
+      0.10761,
+      0.09576,
+      0.10994,
+      0.0523,
+      0.02808,
+      0.02373,
+      0.02463,
+      0.01511,
+      0.01495,
+      0.02385,
+      0.01853,
+      0.1273,
+      0.05144,
+      0.02974,
+      0.02204,
+      0.01789,
+      0.02813,
+      0.02319,
+      0.01434,
+      0.03027,
+      0.01731,
+      0.03313,
+      0.03699,
+      0.01996,
+      0.11187,
+      0.13457,
+      0.14244,
+      0.12269,
+      0.11609,
+      0.03558,
+      0.0262,
+      0.02267,
+      0.02834,
+      0.05394,
+      0.11178,
+      0.03883,
+      0.01916,
+      0.11525,
+      0.05187,
+      0.02517,
+      0.02415,
+      0.02181,
+      0.01955,
+      0.02007,
+      0.01248,
+      0.04138,
+      0.13295,
+      0.12257,
+      0.12058,
+      0.10711,
+      0.10159,
+      0.28296,
+      0.15489,
+      0.14474,
+      0.16136,
+      0.10464,
+      0.27993,
+      0.20272,
+      0.24487,
+      0.11065,
+      0.11575,
+      0.13666,
+      0.05306,
+      0.0627,
+      0.12059,
+      0.09341,
+      0.0971,
+      0.15322,
+      0.10396,
+      0.0818,
+      0.11623,
+      0.09554,
+      0.10758,
+      0.1311,
+      0.14737,
+      0.11561,
+      0.06117,
+      0.26222,
+      0.14465,
+      0.17393,
+      0.17233,
+      0.09902,
+      0.2553,
+      0.24474,
+      0.21049,
+      0.10694,
+      0.12092,
+      0.11863,
+      0.15497,
+      0.08714,
+      0.13412,
+      0.08122,
+      0.11963,
+      0.14555,
+      0.11933,
+      0.07509,
+      0.14838,
+      0.1232,
+      0.26549,
+      0.18788,
+      0.26062,
+      0.20313,
+      0.16571,
+      0.27016,
+      0.1581,
+      0.1889,
+      0.17692,
+      0.10549,
+      0.27105,
+      0.29674,
+      0.17634,
+      0.08048,
+      0.1641,
+      0.13522,
+      0.08837,
+      0.08723,
+      0.0816,
+      0.12563,
+      0.12806,
+      0.1583,
+      0.08977,
+      0.1094,
+      0.13065,
+      0.112,
+      0.13385,
+      0.13461,
+      0.12091,
+      0.06388,
+      0.10807,
+      0.27923,
+      0.1629,
+      0.16997,
+      0.16803,
+      0.16628,
+      0.23899,
+      0.28682,
+      0.15946,
+      0.0583,
+      0.17025,
+      0.06247,
+      0.12018,
+      0.08273,
+      0.13842,
+      0.05611,
+      0.13368,
+      0.1238,
+      0.10034,
+      0.10704,
+      0.09846,
+      0.10603,
+      0.08842,
+      0.12769,
+      0.11787,
+      0.12935,
+      0.1996,
+      0.24485,
+      0.18557,
+      0.20793,
+      0.12322,
+      0.20481,
+      0.22247,
+      0.28047,
+      0.1736,
+      0.12407,
+      0.13937,
+      0.12842,
+      0.10966,
+      0.14673,
+      0.14342,
+      0.12803,
+      0.11935,
+      0.13878,
+      0.14793,
+      0.09671,
+      0.09824,
+      0.10974,
+      0.20725,
+      0.20864,
+      0.16813,
+      0.19794,
+      0.2102,
+      0.21673,
+      0.17463,
+      0.19134,
+      0.10895,
+      0.2667,
+      0.18437,
+      0.25995,
+      0.17646,
+      0.10724,
+      0.14051,
+      0.11618,
+      0.12869,
+      0.09863,
+      0.11553,
+      0.12414,
+      0.12335,
+      0.10441,
+      0.12361,
+      0.11853,
+      0.07473,
+      0.20555,
+      0.24062,
+      0.22362,
+      0.29033,
+      0.21811,
+      0.26111,
+      0.20755,
+      0.19676,
+      0.21624,
+      0.12171,
+      0.27099,
+      0.19371,
+      0.27068,
+      0.13674,
+      0.10773,
+      0.13395,
+      0.10943,
+      0.11458,
+      0.12632,
+      0.08114,
+      0.13267,
+      0.17286,
+      0.1058,
+      0.09066,
+      0.10969,
+      0.0873,
+      0.09456,
+      0.14984,
+      0.13328,
+      0.1222,
+      0.12469,
+      0.25792,
+      0.16869,
+      0.17842,
+      0.20037,
+      0.08224,
+      0.256,
+      0.15937,
+      0.25588,
+      0.12862,
+      0.12746,
+      0.14053,
+      0.04146,
+      0.12686,
+      0.13205,
+      0.07741,
+      0.11175,
+      0.16719,
+      0.10421,
+      0.13781,
+      0.12358,
+      0.10942,
+      0.1291,
+      0.08552,
+      0.1263,
+      0.0638,
+      0.12058,
+      0.28714,
+      0.24126,
+      0.23752,
+      0.22323,
+      0.03784,
+      0.29801,
+      0.25291,
+      0.26746,
+      0.15143,
+      0.01725,
+      0.12498,
+      0.03207,
+      0.02169,
+      0.04822,
+      0.0363,
+      0.03041,
+      0.13644,
+      0.03133,
+      0.04076,
+      0.03754,
+      0.04311,
+      0.28321,
+      0.25761,
+      0.2269,
+      0.24856,
+      0.26497,
+      0.29389,
+      0.16452,
+      0.24469,
+      0.19701,
+      0.02784,
+      0.28889,
+      0.25335,
+      0.22139,
+      0.12493,
+      0.09196,
+      0.09392,
+      0.03122,
+      0.0123,
+      0.05345,
+      0.03968,
+      0.03021,
+      0.12737,
+      0.02718,
+      0.041,
+      0.0419,
+      0.03123,
+      0.30166,
+      0.23271,
+      0.27932,
+      0.26141,
+      0.24881,
+      0.23591,
+      0.22051,
+      0.24939,
+      0.13142,
+      0.00821,
+      0.00431
+    ],
+    "hootCer": 0.16045548654244307,
+    "isStreamed": false
+  }
+}

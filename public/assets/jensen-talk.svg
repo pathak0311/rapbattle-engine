@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img">
+  <title>Stylized Jensen Huang in black leather jacket with NVIDIA green accents and microphone</title>
+  <defs>
+    <linearGradient id="jensen-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1905"/>
+      <stop offset="50%" stop-color="#142E08"/>
+      <stop offset="100%" stop-color="#050804"/>
+    </linearGradient>
+    <linearGradient id="jensen-leather" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2D3238"/>
+      <stop offset="45%" stop-color="#171A1E"/>
+      <stop offset="100%" stop-color="#0A0C0E"/>
+    </linearGradient>
+    <linearGradient id="jensen-skin" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0%" stop-color="#F5CBA7"/>
+      <stop offset="100%" stop-color="#D49B72"/>
+    </linearGradient>
+    <linearGradient id="jensen-hair" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9CA3AF"/>
+      <stop offset="50%" stop-color="#6B7280"/>
+      <stop offset="100%" stop-color="#374151"/>
+    </linearGradient>
+  </defs>
+  <!-- Rich cyber background so circular crop looks awesome -->
+  <rect width="600" height="760" fill="url(#jensen-bg)"/>
+  <g stroke="#76B900" stroke-opacity="0.18" stroke-width="2">
+    <line x1="0" y1="120" x2="600" y2="120"/>
+    <line x1="0" y1="240" x2="600" y2="240"/>
+    <line x1="0" y1="360" x2="600" y2="360"/>
+    <line x1="0" y1="480" x2="600" y2="480"/>
+    <line x1="150" y1="0" x2="150" y2="760"/>
+    <line x1="300" y1="0" x2="300" y2="760"/>
+    <line x1="450" y1="0" x2="450" y2="760"/>
+  </g>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="#76B900" stroke-width="4" stroke-opacity="0.35"/>
+
+  <!-- Shoulders & Iconic Black Leather Biker Jacket -->
+  <path d="M68 760V648c0-128 84-210 206-222h52c124 12 206 94 206 222v112" fill="url(#jensen-leather)" stroke="#06080A" stroke-width="12"/>
+  <!-- Leather Jacket Quilted Shoulder Ridges -->
+  <path d="M95 540l65-28M85 572l70-26M78 604l74-24M505 540l-65-28M515 572l-70-26M522 604l-74-24" stroke="#4B5563" stroke-width="7" stroke-linecap="round"/>
+  <!-- Inner black tee & Neck -->
+  <path d="M210 452l90 125 90-125 56 38-50 270H202l-48-270z" fill="#0F1317"/>
+  <path d="M252 440h96l-8 84-40 36-40-36z" fill="url(#jensen-skin)" stroke="#06080A" stroke-width="9"/>
+  <!-- Biker collar lapels with silver snaps & green rim highlight -->
+  <path d="M204 446l96 118-58 46-62-134zM396 446l-96 118 58 46 62-134z" fill="#22262C" stroke="#76B900" stroke-width="6"/>
+  <circle cx="222" cy="512" r="7" fill="#E5E7EB"/>
+  <circle cx="378" cy="512" r="7" fill="#E5E7EB"/>
+  <!-- Metallic Zippers -->
+  <line x1="276" y1="564" x2="276" y2="760" stroke="#9CA3AF" stroke-width="6" stroke-dasharray="10 6"/>
+  <line x1="170" y1="620" x2="230" y2="650" stroke="#9CA3AF" stroke-width="7" stroke-linecap="round"/>
+  <line x1="430" y1="620" x2="370" y2="650" stroke="#9CA3AF" stroke-width="7" stroke-linecap="round"/>
+  <!-- NVIDIA GPU Chip Emblem on Chest -->
+  <rect x="272" y="616" width="56" height="56" rx="8" fill="#0D1708" stroke="#76B900" stroke-width="5"/>
+  <rect x="286" y="630" width="28" height="28" rx="4" fill="#76B900"/>
+  <path d="M282 608v8M300 608v8M318 608v8M282 672v8M300 672v8M318 672v8M264 626h8M264 644h8M264 662h8M328 626h8M328 644h8M328 662h8" stroke="#76B900" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Ears -->
+  <ellipse cx="162" cy="316" rx="38" ry="56" fill="#D49B72" stroke="#06080A" stroke-width="9"/>
+  <ellipse cx="438" cy="316" rx="38" ry="56" fill="#D49B72" stroke="#06080A" stroke-width="9"/>
+
+  <!-- Head -->
+  <path d="M170 242c0-98 58-154 130-154 84 0 134 60 130 162l-12 108c-10 82-62 124-118 124-64 0-112-44-120-124z" fill="url(#jensen-skin)" stroke="#06080A" stroke-width="11"/>
+
+  <!-- Silver/Gray Swept Hair -->
+  <path d="M164 256c-14-106 32-182 138-182 82 0 138 46 144 140-26-22-48-44-62-76-40 44-108 66-220 68z" fill="url(#jensen-hair)" stroke="#06080A" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M188 184c38-62 104-88 178-76" fill="none" stroke="#E5E7EB" stroke-width="10" stroke-linecap="round" opacity="0.7"/>
+  <path d="M210 150c36-38 92-52 148-42" fill="none" stroke="#D1D5DB" stroke-width="7" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Eyebrows (Silver-gray) -->
+  <path d="M206 274q42-22 76 2M322 274q36-22 74 2" fill="none" stroke="#4B5563" stroke-width="11" stroke-linecap="round"/>
+
+  <!-- Eyes -->
+  <path d="M216 308q28-18 58 0-28 24-58 0zM330 308q28-18 56 0-28 24-56 0z" fill="#F9FAFB" stroke="#06080A" stroke-width="6"/>
+  <circle cx="246" cy="308" r="10" fill="#1F2937"/>
+  <circle cx="358" cy="308" r="10" fill="#1F2937"/>
+  <circle cx="249" cy="305" r="3" fill="#FFFFFF"/>
+  <circle cx="361" cy="305" r="3" fill="#FFFFFF"/>
+
+  <!-- Signature Rimless / Thin Titanium Glasses -->
+  <rect x="198" y="282" width="92" height="54" rx="12" fill="#76B900" fill-opacity="0.1" stroke="#E5E7EB" stroke-width="6"/>
+  <rect x="314" y="282" width="92" height="54" rx="12" fill="#76B900" fill-opacity="0.1" stroke="#E5E7EB" stroke-width="6"/>
+  <line x1="290" y1="304" x2="314" y2="304" stroke="#E5E7EB" stroke-width="6"/>
+  <line x1="168" y1="298" x2="198" y2="298" stroke="#E5E7EB" stroke-width="5"/>
+  <line x1="406" y1="298" x2="434" y2="298" stroke="#E5E7EB" stroke-width="5"/>
+
+  <!-- Nose & Smile Lines -->
+  <path d="M302 308l-12 62 28 4" fill="none" stroke="#B27650" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M235 388q-14 22-8 42M369 388q14 22 8 42" fill="none" stroke="#B27650" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Confident Smirk Mouth -->
+  <g id="mouth-open">
+    <path d="M254 406q48-14 96 0-4 56-48 58-44-2-48-58z" fill="#3B151E" stroke="#6E3B3B" stroke-width="8"/>
+    <path d="M264 410h76v10h-76z" fill="#FFFFFF"/>
+    <path d="M270 446q32-16 62 0-28 20-62 0z" fill="#E57373"/>
+  </g>
+
+  <!-- Microphone with NVIDIA Green Neon Ring -->
+  <path d="M105 544l58-25 37 50-58 28z" fill="#1C2230" stroke="#06080A" stroke-width="9"/>
+  <rect x="90" y="489" width="38" height="162" rx="19" transform="rotate(-24 90 489)" fill="#2D3748" stroke="#06080A" stroke-width="9"/>
+  <ellipse cx="94" cy="492" rx="35" ry="44" transform="rotate(-24 94 492)" fill="#111827" stroke="#76B900" stroke-width="9"/>
+  <path d="M75 474l42 30m-48-12 42 30m-25-58 42 30" stroke="#9CA3AF" stroke-width="5"/>
+  <path d="M132 627q29 8 43 34l-25 49-56-24z" fill="url(#jensen-skin)" stroke="#06080A" stroke-width="9"/>
+</svg>

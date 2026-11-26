@@ -1,0 +1,60 @@
+{
+  "taskId": "3063c38404ca5eeb9de2f7fa70249670",
+  "parentMusicId": "",
+  "param": "{\"callBackUrl\":\"https://example.com/noop\",\"customMode\":true,\"instrumental\":false,\"model\":\"V4_5\",\"negativeTags\":\"announcer, host, hype man, spoken word, narration, chorus, singing, female vocals, crowd\",\"prompt\":\"[Verse 1: Don Pizza]\\nOut the brick-oven flames, five hundred degrees\\nOne pull of my slice got 'em weak in the knees!\\nGolden crust, marinara, mozzarella supreme\\nPepperoni crown jewels, I'm the Friday night king\\nFeed a whole house party out a cardboard box\\nWhile you leak soggy grease through your sesame top\\nFrom Naples to Brooklyn, eight slices of art\\nTake one soggy bite and your buns fall apart!\\n\\n[Verse 2: Boss Burger]\\nMan, fold up your triangle, flat little bread\\nI'm a double-stack titan, you're cheese on a sled!\\nFlame-broiled smash patty, hear that sizzle and sear\\nMelted cheddar and bacon, I'm the boss in here\\nYou get left in the fridge and eaten cold the next day\\nI'm fresh off the grill, make 'em drool on the tray\\nSecret sauce dripping down, every bite's heavyweight\\nI'm the king of the cookout, now get off my plate!\\n\\n[End]\",\"style\":\"epic hard-hitting boom-bap trap rap battle, 94 bpm, punchy drums, booming 808 bass, brass stabs, two male rappers, verse 1 swaggering smooth Italian-New-York style male rapper, verse 2 heavy booming gravelly backyard-grill male rapper, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro\",\"title\":\"Pizza Vs Burger\"}",
+  "response": {
+    "taskId": "3063c38404ca5eeb9de2f7fa70249670",
+    "sunoData": [
+      {
+        "id": "23840885-02f0-4f6c-a97c-8c697def0b07",
+        "prompt": "[Verse 1: Don Pizza]\nOut the brick-oven flames, five hundred degrees\nOne pull of my slice got 'em weak in the knees!\nGolden crust, marinara, mozzarella supreme\nPepperoni crown jewels, I'm the Friday night king\nFeed a whole house party out a cardboard box\nWhile you leak soggy grease through your sesame top\nFrom Naples to Brooklyn, eight slices of art\nTake one soggy bite and your buns fall apart!\n\n[Verse 2: Boss Burger]\nMan, fold up your triangle, flat little bread\nI'm a double-stack titan, you're cheese on a sled!\nFlame-broiled smash patty, hear that sizzle and sear\nMelted cheddar and bacon, I'm the boss in here\nYou get left in the fridge and eaten cold the next day\nI'm fresh off the grill, make 'em drool on the tray\nSecret sauce dripping down, every bite's heavyweight\nI'm the king of the cookout, now get off my plate!\n\n[End]",
+        "title": "Pizza Vs Burger",
+        "tags": "Huge, wide-stereo hard-hitting boom-bap trap rap, 94 bpm head-nod swing; two male rappers trade rap verses only: verse one\u2019s swaggering smooth Italian-New-York style flows in a high, light upper register with hushed, close-mic intimacy; verse two shifts to a heavy booming gravelly backyard-grill sound; punchy drums, booming 808 bass, brass stabs; hard-panned sample chops sharpen the verse switch.",
+        "createTime": 1795368969101,
+        "duration": 62.4,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/23840885-02f0-4f6c-a97c-8c697def0b07.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/23840885-02f0-4f6c-a97c-8c697def0b07.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/23840885-02f0-4f6c-a97c-8c697def0b07.mp3",
+        "image_url": "https://musicfile.sunoapi.org/MjM4NDA4ODUtMDJmMC00ZjZjLWE5N2MtOGM2OTdkZWYwYjA3.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_23840885-02f0-4f6c-a97c-8c697def0b07.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/23840885-02f0-4f6c-a97c-8c697def0b07.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/23840885-02f0-4f6c-a97c-8c697def0b07.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/23840885-02f0-4f6c-a97c-8c697def0b07.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/MjM4NDA4ODUtMDJmMC00ZjZjLWE5N2MtOGM2OTdkZWYwYjA3.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_23840885-02f0-4f6c-a97c-8c697def0b07.jpeg",
+        "modelName": "chirp-hawk"
+      },
+      {
+        "id": "8b5076d3-9bbf-43b4-aa12-ab226339a7ac",
+        "prompt": "[Verse 1: Don Pizza]\nOut the brick-oven flames, five hundred degrees\nOne pull of my slice got 'em weak in the knees!\nGolden crust, marinara, mozzarella supreme\nPepperoni crown jewels, I'm the Friday night king\nFeed a whole house party out a cardboard box\nWhile you leak soggy grease through your sesame top\nFrom Naples to Brooklyn, eight slices of art\nTake one soggy bite and your buns fall apart!\n\n[Verse 2: Boss Burger]\nMan, fold up your triangle, flat little bread\nI'm a double-stack titan, you're cheese on a sled!\nFlame-broiled smash patty, hear that sizzle and sear\nMelted cheddar and bacon, I'm the boss in here\nYou get left in the fridge and eaten cold the next day\nI'm fresh off the grill, make 'em drool on the tray\nSecret sauce dripping down, every bite's heavyweight\nI'm the king of the cookout, now get off my plate!\n\n[End]",
+        "title": "Pizza Vs Burger",
+        "tags": "Huge, wide-stereo, hard-hitting boom-bap trap rap, two male rappers trading bars; verse 1 swaggering smooth, Italian-New-York style male rap stretches into wide-range, legato phrasing that climbs into high rap inflections; verse 2 heavy booming gravelly backyard-grill delivery. Punchy drums, booming 808 bass, brass stabs; tape-saturated drum bus, 94 bpm head-nod swing, hard stops between verses.",
+        "createTime": 1795368969101,
+        "duration": 71.2,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/8b5076d3-9bbf-43b4-aa12-ab226339a7ac.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/8b5076d3-9bbf-43b4-aa12-ab226339a7ac.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/8b5076d3-9bbf-43b4-aa12-ab226339a7ac.mp3",
+        "image_url": "https://musicfile.sunoapi.org/OGI1MDc2ZDMtOWJiZi00M2I0LWFhMTItYWIyMjYzMzlhN2Fj.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_8b5076d3-9bbf-43b4-aa12-ab226339a7ac.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/8b5076d3-9bbf-43b4-aa12-ab226339a7ac.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/8b5076d3-9bbf-43b4-aa12-ab226339a7ac.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/8b5076d3-9bbf-43b4-aa12-ab226339a7ac.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/OGI1MDc2ZDMtOWJiZi00M2I0LWFhMTItYWIyMjYzMzlhN2Fj.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_8b5076d3-9bbf-43b4-aa12-ab226339a7ac.jpeg",
+        "modelName": "chirp-hawk"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "type": "chirp-auk",
+  "operationType": "generate",
+  "errorCode": null,
+  "errorMessage": null,
+  "createTime": 1795368948000
+}

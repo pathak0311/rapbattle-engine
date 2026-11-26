@@ -1,0 +1,60 @@
+{
+  "taskId": "54d9dba497b0f8b950d8652fd68d6d74",
+  "parentMusicId": "",
+  "param": "{\"callBackUrl\":\"https://example.com/noop\",\"customMode\":true,\"instrumental\":false,\"model\":\"V4_5\",\"negativeTags\":\"announcer, host, hype man, spoken word, narration, chorus, singing, female vocals, crowd\",\"prompt\":\"[Verse 1: Lionel Messi]\\nLittle kid from Rosario, never needed the spotlight's glare,\\nLeft the club that made me, still stayed right where the magic's there.\\nFans in Miami singing like it's a street in Barcelona's rain,\\nYou chase the highlight reel, I chase the trophy, that's the game.\\nYour Real Madrid chapter's full of headlines, I respect the grind,\\nBut I rolled up in Qatar and lifted what your r\u00e9sum\u00e9 left behind.\\nYou dance for the cameras, I dance for the crowd and the crew,\\nBall at my feet, the whole world leaning forward, waiting on you.\\n\\n[Verse 2: Cristiano Ronaldo]\\nYou talk about the crowd, but the crowd's been chanting my name for years,\\nCristiano, Portugal, Euro champion, the trophy's the one that cheers.\\nYou're the Argentine poet with the perfect touch and calm,\\nBut I'm the one who scores through pressure, I bring the storm.\\nChampions League, five of them, don't need to explain the stats,\\nReal Madrid's house is still my house, every fan has the receipts.\\nAl Nassr, Saudi, yeah, I went where the new road led,\\nYou kept your lap of honor, I'm still the one who never bled.\\nStay humble, little man, the GOAT is a title earned in the fight,\\nAnd I've got the scars and the medals and the proof you'd call alright.\\n\\n[End]\",\"style\":\"cinematic trap-soul rap battle, 88 bpm, dark stadium-tunnel reverb, heavy 808s, tense string stabs, two male English rappers, verse 1 smooth calm measured flow, verse 2 sharp aggressive fast flow, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro, abrupt ending\",\"title\":\"The Spot Kick\"}",
+  "response": {
+    "taskId": "54d9dba497b0f8b950d8652fd68d6d74",
+    "sunoData": [
+      {
+        "id": "6c9d3b22-cf77-41ea-b6d2-c8acfe831e0b",
+        "prompt": "[Verse 1: Lionel Messi]\nLittle kid from Rosario, never needed the spotlight's glare,\nLeft the club that made me, still stayed right where the magic's there.\nFans in Miami singing like it's a street in Barcelona's rain,\nYou chase the highlight reel, I chase the trophy, that's the game.\nYour Real Madrid chapter's full of headlines, I respect the grind,\nBut I rolled up in Qatar and lifted what your r\u00e9sum\u00e9 left behind.\nYou dance for the cameras, I dance for the crowd and the crew,\nBall at my feet, the whole world leaning forward, waiting on you.\n\n[Verse 2: Cristiano Ronaldo]\nYou talk about the crowd, but the crowd's been chanting my name for years,\nCristiano, Portugal, Euro champion, the trophy's the one that cheers.\nYou're the Argentine poet with the perfect touch and calm,\nBut I'm the one who scores through pressure, I bring the storm.\nChampions League, five of them, don't need to explain the stats,\nReal Madrid's house is still my house, every fan has the receipts.\nAl Nassr, Saudi, yeah, I went where the new road led,\nYou kept your lap of honor, I'm still the one who never bled.\nStay humble, little man, the GOAT is a title earned in the fight,\nAnd I've got the scars and the medals and the proof you'd call alright.\n\n[End]",
+        "title": "The Spot Kick",
+        "tags": "Rap, cinematic trap-soul; two male English rappers trade verses, verse 1 smooth and calm, verse 2 sharp, aggressive and fast; both span a wide range, climbing to high-pitched top notes in a powerful full-voice belt while keeping rap delivery; dark stadium-tunnel reverb; heavy 808s and tense string stabs; 88 bpm halftime pulse, abrupt ending.",
+        "createTime": 1795632395090,
+        "duration": 97.96,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/6c9d3b22-cf77-41ea-b6d2-c8acfe831e0b.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/6c9d3b22-cf77-41ea-b6d2-c8acfe831e0b.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/6c9d3b22-cf77-41ea-b6d2-c8acfe831e0b.mp3",
+        "image_url": "https://musicfile.sunoapi.org/NmM5ZDNiMjItY2Y3Ny00MWVhLWI2ZDItYzhhY2ZlODMxZTBi.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_6c9d3b22-cf77-41ea-b6d2-c8acfe831e0b.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/6c9d3b22-cf77-41ea-b6d2-c8acfe831e0b.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/6c9d3b22-cf77-41ea-b6d2-c8acfe831e0b.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/6c9d3b22-cf77-41ea-b6d2-c8acfe831e0b.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/NmM5ZDNiMjItY2Y3Ny00MWVhLWI2ZDItYzhhY2ZlODMxZTBi.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_6c9d3b22-cf77-41ea-b6d2-c8acfe831e0b.jpeg",
+        "modelName": "chirp-hawk"
+      },
+      {
+        "id": "3ee9055a-308d-4836-99cc-c066ce92641f",
+        "prompt": "[Verse 1: Lionel Messi]\nLittle kid from Rosario, never needed the spotlight's glare,\nLeft the club that made me, still stayed right where the magic's there.\nFans in Miami singing like it's a street in Barcelona's rain,\nYou chase the highlight reel, I chase the trophy, that's the game.\nYour Real Madrid chapter's full of headlines, I respect the grind,\nBut I rolled up in Qatar and lifted what your r\u00e9sum\u00e9 left behind.\nYou dance for the cameras, I dance for the crowd and the crew,\nBall at my feet, the whole world leaning forward, waiting on you.\n\n[Verse 2: Cristiano Ronaldo]\nYou talk about the crowd, but the crowd's been chanting my name for years,\nCristiano, Portugal, Euro champion, the trophy's the one that cheers.\nYou're the Argentine poet with the perfect touch and calm,\nBut I'm the one who scores through pressure, I bring the storm.\nChampions League, five of them, don't need to explain the stats,\nReal Madrid's house is still my house, every fan has the receipts.\nAl Nassr, Saudi, yeah, I went where the new road led,\nYou kept your lap of honor, I'm still the one who never bled.\nStay humble, little man, the GOAT is a title earned in the fight,\nAnd I've got the scars and the medals and the proof you'd call alright.\n\n[End]",
+        "title": "The Spot Kick",
+        "tags": "Rap battle, trap-soul; heavy 808s and tense string stabs answer each other beneath dark stadium-tunnel reverb; two male English rappers trade low, dark lower-register lines, with restrained backing-voice echoes between bars; 88 bpm half-time pulse, smooth calm measured verse 1 shifting into sharp aggressive fast verse 2, ending abruptly.",
+        "createTime": 1795632395090,
+        "duration": 100.76,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/3ee9055a-308d-4836-99cc-c066ce92641f.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/3ee9055a-308d-4836-99cc-c066ce92641f.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/3ee9055a-308d-4836-99cc-c066ce92641f.mp3",
+        "image_url": "https://musicfile.sunoapi.org/M2VlOTA1NWEtMzA4ZC00ODM2LTk5Y2MtYzA2NmNlOTI2NDFm.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_3ee9055a-308d-4836-99cc-c066ce92641f.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/3ee9055a-308d-4836-99cc-c066ce92641f.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/3ee9055a-308d-4836-99cc-c066ce92641f.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/3ee9055a-308d-4836-99cc-c066ce92641f.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/M2VlOTA1NWEtMzA4ZC00ODM2LTk5Y2MtYzA2NmNlOTI2NDFm.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_3ee9055a-308d-4836-99cc-c066ce92641f.jpeg",
+        "modelName": "chirp-hawk"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "type": "chirp-auk",
+  "operationType": "generate",
+  "errorCode": null,
+  "errorMessage": null,
+  "createTime": 1795632360000
+}

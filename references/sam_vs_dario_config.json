@@ -1,0 +1,120 @@
+{
+  "slug": "sam_vs_dario",
+  "title": "SAM VS DARIO",
+  "hashtag": "#AIBEEF",
+  "sunoStyle": "West coast boom-bap trap hybrid rap battle, 94 bpm, punchy drums, deep 808, dusty piano stabs, two male English rappers, verse 1 young cocky nasally fast flow, verse 2 deeper calm gravelly measured baritone, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro, abrupt ending",
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "SAM ALTMAN",
+      "badge": "CHATGPT GUY",
+      "color": "#10D9A0",
+      "svg": "assets/sam-m0.svg",
+      "portrait": "assets/sam-m0.svg",
+      "talkSvg": "assets/sam-m2.svg",
+      "emblemSvg": "assets/sam-emblem.svg",
+      "mouthSvgs": [
+        "assets/sam-m0.svg",
+        "assets/sam-m1.svg",
+        "assets/sam-m2.svg"
+      ]
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "DARIO AMODEI",
+      "badge": "CLAUDE GUY",
+      "color": "#FF7A45",
+      "svg": "assets/dario-m0.svg",
+      "portrait": "assets/dario-m0.svg",
+      "talkSvg": "assets/dario-m2.svg",
+      "emblemSvg": "assets/dario-emblem.svg",
+      "mouthSvgs": [
+        "assets/dario-m0.svg",
+        "assets/dario-m1.svg",
+        "assets/dario-m2.svg"
+      ]
+    }
+  },
+  "lines": [
+    {
+      "speaker": "fighter1",
+      "text": "I name my models like a router, sure, GPT-four-oh-whatever",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "But your grandma says \"just ChatGPT it,\" not \"Claude,\" not ever",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You write forty pages of essay when I just say \"what's good\"",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Your bot says \"I'd rather not,\" like a hall monitor would",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "I ship it Tuesday night, then I tweet a lowercase vibe",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You ship a sermon on safety and call it a lifestyle",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "\"Machines of Loving Grace\"? Bro, just give me the code",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You're the Sunday school teacher of the AI road",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You tweet in lowercase 'cause the capitals got scared",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "That \"Open\" in your name is the cruelest joke ever shared",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Fired on a Friday, rehired within a week",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Your board flips like a group chat, got the attention span of a tweet",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "My bot reads the whole book while yours hallucinates the quote",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Claude's out here writing code, yours is drafting a thank-you note",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Call me the hall monitor, I'll take that title with pride",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Funny how your fanboys keep Claude open on the side",
+      "punchline": true
+    }
+  ]
+}

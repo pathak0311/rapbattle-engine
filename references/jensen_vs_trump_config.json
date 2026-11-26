@@ -1,0 +1,119 @@
+{
+  "slug": "jensen_vs_trump",
+  "title": "JENSEN VS TRUMP",
+  "hashtag": "#SILICONWARS",
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "JENSEN HUANG",
+      "badge": "AI CHIP KING",
+      "color": "#76B900",
+      "portrait": "assets/jensen.svg",
+      "svg": "assets/jensen.svg",
+      "talkSvg": "assets/jensen-talk.svg",
+      "emblemSvg": "assets/gpu-chip.svg"
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "DONALD TRUMP",
+      "badge": "MAGA MOGUL",
+      "color": "#F59E0B",
+      "portrait": "assets/trump.svg",
+      "svg": "assets/trump.svg",
+      "talkSvg": "assets/trump-talk.svg",
+      "emblemSvg": "assets/gold-tower.svg"
+    }
+  },
+  "lines": [
+    {
+      "speaker": "fighter1",
+      "text": "Leather jacket gleaming, three trillion in the vault",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Every data center running CUDA by default",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "H100s, Blackwell chips, I architect the brain",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You're bragging about crowd size, I'm building the domain",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Tariffs on my wafers? Man, Taiwan holds the crown",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Pull the plug on silicon, your Truth Social goes down",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "From gaming rigs to sovereign clouds, I'm printing golden flops",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "While you're selling golden sneakers at your campaign stops!",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Listen Jensen, nice jacket, really, very cute",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "But you're nothing when you're standing next to my red tie and suit",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "I built towers, I won twice, the greatest ever seen",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Your little computer chips need my energy machine!",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Drill baby drill, yeah, we power up the grid",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Without American electricity, you can't run a single bid",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "We're putting huge tariffs on it, bring the factories back home",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You may rule the GPU, pal, but I sit on the throne!",
+      "punchline": true
+    },
+    {
+      "speaker": "both",
+      "text": "Silicon and power, who controls the world stage?",
+      "punchline": false
+    },
+    {
+      "speaker": "both",
+      "text": "Blackwell vs Mar-a-Lago, titans of the age!",
+      "punchline": true
+    }
+  ]
+}

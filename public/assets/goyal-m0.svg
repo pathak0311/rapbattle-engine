@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img">
+  <title>Stylized Deepinder Goyal in red Zomato tee with microphone</title>
+  <defs>
+    <linearGradient id="goyal-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1A0507"/>
+      <stop offset="50%" stop-color="#4A0D14"/>
+      <stop offset="100%" stop-color="#080203"/>
+    </linearGradient>
+    <linearGradient id="goyal-suit" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E23744"/>
+      <stop offset="55%" stop-color="#9B1C28"/>
+      <stop offset="100%" stop-color="#090D16"/>
+    </linearGradient>
+    <linearGradient id="goyal-skin" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0%" stop-color="#E8B48C"/>
+      <stop offset="100%" stop-color="#C98F66"/>
+    </linearGradient>
+    <linearGradient id="goyal-hair" x1="0" y1="0" x2="1" y2="0.8">
+      <stop offset="0%" stop-color="#FFF08A"/>
+      <stop offset="50%" stop-color="#FACC15"/>
+      <stop offset="100%" stop-color="#CA8A04"/>
+    </linearGradient>
+    <linearGradient id="goyal-tie" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#B91C1C"/>
+    </linearGradient>
+  </defs>
+  <!-- Rich Golden/Amber Arena Background -->
+  <rect width="600" height="760" fill="url(#goyal-bg)"/>
+  <g stroke="#E23744" stroke-opacity="0.18" stroke-width="2">
+    <line x1="0" y1="120" x2="600" y2="120"/>
+    <line x1="0" y1="240" x2="600" y2="240"/>
+    <line x1="0" y1="360" x2="600" y2="360"/>
+    <line x1="0" y1="480" x2="600" y2="480"/>
+    <line x1="150" y1="0" x2="150" y2="760"/>
+    <line x1="300" y1="0" x2="300" y2="760"/>
+    <line x1="450" y1="0" x2="450" y2="760"/>
+  </g>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="#E23744" stroke-width="4" stroke-opacity="0.35"/>
+
+  <!-- Navy Suit Shoulders & Torso -->
+  <path d="M58 760V646c0-130 88-212 214-224h56c126 12 214 94 214 224v114" fill="url(#goyal-suit)" stroke="#06080E" stroke-width="12"/>
+  <!-- Neck -->
+  <path d="M248 432h104l-10 74-42 32-42-32z" fill="url(#goyal-skin)" stroke="#06080E" stroke-width="9"/>
+  <!-- Red Zomato tee -->
+  <path d="M232 442q68 56 136 0l18 26q-86 66-172 0z" fill="#E23744" stroke="#06080E" stroke-width="8"/>
+  <text x="300" y="650" text-anchor="middle" font-family="Anton, Impact, sans-serif" font-size="56" fill="#FFFFFF" stroke="#06080E" stroke-width="3">zomato</text>
+
+  <!-- Ears -->
+  <ellipse cx="156" cy="318" rx="40" ry="58" fill="#C98F66" stroke="#06080E" stroke-width="9"/>
+  <ellipse cx="444" cy="318" rx="40" ry="58" fill="#C98F66" stroke="#06080E" stroke-width="9"/>
+
+  <!-- Head & Prominent Jaw/Chin -->
+  <path d="M164 244c0-100 60-156 136-156 88 0 140 60 136 164l-10 112c-8 86-64 130-126 130-68 0-120-44-126-130z" fill="url(#goyal-skin)" stroke="#06080E" stroke-width="11"/>
+
+  <!-- Bald head with short stubble -->
+  <path d="M180 236c-6-80 40-120 120-120s126 40 120 120c-14-30-50-48-120-48s-106 18-120 48z" fill="#3B2A22" stroke="#06080E" stroke-width="10" stroke-linejoin="round" opacity="0.55"/>
+  <path d="M236 470q64 40 128 0" fill="none" stroke="#3B2A22" stroke-width="10" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Pale Eye Rings & Narrowed Expressive Eyes -->
+  <ellipse cx="244" cy="310" rx="38" ry="22" fill="#F0C9A6" opacity="0.55"/>
+  <ellipse cx="358" cy="310" rx="38" ry="22" fill="#F0C9A6" opacity="0.55"/>
+  <!-- Furrowed Golden-Blonde Eyebrows -->
+  <path d="M204 288q40-14 82-2M396 288q-40-14-82-2" stroke="#2A1A12" stroke-width="14" stroke-linecap="round"/>
+  <!-- Eyes -->
+  <path d="M214 312q30-16 60 0-30 20-60 0zM328 312q30-16 60 0-30 20-60 0z" fill="#FFFFFF" stroke="#06080E" stroke-width="6"/>
+  <circle cx="244" cy="312" r="9" fill="#B91C2C"/>
+  <circle cx="358" cy="312" r="9" fill="#B91C2C"/>
+
+  <!-- Nose & Cheek Lines -->
+  <path d="M300 306l-14 62 32 4" fill="none" stroke="#9A5B3A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M228 392q-18 24-10 48M372 392q18 24 10 48" fill="none" stroke="#9A5B3A" stroke-width="6" stroke-linecap="round"/>
+  <!-- Chin Cleft / Double Chin Curve -->
+  <path d="M268 458q32 16 64 0" fill="none" stroke="#9A5B3A" stroke-width="6" stroke-linecap="round"/>
+
+  
+  <g id="mouth"><path d="M262 416q38-14 76 0-38 22-76 0z" fill="#9A4A4A" stroke="#2A0606" stroke-width="8" stroke-linejoin="round"/></g>
+
+  <!-- Arm + hand gripping mic (aimed at mouth) -->
+  <path d="M40 760l70-150q22-30 56-26l44 40-52 136z" fill="#B91C2C" stroke="#06080E" stroke-width="10" stroke-linejoin="round"/>
+  <g transform="translate(236 480) rotate(45)">
+    <rect x="-15" y="26" width="30" height="150" rx="14" fill="#475569" stroke="#06080E" stroke-width="8"/>
+    <rect x="-17" y="30" width="34" height="14" rx="5" fill="#E23744" stroke="#06080E" stroke-width="5"/>
+    <ellipse cx="0" cy="0" rx="31" ry="38" fill="#1E293B" stroke="#E23744" stroke-width="8"/>
+    <path d="M-20 -14h40M-24 0h48M-20 14h40M-8 -30v58M8 -30v58" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+    <rect x="-27" y="78" width="54" height="56" rx="22" fill="#E8B48C" stroke="#06080E" stroke-width="8"/>
+    <path d="M-27 92h54M-27 108h54M-27 122h50" stroke="#06080E" stroke-width="4" opacity="0.55"/>
+  </g>
+</svg>

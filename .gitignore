@@ -1,0 +1,6 @@
+node_modules/
+.venv/
+out/
+__pycache__/
+*.pyc
+references/*_download_preview.jpg

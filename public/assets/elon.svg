@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img">
+  <title>Stylized Elon Musk with a crimson jacket and microphone</title>
+  <defs>
+    <linearGradient id="elon-jacket" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#342235"/><stop offset="1" stop-color="#111522"/></linearGradient>
+    <linearGradient id="elon-skin" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#FFD4B8"/><stop offset="1" stop-color="#D99478"/></linearGradient>
+  </defs>
+  <ellipse cx="304" cy="714" rx="254" ry="31" fill="#070A12" opacity=".45"/>
+  <path d="M70 760V659c0-128 85-213 208-225h56c126 13 205 98 205 225v101" fill="url(#elon-jacket)" stroke="#080B14" stroke-width="12"/>
+  <path d="M205 456l97 119 99-119 58 39-54 265H196l-51-265z" fill="#181C2A"/>
+  <path d="M253 448h101l-10 88-42 39-43-39z" fill="url(#elon-skin)" stroke="#080B14" stroke-width="9"/>
+  <path d="M206 463l96 112-57 44-60-131zM399 463l-97 112 58 44 59-131z" fill="#FF3D71" stroke="#080B14" stroke-width="8"/>
+  <path d="M270 624h64v136h-64z" fill="#0C101C"/>
+  <path d="M282 654l42 42m0-42-42 42" stroke="#F5F7FF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M166 488c-54 27-88 82-95 152l63 16 80-107z" fill="#28202E" stroke="#080B14" stroke-width="11"/>
+  <path d="M449 506c48 41 66 93 69 153l-65 5-58-119z" fill="#28202E" stroke="#080B14" stroke-width="11"/>
+  <ellipse cx="159" cy="317" rx="42" ry="61" fill="#D99478" stroke="#080B14" stroke-width="9"/>
+  <ellipse cx="441" cy="317" rx="42" ry="61" fill="#D99478" stroke="#080B14" stroke-width="9"/>
+  <path d="M168 245c0-100 59-158 134-158 89 0 143 63 137 167l-13 110c-10 85-64 128-125 128-67 0-116-45-126-128z" fill="url(#elon-skin)" stroke="#080B14" stroke-width="11"/>
+  <path d="M163 257c-14-109 33-189 139-189 80 0 137 44 145 139-38-20-60-54-70-89-37 48-102 75-214 76z" fill="#33271F" stroke="#080B14" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M184 207c32-80 95-113 178-105" fill="none" stroke="#5B4130" stroke-width="17" stroke-linecap="round"/>
+  <path d="M207 281q43-28 78 1M326 281q38-26 74 0" fill="none" stroke="#5A382D" stroke-width="13" stroke-linecap="round"/>
+  <path d="M213 311q30-22 61 0-30 29-61 0zM333 311q29-22 58 0-28 29-58 0z" fill="#F7F4ED" stroke="#080B14" stroke-width="7"/>
+  <circle cx="248" cy="311" r="10" fill="#161B25"/><circle cx="359" cy="311" r="10" fill="#161B25"/>
+  <path d="M302 309l-15 66 33 4" fill="none" stroke="#B87963" stroke-width="8" stroke-linecap="round"/>
+  <path d="M249 407q53 29 105-2" fill="none" stroke="#A96B60" stroke-width="7" stroke-linecap="round"/>
+  <g id="mouth-closed"><path d="M258 420q45 20 88-3" fill="none" stroke="#753E43" stroke-width="10" stroke-linecap="round"/></g>
+  <path d="M105 544l58-25 37 50-58 28z" fill="#1C2230" stroke="#080B14" stroke-width="9"/>
+  <rect x="90" y="489" width="38" height="162" rx="19" transform="rotate(-24 90 489)" fill="#333C50" stroke="#080B14" stroke-width="9"/>
+  <ellipse cx="94" cy="492" rx="35" ry="44" transform="rotate(-24 94 492)" fill="#131925" stroke="#FF3D71" stroke-width="9"/>
+  <path d="M75 474l42 30m-48-12 42 30m-25-58 42 30" stroke="#69758B" stroke-width="5"/>
+  <path d="M132 627q29 8 43 34l-25 49-56-24z" fill="url(#elon-skin)" stroke="#080B14" stroke-width="9"/>
+  <path d="M470 642l35 3 13 115h-58z" fill="#FF3D71" opacity=".6"/>
+</svg>

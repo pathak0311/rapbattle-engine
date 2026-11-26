@@ -1,0 +1,1308 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "alignedWords": [
+      {
+        "word": "[Verse 1: Barack Obama]\nLet ",
+        "success": true,
+        "startS": 9.937,
+        "endS": 10.065,
+        "palign": 0
+      },
+      {
+        "word": "me ",
+        "success": true,
+        "startS": 10.145,
+        "endS": 10.311,
+        "palign": 0
+      },
+      {
+        "word": "be ",
+        "success": true,
+        "startS": 10.391,
+        "endS": 10.546,
+        "palign": 0
+      },
+      {
+        "word": "clear, ",
+        "success": true,
+        "startS": 10.626,
+        "endS": 11.136,
+        "palign": 0
+      },
+      {
+        "word": "I ",
+        "success": true,
+        "startS": 11.176,
+        "endS": 11.211,
+        "palign": 0
+      },
+      {
+        "word": "came ",
+        "success": true,
+        "startS": 11.28525,
+        "endS": 11.508,
+        "palign": 0
+      },
+      {
+        "word": "here ",
+        "success": true,
+        "startS": 11.5665,
+        "endS": 11.742,
+        "palign": 0
+      },
+      {
+        "word": "to ",
+        "success": true,
+        "startS": 11.7755,
+        "endS": 11.809,
+        "palign": 0
+      },
+      {
+        "word": "drop ",
+        "success": true,
+        "startS": 11.889,
+        "endS": 12.225,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 12.274,
+        "endS": 12.372,
+        "palign": 0
+      },
+      {
+        "word": "mic\n",
+        "success": true,
+        "startS": 12.455,
+        "endS": 12.815,
+        "palign": 0
+      },
+      {
+        "word": "Two ",
+        "success": true,
+        "startS": 12.895,
+        "endS": 13.137,
+        "palign": 0
+      },
+      {
+        "word": "terms, ",
+        "success": true,
+        "startS": 13.188,
+        "endS": 13.515,
+        "palign": 0
+      },
+      {
+        "word": "no ",
+        "success": true,
+        "startS": 13.555,
+        "endS": 13.595,
+        "palign": 0
+      },
+      {
+        "word": "scandals, ",
+        "success": true,
+        "startS": 13.648,
+        "endS": 14.132,
+        "palign": 0
+      },
+      {
+        "word": "now ",
+        "success": true,
+        "startS": 14.168,
+        "endS": 14.24,
+        "palign": 0
+      },
+      {
+        "word": "that's ",
+        "success": true,
+        "startS": 14.24,
+        "endS": 14.372,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 14.536,
+        "endS": 14.536,
+        "palign": 0
+      },
+      {
+        "word": "clean ",
+        "success": true,
+        "startS": 14.5914,
+        "endS": 14.813,
+        "palign": 0
+      },
+      {
+        "word": "strike\n",
+        "success": true,
+        "startS": 14.875,
+        "endS": 15.335,
+        "palign": 0
+      },
+      {
+        "word": "Hope ",
+        "success": true,
+        "startS": 15.388,
+        "endS": 15.547,
+        "palign": 0
+      },
+      {
+        "word": "was ",
+        "success": true,
+        "startS": 15.593,
+        "endS": 15.685,
+        "palign": 0
+      },
+      {
+        "word": "my ",
+        "success": true,
+        "startS": 15.7675,
+        "endS": 15.929,
+        "palign": 0
+      },
+      {
+        "word": "anthem, ",
+        "success": true,
+        "startS": 16.009,
+        "endS": 16.51843,
+        "palign": 0
+      },
+      {
+        "word": "change ",
+        "success": true,
+        "startS": 16.57286,
+        "endS": 16.845,
+        "palign": 0
+      },
+      {
+        "word": "was ",
+        "success": true,
+        "startS": 16.925,
+        "endS": 17.086,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 17.12567,
+        "endS": 17.205,
+        "palign": 0
+      },
+      {
+        "word": "plan\n",
+        "success": true,
+        "startS": 17.285,
+        "endS": 17.6,
+        "palign": 0
+      },
+      {
+        "word": "You're ",
+        "success": true,
+        "startS": 17.60467,
+        "endS": 17.783,
+        "palign": 0
+      },
+      {
+        "word": "tweeting ",
+        "success": true,
+        "startS": 17.857,
+        "endS": 18.206,
+        "palign": 0
+      },
+      {
+        "word": "at ",
+        "success": true,
+        "startS": 18.2465,
+        "endS": 18.287,
+        "palign": 0
+      },
+      {
+        "word": "midnight, ",
+        "success": true,
+        "startS": 18.35887,
+        "endS": 18.902,
+        "palign": 0
+      },
+      {
+        "word": "I ",
+        "success": true,
+        "startS": 18.942,
+        "endS": 18.969,
+        "palign": 0
+      },
+      {
+        "word": "was ",
+        "success": true,
+        "startS": 19.025,
+        "endS": 19.137,
+        "palign": 0
+      },
+      {
+        "word": "leading ",
+        "success": true,
+        "startS": 19.186,
+        "endS": 19.48,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 19.51333,
+        "endS": 19.58,
+        "palign": 0
+      },
+      {
+        "word": "land\n",
+        "success": true,
+        "startS": 19.66,
+        "endS": 20.151,
+        "palign": 0
+      },
+      {
+        "word": "Nobel ",
+        "success": true,
+        "startS": 20.2755,
+        "endS": 20.603,
+        "palign": 0
+      },
+      {
+        "word": "on ",
+        "success": true,
+        "startS": 20.647,
+        "endS": 20.691,
+        "palign": 0
+      },
+      {
+        "word": "my ",
+        "success": true,
+        "startS": 20.764,
+        "endS": 20.837,
+        "palign": 0
+      },
+      {
+        "word": "shelf, ",
+        "success": true,
+        "startS": 20.917,
+        "endS": 21.28,
+        "palign": 0
+      },
+      {
+        "word": "you ",
+        "success": true,
+        "startS": 21.28,
+        "endS": 21.449,
+        "palign": 0
+      },
+      {
+        "word": "got ",
+        "success": true,
+        "startS": 21.507,
+        "endS": 21.623,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 21.703,
+        "endS": 21.732,
+        "palign": 0
+      },
+      {
+        "word": "golden ",
+        "success": true,
+        "startS": 21.78983,
+        "endS": 22.079,
+        "palign": 0
+      },
+      {
+        "word": "toilet ",
+        "success": true,
+        "startS": 22.1205,
+        "endS": 22.434,
+        "palign": 0
+      },
+      {
+        "word": "seat\n",
+        "success": true,
+        "startS": 22.51,
+        "endS": 22.738,
+        "palign": 0
+      },
+      {
+        "word": "Healthcare ",
+        "success": true,
+        "startS": 22.79267,
+        "endS": 23.374,
+        "palign": 0
+      },
+      {
+        "word": "for ",
+        "success": true,
+        "startS": 23.43033,
+        "endS": 23.543,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 23.57367,
+        "endS": 23.635,
+        "palign": 0
+      },
+      {
+        "word": "nation ",
+        "success": true,
+        "startS": 23.70567,
+        "endS": 24.059,
+        "palign": 0
+      },
+      {
+        "word": "while ",
+        "success": true,
+        "startS": 24.0942,
+        "endS": 24.235,
+        "palign": 0
+      },
+      {
+        "word": "you ",
+        "success": true,
+        "startS": 24.289,
+        "endS": 24.397,
+        "palign": 0
+      },
+      {
+        "word": "golfed ",
+        "success": true,
+        "startS": 24.40967,
+        "endS": 24.789,
+        "palign": 0
+      },
+      {
+        "word": "every ",
+        "success": true,
+        "startS": 24.8448,
+        "endS": 25.068,
+        "palign": 0
+      },
+      {
+        "word": "week\n",
+        "success": true,
+        "startS": 25.14,
+        "endS": 25.356,
+        "palign": 0
+      },
+      {
+        "word": "Cool, ",
+        "success": true,
+        "startS": 25.436,
+        "endS": 25.752,
+        "palign": 0
+      },
+      {
+        "word": "calm, ",
+        "success": true,
+        "startS": 25.816,
+        "endS": 26.08333,
+        "palign": 0
+      },
+      {
+        "word": "collected, ",
+        "success": true,
+        "startS": 26.14067,
+        "endS": 26.717,
+        "palign": 0
+      },
+      {
+        "word": "that's ",
+        "success": true,
+        "startS": 26.717,
+        "endS": 27.031,
+        "palign": 0
+      },
+      {
+        "word": "presidential ",
+        "success": true,
+        "startS": 27.03467,
+        "endS": 27.673,
+        "palign": 0
+      },
+      {
+        "word": "grace\n",
+        "success": true,
+        "startS": 27.738,
+        "endS": 27.998,
+        "palign": 0
+      },
+      {
+        "word": "Yes ",
+        "success": true,
+        "startS": 28.064,
+        "endS": 28.196,
+        "palign": 0
+      },
+      {
+        "word": "we ",
+        "success": true,
+        "startS": 28.276,
+        "endS": 28.406,
+        "palign": 0
+      },
+      {
+        "word": "can, ",
+        "success": true,
+        "startS": 28.47533,
+        "endS": 28.67725,
+        "palign": 0
+      },
+      {
+        "word": "yes ",
+        "success": true,
+        "startS": 28.7405,
+        "endS": 28.867,
+        "palign": 0
+      },
+      {
+        "word": "we ",
+        "success": true,
+        "startS": 28.947,
+        "endS": 29.084,
+        "palign": 0
+      },
+      {
+        "word": "did, ",
+        "success": true,
+        "startS": 29.164,
+        "endS": 29.407,
+        "palign": 0
+      },
+      {
+        "word": "now ",
+        "success": true,
+        "startS": 29.467,
+        "endS": 29.66,
+        "palign": 0
+      },
+      {
+        "word": "get ",
+        "success": true,
+        "startS": 29.71667,
+        "endS": 29.83,
+        "palign": 0
+      },
+      {
+        "word": "up ",
+        "success": true,
+        "startS": 29.896,
+        "endS": 29.962,
+        "palign": 0
+      },
+      {
+        "word": "out ",
+        "success": true,
+        "startS": 30.01667,
+        "endS": 30.126,
+        "palign": 0
+      },
+      {
+        "word": "my ",
+        "success": true,
+        "startS": 30.206,
+        "endS": 30.286,
+        "palign": 0
+      },
+      {
+        "word": "face\n\n",
+        "success": true,
+        "startS": 30.366,
+        "endS": 30.69433,
+        "palign": 0
+      },
+      {
+        "word": "[Verse 2: Donald Trump]\nWrong, ",
+        "success": true,
+        "startS": 30.70767,
+        "endS": 31.21525,
+        "palign": 0
+      },
+      {
+        "word": "totally ",
+        "success": true,
+        "startS": 31.2835,
+        "endS": 31.634,
+        "palign": 0
+      },
+      {
+        "word": "wrong, ",
+        "success": true,
+        "startS": 31.7132,
+        "endS": 32.0666,
+        "palign": 0
+      },
+      {
+        "word": "Barack, ",
+        "success": true,
+        "startS": 32.1032,
+        "endS": 32.52,
+        "palign": 0
+      },
+      {
+        "word": "sad ",
+        "success": true,
+        "startS": 32.58,
+        "endS": 32.745,
+        "palign": 0
+      },
+      {
+        "word": "little ",
+        "success": true,
+        "startS": 32.79417,
+        "endS": 33.04,
+        "palign": 0
+      },
+      {
+        "word": "act\n",
+        "success": true,
+        "startS": 33.12,
+        "endS": 33.293,
+        "palign": 0
+      },
+      {
+        "word": "I'm ",
+        "success": true,
+        "startS": 33.305,
+        "endS": 33.475,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 33.524,
+        "endS": 33.622,
+        "palign": 0
+      },
+      {
+        "word": "comeback ",
+        "success": true,
+        "startS": 33.65675,
+        "endS": 34.095,
+        "palign": 0
+      },
+      {
+        "word": "king, ",
+        "success": true,
+        "startS": 34.156,
+        "endS": 34.3902,
+        "palign": 0
+      },
+      {
+        "word": "everybody ",
+        "success": true,
+        "startS": 34.4414,
+        "endS": 34.851,
+        "palign": 0
+      },
+      {
+        "word": "knows ",
+        "success": true,
+        "startS": 34.9196,
+        "endS": 35.194,
+        "palign": 0
+      },
+      {
+        "word": "that's ",
+        "success": true,
+        "startS": 35.1945,
+        "endS": 35.405,
+        "palign": 0
+      },
+      {
+        "word": "fact\n",
+        "success": true,
+        "startS": 35.485,
+        "endS": 35.877,
+        "palign": 0
+      },
+      {
+        "word": "Biggest ",
+        "success": true,
+        "startS": 35.92414,
+        "endS": 36.207,
+        "palign": 0
+      },
+      {
+        "word": "crowds ",
+        "success": true,
+        "startS": 36.2925,
+        "endS": 36.623,
+        "palign": 0
+      },
+      {
+        "word": "ever, ",
+        "success": true,
+        "startS": 36.703,
+        "endS": 37.08143,
+        "palign": 0
+      },
+      {
+        "word": "nobody's ",
+        "success": true,
+        "startS": 37.12986,
+        "endS": 37.508,
+        "palign": 0
+      },
+      {
+        "word": "seen ",
+        "success": true,
+        "startS": 37.58125,
+        "endS": 37.801,
+        "palign": 0
+      },
+      {
+        "word": "such ",
+        "success": true,
+        "startS": 37.8645,
+        "endS": 38.055,
+        "palign": 0
+      },
+      {
+        "word": "love\n",
+        "success": true,
+        "startS": 38.135,
+        "endS": 38.426,
+        "palign": 0
+      },
+      {
+        "word": "You ",
+        "success": true,
+        "startS": 38.489,
+        "endS": 38.615,
+        "palign": 0
+      },
+      {
+        "word": "read ",
+        "success": true,
+        "startS": 38.68275,
+        "endS": 38.886,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 38.929,
+        "endS": 38.972,
+        "palign": 0
+      },
+      {
+        "word": "teleprompter, ",
+        "success": true,
+        "startS": 39.015,
+        "endS": 39.596,
+        "palign": 0
+      },
+      {
+        "word": "I ",
+        "success": true,
+        "startS": 39.636,
+        "endS": 39.653,
+        "palign": 0
+      },
+      {
+        "word": "freestyle ",
+        "success": true,
+        "startS": 39.76367,
+        "endS": 40.306,
+        "palign": 0
+      },
+      {
+        "word": "from ",
+        "success": true,
+        "startS": 40.374,
+        "endS": 40.578,
+        "palign": 0
+      },
+      {
+        "word": "above\n",
+        "success": true,
+        "startS": 40.658,
+        "endS": 41.142,
+        "palign": 0
+      },
+      {
+        "word": "Tariffs ",
+        "success": true,
+        "startS": 41.293,
+        "endS": 41.489,
+        "palign": 0
+      },
+      {
+        "word": "on ",
+        "success": true,
+        "startS": 41.591,
+        "endS": 41.732,
+        "palign": 0
+      },
+      {
+        "word": "your ",
+        "success": true,
+        "startS": 41.764,
+        "endS": 41.86,
+        "palign": 0
+      },
+      {
+        "word": "rhymes, ",
+        "success": true,
+        "startS": 41.91217,
+        "endS": 42.1886,
+        "palign": 0
+      },
+      {
+        "word": "they're ",
+        "success": true,
+        "startS": 42.2042,
+        "endS": 42.336,
+        "palign": 0
+      },
+      {
+        "word": "weak, ",
+        "success": true,
+        "startS": 42.416,
+        "endS": 42.7444,
+        "palign": 0
+      },
+      {
+        "word": "they're ",
+        "success": true,
+        "startS": 42.7718,
+        "endS": 42.9825,
+        "palign": 0
+      },
+      {
+        "word": "low ",
+        "success": true,
+        "startS": 43.02533,
+        "endS": 43.111,
+        "palign": 0
+      },
+      {
+        "word": "energy\n",
+        "success": true,
+        "startS": 43.191,
+        "endS": 43.621,
+        "palign": 0
+      },
+      {
+        "word": "I ",
+        "success": true,
+        "startS": 43.701,
+        "endS": 43.806,
+        "palign": 0
+      },
+      {
+        "word": "built ",
+        "success": true,
+        "startS": 43.8396,
+        "endS": 43.974,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 44.054,
+        "endS": 44.07,
+        "palign": 0
+      },
+      {
+        "word": "hundred ",
+        "success": true,
+        "startS": 44.12029,
+        "endS": 44.422,
+        "palign": 0
+      },
+      {
+        "word": "towers, ",
+        "success": true,
+        "startS": 44.48733,
+        "endS": 44.85275,
+        "palign": 0
+      },
+      {
+        "word": "you ",
+        "success": true,
+        "startS": 44.8915,
+        "endS": 44.969,
+        "palign": 0
+      },
+      {
+        "word": "just ",
+        "success": true,
+        "startS": 45.015,
+        "endS": 45.153,
+        "palign": 0
+      },
+      {
+        "word": "built ",
+        "success": true,
+        "startS": 45.1922,
+        "endS": 45.349,
+        "palign": 0
+      },
+      {
+        "word": "a ",
+        "success": true,
+        "startS": 45.453,
+        "endS": 45.484,
+        "palign": 0
+      },
+      {
+        "word": "library\n",
+        "success": true,
+        "startS": 45.59625,
+        "endS": 46.241,
+        "palign": 0
+      },
+      {
+        "word": "Tremendous ",
+        "success": true,
+        "startS": 46.2745,
+        "endS": 46.753,
+        "palign": 0
+      },
+      {
+        "word": "flow, ",
+        "success": true,
+        "startS": 46.833,
+        "endS": 47.19613,
+        "palign": 0
+      },
+      {
+        "word": "believe ",
+        "success": true,
+        "startS": 47.23125,
+        "endS": 47.442,
+        "palign": 0
+      },
+      {
+        "word": "me, ",
+        "success": true,
+        "startS": 47.522,
+        "endS": 47.7594,
+        "palign": 0
+      },
+      {
+        "word": "best ",
+        "success": true,
+        "startS": 47.8058,
+        "endS": 47.945,
+        "palign": 0
+      },
+      {
+        "word": "you've ",
+        "success": true,
+        "startS": 47.96867,
+        "endS": 48.158,
+        "palign": 0
+      },
+      {
+        "word": "ever ",
+        "success": true,
+        "startS": 48.21925,
+        "endS": 48.403,
+        "palign": 0
+      },
+      {
+        "word": "heard\n",
+        "success": true,
+        "startS": 48.483,
+        "endS": 48.902,
+        "palign": 0
+      },
+      {
+        "word": "You ",
+        "success": true,
+        "startS": 48.982,
+        "endS": 49.161,
+        "palign": 0
+      },
+      {
+        "word": "had ",
+        "success": true,
+        "startS": 49.21133,
+        "endS": 49.312,
+        "palign": 0
+      },
+      {
+        "word": "hope ",
+        "success": true,
+        "startS": 49.38275,
+        "endS": 49.595,
+        "palign": 0
+      },
+      {
+        "word": "and ",
+        "success": true,
+        "startS": 49.62167,
+        "endS": 49.675,
+        "palign": 0
+      },
+      {
+        "word": "change, ",
+        "success": true,
+        "startS": 49.746,
+        "endS": 50.13775,
+        "palign": 0
+      },
+      {
+        "word": "but ",
+        "success": true,
+        "startS": 50.1745,
+        "endS": 50.248,
+        "palign": 0
+      },
+      {
+        "word": "I ",
+        "success": true,
+        "startS": 50.328,
+        "endS": 50.438,
+        "palign": 0
+      },
+      {
+        "word": "get ",
+        "success": true,
+        "startS": 50.489,
+        "endS": 50.591,
+        "palign": 0
+      },
+      {
+        "word": "the ",
+        "success": true,
+        "startS": 50.61767,
+        "endS": 50.671,
+        "palign": 0
+      },
+      {
+        "word": "final ",
+        "success": true,
+        "startS": 50.7476,
+        "endS": 51.054,
+        "palign": 0
+      },
+      {
+        "word": "word\n\n[",
+        "success": true,
+        "startS": 51.07686,
+        "endS": 51.214,
+        "palign": 0
+      },
+      {
+        "word": "End]\n\n\n",
+        "success": true,
+        "startS": 51.23686,
+        "endS": 51.374,
+        "palign": 0
+      }
+    ],
+    "waveformData": [
+      0.06842,
+      0.05509,
+      0.04987,
+      0.05252,
+      0.0435,
+      0.03408,
+      0.04994,
+      0.04123,
+      0.03415,
+      0.02896,
+      0.05556,
+      0.06119,
+      0.06785,
+      0.0721,
+      0.04936,
+      0.04362,
+      0.06185,
+      0.0513,
+      0.06171,
+      0.04822,
+      0.04765,
+      0.05868,
+      0.03123,
+      0.06312,
+      0.05569,
+      0.06546,
+      0.06563,
+      0.04905,
+      0.04156,
+      0.05464,
+      0.0433,
+      0.07067,
+      0.04589,
+      0.05095,
+      0.03802,
+      0.05219,
+      0.06932,
+      0.07379,
+      0.07893,
+      0.07441,
+      0.06026,
+      0.08882,
+      0.06972,
+      0.06703,
+      0.06114,
+      0.07217,
+      0.08787,
+      0.22406,
+      0.17935,
+      0.13438,
+      0.09173,
+      0.08878,
+      0.25452,
+      0.16835,
+      0.16749,
+      0.1814,
+      0.09403,
+      0.10387,
+      0.17213,
+      0.24841,
+      0.17732,
+      0.18123,
+      0.12997,
+      0.03876,
+      0.10605,
+      0.21842,
+      0.15367,
+      0.12198,
+      0.12193,
+      0.10913,
+      0.10506,
+      0.06649,
+      0.09907,
+      0.15482,
+      0.23252,
+      0.13785,
+      0.08778,
+      0.14499,
+      0.23063,
+      0.17947,
+      0.11601,
+      0.12473,
+      0.14264,
+      0.08086,
+      0.12364,
+      0.26191,
+      0.08538,
+      0.24339,
+      0.14148,
+      0.08388,
+      0.10215,
+      0.14878,
+      0.21486,
+      0.24175,
+      0.13756,
+      0.14697,
+      0.09012,
+      0.11544,
+      0.26831,
+      0.08818,
+      0.14689,
+      0.14098,
+      0.15317,
+      0.15132,
+      0.1519,
+      0.24709,
+      0.18147,
+      0.16129,
+      0.15537,
+      0.08131,
+      0.10533,
+      0.25304,
+      0.12543,
+      0.25618,
+      0.09188,
+      0.11894,
+      0.08867,
+      0.08851,
+      0.24848,
+      0.09016,
+      0.10578,
+      0.16396,
+      0.09338,
+      0.07927,
+      0.12879,
+      0.11283,
+      0.10422,
+      0.09515,
+      0.11536,
+      0.08178,
+      0.11217,
+      0.24332,
+      0.15588,
+      0.16162,
+      0.17481,
+      0.09067,
+      0.08408,
+      0.21147,
+      0.22003,
+      0.21821,
+      0.10851,
+      0.14275,
+      0.08919,
+      0.10271,
+      0.26715,
+      0.09749,
+      0.09505,
+      0.06867,
+      0.10078,
+      0.09303,
+      0.09644,
+      0.07652,
+      0.12532,
+      0.10194,
+      0.05591,
+      0.09804,
+      0.1046,
+      0.24958,
+      0.21998,
+      0.17624,
+      0.19098,
+      0.0809,
+      0.10173,
+      0.14682,
+      0.22522,
+      0.13931,
+      0.16439,
+      0.12887,
+      0.10985,
+      0.06474,
+      0.19017,
+      0.14701,
+      0.11672,
+      0.09007,
+      0.14388,
+      0.10294,
+      0.07213,
+      0.09305,
+      0.10557,
+      0.23141,
+      0.13473,
+      0.10476,
+      0.16003,
+      0.22532,
+      0.20837,
+      0.1704,
+      0.19605,
+      0.14377,
+      0.08391,
+      0.15072,
+      0.23812,
+      0.11759,
+      0.22635,
+      0.12701,
+      0.09671,
+      0.10943,
+      0.09517,
+      0.22626,
+      0.19835,
+      0.1253,
+      0.128,
+      0.10608,
+      0.10997,
+      0.24488,
+      0.09564,
+      0.10185,
+      0.1169,
+      0.18973,
+      0.1945,
+      0.18319,
+      0.24799,
+      0.16799,
+      0.18083,
+      0.18794,
+      0.08837,
+      0.08966,
+      0.23138,
+      0.14384,
+      0.21337,
+      0.10477,
+      0.14016,
+      0.09956,
+      0.08748,
+      0.24478,
+      0.08648,
+      0.10688,
+      0.14894,
+      0.08537,
+      0.10516,
+      0.09165,
+      0.08875,
+      0.22543,
+      0.09783,
+      0.14197,
+      0.11608,
+      0.19984,
+      0.25266,
+      0.17065,
+      0.19191,
+      0.2095,
+      0.10055,
+      0.11528,
+      0.14178,
+      0.22188,
+      0.22833,
+      0.12357,
+      0.13441,
+      0.08549,
+      0.10763,
+      0.22131,
+      0.10568,
+      0.21029,
+      0.12114,
+      0.11439,
+      0.13214,
+      0.1475,
+      0.23552,
+      0.05134,
+      0.11403,
+      0.14005,
+      0.04471,
+      0.08153,
+      0.21702,
+      0.23327,
+      0.21813,
+      0.22975,
+      0.05708,
+      0.03705,
+      0.02782,
+      0.04657,
+      0.02596,
+      0.02687,
+      0.03109,
+      0.03228,
+      0.06954,
+      0.06515,
+      0.07269,
+      0.05416,
+      0.04236,
+      0.04145,
+      0.03168,
+      0.03185,
+      0.26655,
+      0.16807,
+      0.27367,
+      0.16916,
+      0.10442,
+      0.27537,
+      0.15055,
+      0.06783,
+      0.05966,
+      0.03911,
+      0.02223,
+      0.01599,
+      0.00969
+    ],
+    "hootCer": 0.16009557945041816,
+    "isStreamed": false
+  }
+}

@@ -1,0 +1,909 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "alignedWords": [
+      {
+        "word": "[Verse 1: Deepinder Goyal]\nZomato ",
+        "success": true,
+        "startS": 9.9,
+        "endS": 10.462,
+        "palign": 0
+      },
+      {
+        "word": "ka ",
+        "success": true,
+        "startS": 10.518,
+        "endS": 10.574,
+        "palign": 0
+      },
+      {
+        "word": "CEO, ",
+        "success": true,
+        "startS": 10.661,
+        "endS": 11.589,
+        "palign": 0
+      },
+      {
+        "word": "Gurugram ",
+        "success": true,
+        "startS": 11.662,
+        "endS": 12.145,
+        "palign": 0
+      },
+      {
+        "word": "se ",
+        "success": true,
+        "startS": 12.2325,
+        "endS": 12.33,
+        "palign": 0
+      },
+      {
+        "word": "aaya\n",
+        "success": true,
+        "startS": 12.48,
+        "endS": 12.706,
+        "palign": 0
+      },
+      {
+        "word": "Dus ",
+        "success": true,
+        "startS": 12.72033,
+        "endS": 12.749,
+        "palign": 0
+      },
+      {
+        "word": "minute ",
+        "success": true,
+        "startS": 12.81467,
+        "endS": 13.143,
+        "palign": 0
+      },
+      {
+        "word": "mein ",
+        "success": true,
+        "startS": 13.214,
+        "endS": 13.427,
+        "palign": 0
+      },
+      {
+        "word": "delivery, ",
+        "success": true,
+        "startS": 13.47886,
+        "endS": 13.9888,
+        "palign": 0
+      },
+      {
+        "word": "tera ",
+        "success": true,
+        "startS": 14.0446,
+        "endS": 14.212,
+        "palign": 0
+      },
+      {
+        "word": "funda ",
+        "success": true,
+        "startS": 14.28475,
+        "endS": 14.767,
+        "palign": 0
+      },
+      {
+        "word": "toh ",
+        "success": true,
+        "startS": 14.79967,
+        "endS": 14.865,
+        "palign": 0
+      },
+      {
+        "word": "bhaya\n",
+        "success": true,
+        "startS": 14.945,
+        "endS": 15.247,
+        "palign": 0
+      },
+      {
+        "word": "Tu ",
+        "success": true,
+        "startS": 15.278,
+        "endS": 15.309,
+        "palign": 0
+      },
+      {
+        "word": "Shark ",
+        "success": true,
+        "startS": 15.3545,
+        "endS": 15.653,
+        "palign": 0
+      },
+      {
+        "word": "tha, ",
+        "success": true,
+        "startS": 15.742,
+        "endS": 16.044,
+        "palign": 0
+      },
+      {
+        "word": "par ",
+        "success": true,
+        "startS": 16.104,
+        "endS": 16.265,
+        "palign": 0
+      },
+      {
+        "word": "tank ",
+        "success": true,
+        "startS": 16.345,
+        "endS": 16.615,
+        "palign": 0
+      },
+      {
+        "word": "mein ",
+        "success": true,
+        "startS": 16.655,
+        "endS": 16.775,
+        "palign": 0
+      },
+      {
+        "word": "machhli ",
+        "success": true,
+        "startS": 16.80775,
+        "endS": 17.261,
+        "palign": 0
+      },
+      {
+        "word": "nikla\n",
+        "success": true,
+        "startS": 17.32733,
+        "endS": 17.795,
+        "palign": 0
+      },
+      {
+        "word": "Mera ",
+        "success": true,
+        "startS": 17.8575,
+        "endS": 18.045,
+        "palign": 0
+      },
+      {
+        "word": "stock ",
+        "success": true,
+        "startS": 18.0965,
+        "endS": 18.5,
+        "palign": 0
+      },
+      {
+        "word": "upar, ",
+        "success": true,
+        "startS": 18.559,
+        "endS": 19.0082,
+        "palign": 0
+      },
+      {
+        "word": "tera ",
+        "success": true,
+        "startS": 19.0694,
+        "endS": 19.253,
+        "palign": 0
+      },
+      {
+        "word": "Bharat ",
+        "success": true,
+        "startS": 19.29275,
+        "endS": 19.625,
+        "palign": 0
+      },
+      {
+        "word": "Pe ",
+        "success": true,
+        "startS": 19.705,
+        "endS": 19.817,
+        "palign": 0
+      },
+      {
+        "word": "phisla\n",
+        "success": true,
+        "startS": 19.853,
+        "endS": 20.318,
+        "palign": 0
+      },
+      {
+        "word": "Tera ",
+        "success": true,
+        "startS": 20.398,
+        "endS": 20.657,
+        "palign": 0
+      },
+      {
+        "word": "Third ",
+        "success": true,
+        "startS": 20.7258,
+        "endS": 21.001,
+        "palign": 0
+      },
+      {
+        "word": "Unicorn ",
+        "success": true,
+        "startS": 21.084,
+        "endS": 21.641,
+        "palign": 0
+      },
+      {
+        "word": "ab ",
+        "success": true,
+        "startS": 21.716,
+        "endS": 21.791,
+        "palign": 0
+      },
+      {
+        "word": "hai ",
+        "success": true,
+        "startS": 21.846,
+        "endS": 21.956,
+        "palign": 0
+      },
+      {
+        "word": "Third ",
+        "success": true,
+        "startS": 22.0146,
+        "endS": 22.249,
+        "palign": 0
+      },
+      {
+        "word": "Class\n",
+        "success": true,
+        "startS": 22.329,
+        "endS": 22.804,
+        "palign": 0
+      },
+      {
+        "word": "Mera ",
+        "success": true,
+        "startS": 22.884,
+        "endS": 23.147,
+        "palign": 0
+      },
+      {
+        "word": "Blinkit ",
+        "success": true,
+        "startS": 23.1932,
+        "endS": 23.52,
+        "palign": 0
+      },
+      {
+        "word": "aaya, ",
+        "success": true,
+        "startS": 23.654,
+        "endS": 23.916,
+        "palign": 0
+      },
+      {
+        "word": "tera ",
+        "success": true,
+        "startS": 24.001,
+        "endS": 24.256,
+        "palign": 0
+      },
+      {
+        "word": "ego ",
+        "success": true,
+        "startS": 24.31567,
+        "endS": 24.435,
+        "palign": 0
+      },
+      {
+        "word": "hua ",
+        "success": true,
+        "startS": 24.53367,
+        "endS": 24.731,
+        "palign": 0
+      },
+      {
+        "word": "mass\n\n",
+        "success": true,
+        "startS": 24.8135,
+        "endS": 25.236,
+        "palign": 0
+      },
+      {
+        "word": "[Verse 2: Ashneer Grover]\nOye, ",
+        "success": true,
+        "startS": 25.244,
+        "endS": 25.91133,
+        "palign": 0
+      },
+      {
+        "word": "ye ",
+        "success": true,
+        "startS": 25.96667,
+        "endS": 26.022,
+        "palign": 0
+      },
+      {
+        "word": "sab ",
+        "success": true,
+        "startS": 26.11233,
+        "endS": 26.371,
+        "palign": 0
+      },
+      {
+        "word": "doglapan ",
+        "success": true,
+        "startS": 26.41867,
+        "endS": 26.862,
+        "palign": 0
+      },
+      {
+        "word": "hai ",
+        "success": true,
+        "startS": 26.91233,
+        "endS": 27.013,
+        "palign": 0
+      },
+      {
+        "word": "bhai\n",
+        "success": true,
+        "startS": 27.08525,
+        "endS": 27.302,
+        "palign": 0
+      },
+      {
+        "word": "Tu ",
+        "success": true,
+        "startS": 27.3775,
+        "endS": 27.453,
+        "palign": 0
+      },
+      {
+        "word": "delivery ",
+        "success": true,
+        "startS": 27.50586,
+        "endS": 27.904,
+        "palign": 0
+      },
+      {
+        "word": "wala, ",
+        "success": true,
+        "startS": 28.053,
+        "endS": 28.2524,
+        "palign": 0
+      },
+      {
+        "word": "main ",
+        "success": true,
+        "startS": 28.2768,
+        "endS": 28.35,
+        "palign": 0
+      },
+      {
+        "word": "funding ",
+        "success": true,
+        "startS": 28.40125,
+        "endS": 28.728,
+        "palign": 0
+      },
+      {
+        "word": "wala, ",
+        "success": true,
+        "startS": 28.7905,
+        "endS": 29.0055,
+        "palign": 0
+      },
+      {
+        "word": "samjha ",
+        "success": true,
+        "startS": 29.033,
+        "endS": 29.311,
+        "palign": 0
+      },
+      {
+        "word": "kya ",
+        "success": true,
+        "startS": 29.39367,
+        "endS": 29.559,
+        "palign": 0
+      },
+      {
+        "word": "bhai\n",
+        "success": true,
+        "startS": 29.6265,
+        "endS": 29.829,
+        "palign": 0
+      },
+      {
+        "word": "Tere ",
+        "success": true,
+        "startS": 29.909,
+        "endS": 30.16,
+        "palign": 0
+      },
+      {
+        "word": "paas ",
+        "success": true,
+        "startS": 30.23,
+        "endS": 30.421,
+        "palign": 0
+      },
+      {
+        "word": "red ",
+        "success": true,
+        "startS": 30.51167,
+        "endS": 30.745,
+        "palign": 0
+      },
+      {
+        "word": "t-shirt, ",
+        "success": true,
+        "startS": 30.815,
+        "endS": 31.1926,
+        "palign": 0
+      },
+      {
+        "word": "mere ",
+        "success": true,
+        "startS": 31.2532,
+        "endS": 31.435,
+        "palign": 0
+      },
+      {
+        "word": "paas ",
+        "success": true,
+        "startS": 31.5055,
+        "endS": 31.701,
+        "palign": 0
+      },
+      {
+        "word": "red ",
+        "success": true,
+        "startS": 31.774,
+        "endS": 31.92,
+        "palign": 0
+      },
+      {
+        "word": "flag ",
+        "success": true,
+        "startS": 32.0135,
+        "endS": 32.324,
+        "palign": 0
+      },
+      {
+        "word": "ka ",
+        "success": true,
+        "startS": 32.347,
+        "endS": 32.37,
+        "palign": 0
+      },
+      {
+        "word": "stock\n",
+        "success": true,
+        "startS": 32.4506,
+        "endS": 32.801,
+        "palign": 0
+      },
+      {
+        "word": "Sab ",
+        "success": true,
+        "startS": 32.85733,
+        "endS": 32.97,
+        "palign": 0
+      },
+      {
+        "word": "bakwaas ",
+        "success": true,
+        "startS": 33.03,
+        "endS": 33.42,
+        "palign": 0
+      },
+      {
+        "word": "bolke ",
+        "success": true,
+        "startS": 33.52267,
+        "endS": 33.896,
+        "palign": 0
+      },
+      {
+        "word": "main ",
+        "success": true,
+        "startS": 33.94225,
+        "endS": 34.081,
+        "palign": 0
+      },
+      {
+        "word": "tod ",
+        "success": true,
+        "startS": 34.161,
+        "endS": 34.429,
+        "palign": 0
+      },
+      {
+        "word": "doon ",
+        "success": true,
+        "startS": 34.46375,
+        "endS": 34.568,
+        "palign": 0
+      },
+      {
+        "word": "tera ",
+        "success": true,
+        "startS": 34.63025,
+        "endS": 34.817,
+        "palign": 0
+      },
+      {
+        "word": "clock\n",
+        "success": true,
+        "startS": 34.897,
+        "endS": 35.499,
+        "palign": 0
+      },
+      {
+        "word": "Tip ",
+        "success": true,
+        "startS": 35.579,
+        "endS": 35.755,
+        "palign": 0
+      },
+      {
+        "word": "maangta ",
+        "success": true,
+        "startS": 35.7925,
+        "endS": 36.24,
+        "palign": 0
+      },
+      {
+        "word": "hai ",
+        "success": true,
+        "startS": 36.30333,
+        "endS": 36.43,
+        "palign": 0
+      },
+      {
+        "word": "tu, ",
+        "success": true,
+        "startS": 36.474,
+        "endS": 36.64,
+        "palign": 0
+      },
+      {
+        "word": "rating ",
+        "success": true,
+        "startS": 36.762,
+        "endS": 36.981,
+        "palign": 0
+      },
+      {
+        "word": "bhi ",
+        "success": true,
+        "startS": 37.00933,
+        "endS": 37.066,
+        "palign": 0
+      },
+      {
+        "word": "maangta ",
+        "success": true,
+        "startS": 37.089,
+        "endS": 37.522,
+        "palign": 0
+      },
+      {
+        "word": "hai\n",
+        "success": true,
+        "startS": 37.602,
+        "endS": 37.808,
+        "palign": 0
+      },
+      {
+        "word": "Main ",
+        "success": true,
+        "startS": 37.83725,
+        "endS": 37.925,
+        "palign": 0
+      },
+      {
+        "word": "Grover ",
+        "success": true,
+        "startS": 38.005,
+        "endS": 38.317,
+        "palign": 0
+      },
+      {
+        "word": "hoon ",
+        "success": true,
+        "startS": 38.35425,
+        "endS": 38.466,
+        "palign": 0
+      },
+      {
+        "word": "bhai, ",
+        "success": true,
+        "startS": 38.5365,
+        "endS": 38.78875,
+        "palign": 0
+      },
+      {
+        "word": "har ",
+        "success": true,
+        "startS": 38.8295,
+        "endS": 38.911,
+        "palign": 0
+      },
+      {
+        "word": "round ",
+        "success": true,
+        "startS": 38.9604,
+        "endS": 39.158,
+        "palign": 0
+      },
+      {
+        "word": "mein ",
+        "success": true,
+        "startS": 39.198,
+        "endS": 39.318,
+        "palign": 0
+      },
+      {
+        "word": "jeet ",
+        "success": true,
+        "startS": 39.4055,
+        "endS": 39.556,
+        "palign": 0
+      },
+      {
+        "word": "maangta ",
+        "success": true,
+        "startS": 39.6175,
+        "endS": 40.072,
+        "palign": 0
+      },
+      {
+        "word": "hai\n\n[",
+        "success": true,
+        "startS": 40.09046,
+        "endS": 40.18277,
+        "palign": 0
+      },
+      {
+        "word": "End]\n\n\n",
+        "success": true,
+        "startS": 40.20123,
+        "endS": 40.312,
+        "palign": 0
+      }
+    ],
+    "waveformData": [
+      9e-05,
+      4e-05,
+      0.0351,
+      0.03301,
+      0.02576,
+      0.07898,
+      0.05815,
+      0.06864,
+      0.05965,
+      0.05162,
+      0.04922,
+      0.03313,
+      0.05665,
+      0.08844,
+      0.12685,
+      0.04065,
+      0.03894,
+      0.05171,
+      0.06393,
+      0.04962,
+      0.049,
+      0.06373,
+      0.03142,
+      0.07242,
+      0.08281,
+      0.04422,
+      0.08669,
+      0.11653,
+      0.05292,
+      0.03857,
+      0.08948,
+      0.04034,
+      0.10084,
+      0.03369,
+      0.10327,
+      0.07211,
+      0.10399,
+      0.06557,
+      0.08906,
+      0.09186,
+      0.12181,
+      0.03796,
+      0.10043,
+      0.06646,
+      0.03257,
+      0.08907,
+      0.09584,
+      0.02862,
+      0.03411,
+      0.11543,
+      0.12019,
+      0.09876,
+      0.14081,
+      0.27829,
+      0.1713,
+      0.13622,
+      0.13239,
+      0.12439,
+      0.14246,
+      0.13999,
+      0.09819,
+      0.12394,
+      0.1474,
+      0.09521,
+      0.14633,
+      0.27869,
+      0.16261,
+      0.14213,
+      0.16951,
+      0.103,
+      0.11164,
+      0.10502,
+      0.13308,
+      0.10047,
+      0.13097,
+      0.10767,
+      0.12851,
+      0.06435,
+      0.29255,
+      0.12203,
+      0.11702,
+      0.13256,
+      0.11568,
+      0.13194,
+      0.10418,
+      0.1292,
+      0.10128,
+      0.1579,
+      0.09991,
+      0.12589,
+      0.0896,
+      0.076,
+      0.10542,
+      0.10858,
+      0.08965,
+      0.09912,
+      0.11612,
+      0.09224,
+      0.10149,
+      0.09847,
+      0.12468,
+      0.09488,
+      0.08007,
+      0.29124,
+      0.11697,
+      0.14898,
+      0.1382,
+      0.10982,
+      0.12975,
+      0.10651,
+      0.07158,
+      0.12413,
+      0.13832,
+      0.07231,
+      0.15091,
+      0.18561,
+      0.25385,
+      0.12805,
+      0.08976,
+      0.10439,
+      0.10562,
+      0.10649,
+      0.13163,
+      0.10958,
+      0.0781,
+      0.10505,
+      0.09836,
+      0.06415,
+      0.31764,
+      0.14368,
+      0.12932,
+      0.1471,
+      0.11353,
+      0.13526,
+      0.11883,
+      0.11337,
+      0.10889,
+      0.16419,
+      0.11779,
+      0.13511,
+      0.13317,
+      0.2837,
+      0.1294,
+      0.15402,
+      0.12562,
+      0.14096,
+      0.09634,
+      0.12532,
+      0.09928,
+      0.13123,
+      0.13596,
+      0.09866,
+      0.12107,
+      0.25366,
+      0.17553,
+      0.15449,
+      0.15695,
+      0.09154,
+      0.1251,
+      0.10764,
+      0.114,
+      0.08777,
+      0.13317,
+      0.13477,
+      0.11599,
+      0.11165,
+      0.28204,
+      0.15988,
+      0.13595,
+      0.1339,
+      0.12974,
+      0.12973,
+      0.11525,
+      0.06058,
+      0.14889,
+      0.13877,
+      0.06436,
+      0.09574,
+      0.23895,
+      0.25271,
+      0.13896,
+      0.15983,
+      0.14386,
+      0.14263,
+      0.13603,
+      0.1339,
+      0.10691,
+      0.10717,
+      0.13066,
+      0.14303,
+      0.14942,
+      0.11232,
+      0.12333,
+      0.10237,
+      0.11618,
+      0.11754,
+      0.11295,
+      0.13605,
+      0.0854,
+      0.09026,
+      0.18718,
+      0.13435,
+      0.21785,
+      0.17795,
+      0.30924,
+      0.15995,
+      0.18996,
+      0.12757,
+      0.14307,
+      0.05232,
+      0.13335,
+      0.07435,
+      0.10442,
+      0.13853,
+      0.04729,
+      0.14472,
+      0.2988,
+      0.22153,
+      0.21534,
+      0.22404,
+      0.04747,
+      0.1435,
+      0.10543,
+      0.07557,
+      0.08214,
+      0.13576,
+      0.10805,
+      0.14433,
+      0.04172,
+      0.00566,
+      5e-05,
+      4e-05
+    ],
+    "hootCer": 0.27992957746478875,
+    "isStreamed": false
+  }
+}

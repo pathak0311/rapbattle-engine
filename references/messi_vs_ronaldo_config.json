@@ -1,0 +1,130 @@
+{
+  "slug": "messi_vs_ronaldo",
+  "title": "THE SPOT KICK",
+  "hashtag": "#GOATDEBATE",
+  "sunoStyle": "cinematic trap-soul rap battle, 88 bpm, dark stadium-tunnel reverb, heavy 808s, tense string stabs, two male English rappers, verse 1 smooth calm measured flow, verse 2 sharp aggressive fast flow, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro, abrupt ending",
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "LIONEL MESSI",
+      "badge": "THE MAGICIAN",
+      "color": "#3BA7FF",
+      "svg": "assets/messi.svg",
+      "portrait": "assets/messi.svg",
+      "talkSvg": "assets/messi.svg",
+      "emblemSvg": "assets/messi.svg",
+      "mouthSvgs": [
+        "assets/messi-m0.svg",
+        "assets/messi-m1.svg",
+        "assets/messi-m2.svg"
+      ]
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "CRISTIANO RONALDO",
+      "badge": "SIUUU",
+      "color": "#F5C542",
+      "svg": "assets/ronaldo.svg",
+      "portrait": "assets/ronaldo.svg",
+      "talkSvg": "assets/ronaldo.svg",
+      "emblemSvg": "assets/ronaldo.svg",
+      "mouthSvgs": [
+        "assets/ronaldo-m0.svg",
+        "assets/ronaldo-m1.svg",
+        "assets/ronaldo-m2.svg"
+      ]
+    }
+  },
+  "lines": [
+    {
+      "speaker": "fighter1",
+      "text": "Little kid from Rosario, never needed the spotlight's glare,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Left the club that made me, still stayed right where the magic's there.",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Fans in Miami singing like it's a street in Barcelona's rain,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You chase the highlight reel, I chase the trophy, that's the game.",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Your Real Madrid chapter's full of headlines, I respect the grind,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "But I rolled up in Qatar and lifted what your résumé left behind.",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You dance for the cameras, I dance for the crowd and the crew,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Ball at my feet, the whole world leaning forward, waiting on you.",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You talk about the crowd, but the crowd's been chanting my name for years,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Cristiano, Portugal, Euro champion, the trophy's the one that cheers.",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You're the Argentine poet with the perfect touch and calm,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "But I'm the one who scores through pressure, I bring the storm.",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Champions League, five of them, don't need to explain the stats,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Real Madrid's house is still my house, every fan has the receipts.",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Al Nassr, Saudi, yeah, I went where the new road led,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You kept your lap of honor, I'm still the one who never bled.",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Stay humble, little man, the GOAT is a title earned in the fight,",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "And I've got the scars and the medals and the proof you'd call alright.",
+      "punchline": true
+    }
+  ]
+}

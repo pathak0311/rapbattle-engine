@@ -1,0 +1,1584 @@
+{
+  "schemaVersion": 1,
+  "slug": "goyal_vs_grover",
+  "title": "GOYAL VS GROVER",
+  "hashtag": "#DOGLAPANWARS",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "audio": {
+    "src": "audio/battle.mp3",
+    "duration": 46.453,
+    "durationInFrames": 1454,
+    "bpm": 95,
+    "beats": [
+      0.608,
+      1.205,
+      1.824,
+      2.453,
+      3.083,
+      3.712,
+      4.331,
+      4.96,
+      5.589,
+      6.219,
+      6.848,
+      7.477,
+      8.107,
+      8.736,
+      9.365,
+      9.877,
+      10.485,
+      11.253,
+      11.883,
+      12.523,
+      13.141,
+      13.781,
+      14.411,
+      15.04,
+      15.669,
+      16.288,
+      16.928,
+      17.557,
+      18.219,
+      18.997,
+      19.595,
+      20.117,
+      20.704,
+      21.323,
+      21.963,
+      22.592,
+      23.221,
+      23.861,
+      24.469,
+      25.088,
+      25.739,
+      26.368,
+      27.008,
+      27.627,
+      28.256,
+      28.896,
+      29.525,
+      30.144,
+      30.773,
+      31.403,
+      31.925,
+      32.544,
+      33.173,
+      33.781,
+      34.4,
+      34.88,
+      35.541,
+      36.139,
+      36.768,
+      37.397,
+      38.005,
+      38.507,
+      39.072,
+      39.637,
+      40.235,
+      40.864,
+      41.493,
+      42.123,
+      42.752,
+      43.381,
+      44.011,
+      44.651,
+      45.269,
+      45.781
+    ],
+    "energy": [
+      {
+        "t": 0.0,
+        "v": 0.15
+      },
+      {
+        "t": 1.191,
+        "v": 0.243
+      },
+      {
+        "t": 2.382,
+        "v": 0.15
+      },
+      {
+        "t": 3.573,
+        "v": 0.203
+      },
+      {
+        "t": 4.764,
+        "v": 0.185
+      },
+      {
+        "t": 5.956,
+        "v": 0.15
+      },
+      {
+        "t": 7.147,
+        "v": 0.209
+      },
+      {
+        "t": 8.338,
+        "v": 0.15
+      },
+      {
+        "t": 9.529,
+        "v": 0.15
+      },
+      {
+        "t": 10.72,
+        "v": 0.839
+      },
+      {
+        "t": 11.911,
+        "v": 0.465
+      },
+      {
+        "t": 13.102,
+        "v": 0.456
+      },
+      {
+        "t": 14.293,
+        "v": 0.178
+      },
+      {
+        "t": 15.484,
+        "v": 0.235
+      },
+      {
+        "t": 16.675,
+        "v": 0.397
+      },
+      {
+        "t": 17.867,
+        "v": 0.458
+      },
+      {
+        "t": 19.058,
+        "v": 0.341
+      },
+      {
+        "t": 20.249,
+        "v": 0.274
+      },
+      {
+        "t": 21.44,
+        "v": 0.316
+      },
+      {
+        "t": 22.631,
+        "v": 0.38
+      },
+      {
+        "t": 23.822,
+        "v": 0.16
+      },
+      {
+        "t": 25.013,
+        "v": 0.167
+      },
+      {
+        "t": 26.204,
+        "v": 0.358
+      },
+      {
+        "t": 27.395,
+        "v": 0.376
+      },
+      {
+        "t": 28.586,
+        "v": 0.401
+      },
+      {
+        "t": 29.778,
+        "v": 0.211
+      },
+      {
+        "t": 30.969,
+        "v": 0.408
+      },
+      {
+        "t": 32.16,
+        "v": 0.24
+      },
+      {
+        "t": 33.351,
+        "v": 0.942
+      },
+      {
+        "t": 34.542,
+        "v": 0.262
+      },
+      {
+        "t": 35.733,
+        "v": 0.442
+      },
+      {
+        "t": 36.924,
+        "v": 0.434
+      },
+      {
+        "t": 38.115,
+        "v": 0.473
+      },
+      {
+        "t": 39.306,
+        "v": 0.324
+      },
+      {
+        "t": 40.497,
+        "v": 0.397
+      },
+      {
+        "t": 41.689,
+        "v": 0.151
+      },
+      {
+        "t": 42.88,
+        "v": 0.15
+      },
+      {
+        "t": 44.071,
+        "v": 0.246
+      },
+      {
+        "t": 45.262,
+        "v": 0.508
+      },
+      {
+        "t": 46.453,
+        "v": 0.15
+      }
+    ],
+    "mouth": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000211112211122002211122112001111111121112112222111111211112200211222111012222002222221121002221122002112002211221002211222100222122200111221111222002211122222222112112122211000211111200122211211222221100122211122112211122112200012212222222111222221100012211000122000221111220022112200022212100022000222000011222222200122122100022112210012121121112221112112210022000122220000222221211222222221122212200021110022002022222200221122222112002212011122211112222111112222222211121221002110012200012212100222112220022212221122222211112110022112221212100022122211210002211121111222222200211122211122211222221112222122002222220021222200000211111211112221210022222111212220010002222200002210002221222112200220000122221000021122100221122210012112210022100222221000222222211222121122002200012221111221002222122112221112011221112111222211100022221221122211120022221112212100022222111122111221111220012210001112221110012221110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "intro": {
+    "start": 0.0,
+    "end": 3.5
+  },
+  "outro": {
+    "start": 40.537,
+    "end": 48.453
+  },
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "DEEPINDER GOYAL",
+      "badge": "ZOMATO CEO",
+      "color": "#E23744",
+      "svg": "assets/goyal-m0.svg",
+      "portrait": "assets/goyal-m0.svg",
+      "talkSvg": "assets/goyal-m2.svg",
+      "emblemSvg": "assets/goyal-emblem.svg",
+      "mouthSvgs": [
+        "assets/goyal-m0.svg",
+        "assets/goyal-m1.svg",
+        "assets/goyal-m2.svg"
+      ]
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "ASHNEER GROVER",
+      "badge": "DOGLAPAN KING",
+      "color": "#22C55E",
+      "svg": "assets/grover-m0.svg",
+      "portrait": "assets/grover-m0.svg",
+      "talkSvg": "assets/grover-m2.svg",
+      "emblemSvg": "assets/grover-emblem.svg",
+      "mouthSvgs": [
+        "assets/grover-m0.svg",
+        "assets/grover-m1.svg",
+        "assets/grover-m2.svg"
+      ]
+    }
+  },
+  "captions": [
+    {
+      "id": 0,
+      "speaker": "fighter1",
+      "start": 9.9,
+      "end": 12.706,
+      "text": "Zomato ka CEO, Gurugram se aaya",
+      "words": [
+        {
+          "text": "Zomato",
+          "start": 9.9,
+          "end": 10.462
+        },
+        {
+          "text": "ka",
+          "start": 10.518,
+          "end": 10.574
+        },
+        {
+          "text": "CEO,",
+          "start": 10.661,
+          "end": 11.589
+        },
+        {
+          "text": "Gurugram",
+          "start": 11.662,
+          "end": 12.145
+        },
+        {
+          "text": "se",
+          "start": 12.232,
+          "end": 12.33
+        },
+        {
+          "text": "aaya",
+          "start": 12.48,
+          "end": 12.706
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 9.9,
+          "end": 11.589,
+          "words": [
+            {
+              "text": "Zomato",
+              "start": 9.9,
+              "end": 10.462
+            },
+            {
+              "text": "ka",
+              "start": 10.518,
+              "end": 10.574
+            },
+            {
+              "text": "CEO,",
+              "start": 10.661,
+              "end": 11.589
+            }
+          ]
+        },
+        {
+          "start": 11.662,
+          "end": 12.706,
+          "words": [
+            {
+              "text": "Gurugram",
+              "start": 11.662,
+              "end": 12.145
+            },
+            {
+              "text": "se",
+              "start": 12.232,
+              "end": 12.33
+            },
+            {
+              "text": "aaya",
+              "start": 12.48,
+              "end": 12.706
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "speaker": "fighter1",
+      "start": 12.72,
+      "end": 15.247,
+      "text": "Dus minute mein delivery, tera funda toh bhaya",
+      "words": [
+        {
+          "text": "Dus",
+          "start": 12.72,
+          "end": 12.749
+        },
+        {
+          "text": "minute",
+          "start": 12.815,
+          "end": 13.143
+        },
+        {
+          "text": "mein",
+          "start": 13.214,
+          "end": 13.427
+        },
+        {
+          "text": "delivery,",
+          "start": 13.479,
+          "end": 13.989
+        },
+        {
+          "text": "tera",
+          "start": 14.045,
+          "end": 14.212
+        },
+        {
+          "text": "funda",
+          "start": 14.285,
+          "end": 14.767
+        },
+        {
+          "text": "toh",
+          "start": 14.8,
+          "end": 14.865
+        },
+        {
+          "text": "bhaya",
+          "start": 14.945,
+          "end": 15.247
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 12.72,
+          "end": 13.427,
+          "words": [
+            {
+              "text": "Dus",
+              "start": 12.72,
+              "end": 12.749
+            },
+            {
+              "text": "minute",
+              "start": 12.815,
+              "end": 13.143
+            },
+            {
+              "text": "mein",
+              "start": 13.214,
+              "end": 13.427
+            }
+          ]
+        },
+        {
+          "start": 13.479,
+          "end": 14.767,
+          "words": [
+            {
+              "text": "delivery,",
+              "start": 13.479,
+              "end": 13.989
+            },
+            {
+              "text": "tera",
+              "start": 14.045,
+              "end": 14.212
+            },
+            {
+              "text": "funda",
+              "start": 14.285,
+              "end": 14.767
+            }
+          ]
+        },
+        {
+          "start": 14.8,
+          "end": 15.247,
+          "words": [
+            {
+              "text": "toh",
+              "start": 14.8,
+              "end": 14.865
+            },
+            {
+              "text": "bhaya",
+              "start": 14.945,
+              "end": 15.247
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speaker": "fighter1",
+      "start": 15.278,
+      "end": 17.795,
+      "text": "Tu Shark tha, par tank mein machhli nikla",
+      "words": [
+        {
+          "text": "Tu",
+          "start": 15.278,
+          "end": 15.309
+        },
+        {
+          "text": "Shark",
+          "start": 15.354,
+          "end": 15.653
+        },
+        {
+          "text": "tha,",
+          "start": 15.742,
+          "end": 16.044
+        },
+        {
+          "text": "par",
+          "start": 16.104,
+          "end": 16.265
+        },
+        {
+          "text": "tank",
+          "start": 16.345,
+          "end": 16.615
+        },
+        {
+          "text": "mein",
+          "start": 16.655,
+          "end": 16.775
+        },
+        {
+          "text": "machhli",
+          "start": 16.808,
+          "end": 17.261
+        },
+        {
+          "text": "nikla",
+          "start": 17.327,
+          "end": 17.795
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 15.278,
+          "end": 16.044,
+          "words": [
+            {
+              "text": "Tu",
+              "start": 15.278,
+              "end": 15.309
+            },
+            {
+              "text": "Shark",
+              "start": 15.354,
+              "end": 15.653
+            },
+            {
+              "text": "tha,",
+              "start": 15.742,
+              "end": 16.044
+            }
+          ]
+        },
+        {
+          "start": 16.104,
+          "end": 16.775,
+          "words": [
+            {
+              "text": "par",
+              "start": 16.104,
+              "end": 16.265
+            },
+            {
+              "text": "tank",
+              "start": 16.345,
+              "end": 16.615
+            },
+            {
+              "text": "mein",
+              "start": 16.655,
+              "end": 16.775
+            }
+          ]
+        },
+        {
+          "start": 16.808,
+          "end": 17.795,
+          "words": [
+            {
+              "text": "machhli",
+              "start": 16.808,
+              "end": 17.261
+            },
+            {
+              "text": "nikla",
+              "start": 17.327,
+              "end": 17.795
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "speaker": "fighter1",
+      "start": 17.858,
+      "end": 20.318,
+      "text": "Mera stock upar, tera Bharat Pe phisla",
+      "words": [
+        {
+          "text": "Mera",
+          "start": 17.858,
+          "end": 18.045
+        },
+        {
+          "text": "stock",
+          "start": 18.096,
+          "end": 18.5
+        },
+        {
+          "text": "upar,",
+          "start": 18.559,
+          "end": 19.008
+        },
+        {
+          "text": "tera",
+          "start": 19.069,
+          "end": 19.253
+        },
+        {
+          "text": "Bharat",
+          "start": 19.293,
+          "end": 19.625
+        },
+        {
+          "text": "Pe",
+          "start": 19.705,
+          "end": 19.817
+        },
+        {
+          "text": "phisla",
+          "start": 19.853,
+          "end": 20.318
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 17.858,
+          "end": 19.008,
+          "words": [
+            {
+              "text": "Mera",
+              "start": 17.858,
+              "end": 18.045
+            },
+            {
+              "text": "stock",
+              "start": 18.096,
+              "end": 18.5
+            },
+            {
+              "text": "upar,",
+              "start": 18.559,
+              "end": 19.008
+            }
+          ]
+        },
+        {
+          "start": 19.069,
+          "end": 19.817,
+          "words": [
+            {
+              "text": "tera",
+              "start": 19.069,
+              "end": 19.253
+            },
+            {
+              "text": "Bharat",
+              "start": 19.293,
+              "end": 19.625
+            },
+            {
+              "text": "Pe",
+              "start": 19.705,
+              "end": 19.817
+            }
+          ]
+        },
+        {
+          "start": 19.853,
+          "end": 20.318,
+          "words": [
+            {
+              "text": "phisla",
+              "start": 19.853,
+              "end": 20.318
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "speaker": "fighter1",
+      "start": 20.398,
+      "end": 22.804,
+      "text": "Tera Third Unicorn ab hai Third Class",
+      "words": [
+        {
+          "text": "Tera",
+          "start": 20.398,
+          "end": 20.657
+        },
+        {
+          "text": "Third",
+          "start": 20.726,
+          "end": 21.001
+        },
+        {
+          "text": "Unicorn",
+          "start": 21.084,
+          "end": 21.641
+        },
+        {
+          "text": "ab",
+          "start": 21.716,
+          "end": 21.791
+        },
+        {
+          "text": "hai",
+          "start": 21.846,
+          "end": 21.956
+        },
+        {
+          "text": "Third",
+          "start": 22.015,
+          "end": 22.249
+        },
+        {
+          "text": "Class",
+          "start": 22.329,
+          "end": 22.804
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 20.398,
+          "end": 21.641,
+          "words": [
+            {
+              "text": "Tera",
+              "start": 20.398,
+              "end": 20.657
+            },
+            {
+              "text": "Third",
+              "start": 20.726,
+              "end": 21.001
+            },
+            {
+              "text": "Unicorn",
+              "start": 21.084,
+              "end": 21.641
+            }
+          ]
+        },
+        {
+          "start": 21.716,
+          "end": 22.249,
+          "words": [
+            {
+              "text": "ab",
+              "start": 21.716,
+              "end": 21.791
+            },
+            {
+              "text": "hai",
+              "start": 21.846,
+              "end": 21.956
+            },
+            {
+              "text": "Third",
+              "start": 22.015,
+              "end": 22.249
+            }
+          ]
+        },
+        {
+          "start": 22.329,
+          "end": 22.804,
+          "words": [
+            {
+              "text": "Class",
+              "start": 22.329,
+              "end": 22.804
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "speaker": "fighter1",
+      "start": 22.884,
+      "end": 25.236,
+      "text": "Mera Blinkit aaya, tera ego hua mass",
+      "words": [
+        {
+          "text": "Mera",
+          "start": 22.884,
+          "end": 23.147
+        },
+        {
+          "text": "Blinkit",
+          "start": 23.193,
+          "end": 23.52
+        },
+        {
+          "text": "aaya,",
+          "start": 23.654,
+          "end": 23.916
+        },
+        {
+          "text": "tera",
+          "start": 24.001,
+          "end": 24.256
+        },
+        {
+          "text": "ego",
+          "start": 24.316,
+          "end": 24.435
+        },
+        {
+          "text": "hua",
+          "start": 24.534,
+          "end": 24.731
+        },
+        {
+          "text": "mass",
+          "start": 24.814,
+          "end": 25.236
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 22.884,
+          "end": 23.916,
+          "words": [
+            {
+              "text": "Mera",
+              "start": 22.884,
+              "end": 23.147
+            },
+            {
+              "text": "Blinkit",
+              "start": 23.193,
+              "end": 23.52
+            },
+            {
+              "text": "aaya,",
+              "start": 23.654,
+              "end": 23.916
+            }
+          ]
+        },
+        {
+          "start": 24.001,
+          "end": 24.731,
+          "words": [
+            {
+              "text": "tera",
+              "start": 24.001,
+              "end": 24.256
+            },
+            {
+              "text": "ego",
+              "start": 24.316,
+              "end": 24.435
+            },
+            {
+              "text": "hua",
+              "start": 24.534,
+              "end": 24.731
+            }
+          ]
+        },
+        {
+          "start": 24.814,
+          "end": 25.236,
+          "words": [
+            {
+              "text": "mass",
+              "start": 24.814,
+              "end": 25.236
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "speaker": "fighter2",
+      "start": 25.244,
+      "end": 27.302,
+      "text": "Oye, ye sab doglapan hai bhai",
+      "words": [
+        {
+          "text": "Oye,",
+          "start": 25.244,
+          "end": 25.911
+        },
+        {
+          "text": "ye",
+          "start": 25.967,
+          "end": 26.022
+        },
+        {
+          "text": "sab",
+          "start": 26.112,
+          "end": 26.371
+        },
+        {
+          "text": "doglapan",
+          "start": 26.419,
+          "end": 26.862
+        },
+        {
+          "text": "hai",
+          "start": 26.912,
+          "end": 27.013
+        },
+        {
+          "text": "bhai",
+          "start": 27.085,
+          "end": 27.302
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 25.244,
+          "end": 26.371,
+          "words": [
+            {
+              "text": "Oye,",
+              "start": 25.244,
+              "end": 25.911
+            },
+            {
+              "text": "ye",
+              "start": 25.967,
+              "end": 26.022
+            },
+            {
+              "text": "sab",
+              "start": 26.112,
+              "end": 26.371
+            }
+          ]
+        },
+        {
+          "start": 26.419,
+          "end": 27.302,
+          "words": [
+            {
+              "text": "doglapan",
+              "start": 26.419,
+              "end": 26.862
+            },
+            {
+              "text": "hai",
+              "start": 26.912,
+              "end": 27.013
+            },
+            {
+              "text": "bhai",
+              "start": 27.085,
+              "end": 27.302
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "speaker": "fighter2",
+      "start": 27.378,
+      "end": 29.829,
+      "text": "Tu delivery wala, main funding wala, samjha kya bhai",
+      "words": [
+        {
+          "text": "Tu",
+          "start": 27.378,
+          "end": 27.453
+        },
+        {
+          "text": "delivery",
+          "start": 27.506,
+          "end": 27.904
+        },
+        {
+          "text": "wala,",
+          "start": 28.053,
+          "end": 28.252
+        },
+        {
+          "text": "main",
+          "start": 28.277,
+          "end": 28.35
+        },
+        {
+          "text": "funding",
+          "start": 28.401,
+          "end": 28.728
+        },
+        {
+          "text": "wala,",
+          "start": 28.791,
+          "end": 29.006
+        },
+        {
+          "text": "samjha",
+          "start": 29.033,
+          "end": 29.311
+        },
+        {
+          "text": "kya",
+          "start": 29.394,
+          "end": 29.559
+        },
+        {
+          "text": "bhai",
+          "start": 29.627,
+          "end": 29.829
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 27.378,
+          "end": 28.252,
+          "words": [
+            {
+              "text": "Tu",
+              "start": 27.378,
+              "end": 27.453
+            },
+            {
+              "text": "delivery",
+              "start": 27.506,
+              "end": 27.904
+            },
+            {
+              "text": "wala,",
+              "start": 28.053,
+              "end": 28.252
+            }
+          ]
+        },
+        {
+          "start": 28.277,
+          "end": 29.006,
+          "words": [
+            {
+              "text": "main",
+              "start": 28.277,
+              "end": 28.35
+            },
+            {
+              "text": "funding",
+              "start": 28.401,
+              "end": 28.728
+            },
+            {
+              "text": "wala,",
+              "start": 28.791,
+              "end": 29.006
+            }
+          ]
+        },
+        {
+          "start": 29.033,
+          "end": 29.829,
+          "words": [
+            {
+              "text": "samjha",
+              "start": 29.033,
+              "end": 29.311
+            },
+            {
+              "text": "kya",
+              "start": 29.394,
+              "end": 29.559
+            },
+            {
+              "text": "bhai",
+              "start": 29.627,
+              "end": 29.829
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "speaker": "fighter2",
+      "start": 29.909,
+      "end": 32.801,
+      "text": "Tere paas red t-shirt, mere paas red flag ka stock",
+      "words": [
+        {
+          "text": "Tere",
+          "start": 29.909,
+          "end": 30.16
+        },
+        {
+          "text": "paas",
+          "start": 30.23,
+          "end": 30.421
+        },
+        {
+          "text": "red",
+          "start": 30.512,
+          "end": 30.745
+        },
+        {
+          "text": "t-shirt,",
+          "start": 30.815,
+          "end": 31.193
+        },
+        {
+          "text": "mere",
+          "start": 31.253,
+          "end": 31.435
+        },
+        {
+          "text": "paas",
+          "start": 31.506,
+          "end": 31.701
+        },
+        {
+          "text": "red",
+          "start": 31.774,
+          "end": 31.92
+        },
+        {
+          "text": "flag",
+          "start": 32.014,
+          "end": 32.324
+        },
+        {
+          "text": "ka",
+          "start": 32.347,
+          "end": 32.37
+        },
+        {
+          "text": "stock",
+          "start": 32.451,
+          "end": 32.801
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 29.909,
+          "end": 31.193,
+          "words": [
+            {
+              "text": "Tere",
+              "start": 29.909,
+              "end": 30.16
+            },
+            {
+              "text": "paas",
+              "start": 30.23,
+              "end": 30.421
+            },
+            {
+              "text": "red",
+              "start": 30.512,
+              "end": 30.745
+            },
+            {
+              "text": "t-shirt,",
+              "start": 30.815,
+              "end": 31.193
+            }
+          ]
+        },
+        {
+          "start": 31.253,
+          "end": 32.324,
+          "words": [
+            {
+              "text": "mere",
+              "start": 31.253,
+              "end": 31.435
+            },
+            {
+              "text": "paas",
+              "start": 31.506,
+              "end": 31.701
+            },
+            {
+              "text": "red",
+              "start": 31.774,
+              "end": 31.92
+            },
+            {
+              "text": "flag",
+              "start": 32.014,
+              "end": 32.324
+            }
+          ]
+        },
+        {
+          "start": 32.347,
+          "end": 32.801,
+          "words": [
+            {
+              "text": "ka",
+              "start": 32.347,
+              "end": 32.37
+            },
+            {
+              "text": "stock",
+              "start": 32.451,
+              "end": 32.801
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "speaker": "fighter2",
+      "start": 32.857,
+      "end": 35.499,
+      "text": "Sab bakwaas bolke main tod doon tera clock",
+      "words": [
+        {
+          "text": "Sab",
+          "start": 32.857,
+          "end": 32.97
+        },
+        {
+          "text": "bakwaas",
+          "start": 33.03,
+          "end": 33.42
+        },
+        {
+          "text": "bolke",
+          "start": 33.523,
+          "end": 33.896
+        },
+        {
+          "text": "main",
+          "start": 33.942,
+          "end": 34.081
+        },
+        {
+          "text": "tod",
+          "start": 34.161,
+          "end": 34.429
+        },
+        {
+          "text": "doon",
+          "start": 34.464,
+          "end": 34.568
+        },
+        {
+          "text": "tera",
+          "start": 34.63,
+          "end": 34.817
+        },
+        {
+          "text": "clock",
+          "start": 34.897,
+          "end": 35.499
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 32.857,
+          "end": 33.896,
+          "words": [
+            {
+              "text": "Sab",
+              "start": 32.857,
+              "end": 32.97
+            },
+            {
+              "text": "bakwaas",
+              "start": 33.03,
+              "end": 33.42
+            },
+            {
+              "text": "bolke",
+              "start": 33.523,
+              "end": 33.896
+            }
+          ]
+        },
+        {
+          "start": 33.942,
+          "end": 34.568,
+          "words": [
+            {
+              "text": "main",
+              "start": 33.942,
+              "end": 34.081
+            },
+            {
+              "text": "tod",
+              "start": 34.161,
+              "end": 34.429
+            },
+            {
+              "text": "doon",
+              "start": 34.464,
+              "end": 34.568
+            }
+          ]
+        },
+        {
+          "start": 34.63,
+          "end": 35.499,
+          "words": [
+            {
+              "text": "tera",
+              "start": 34.63,
+              "end": 34.817
+            },
+            {
+              "text": "clock",
+              "start": 34.897,
+              "end": 35.499
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "speaker": "fighter2",
+      "start": 35.579,
+      "end": 37.808,
+      "text": "Tip maangta hai tu, rating bhi maangta hai",
+      "words": [
+        {
+          "text": "Tip",
+          "start": 35.579,
+          "end": 35.755
+        },
+        {
+          "text": "maangta",
+          "start": 35.792,
+          "end": 36.24
+        },
+        {
+          "text": "hai",
+          "start": 36.303,
+          "end": 36.43
+        },
+        {
+          "text": "tu,",
+          "start": 36.474,
+          "end": 36.64
+        },
+        {
+          "text": "rating",
+          "start": 36.762,
+          "end": 36.981
+        },
+        {
+          "text": "bhi",
+          "start": 37.009,
+          "end": 37.066
+        },
+        {
+          "text": "maangta",
+          "start": 37.089,
+          "end": 37.522
+        },
+        {
+          "text": "hai",
+          "start": 37.602,
+          "end": 37.808
+        }
+      ],
+      "punchline": false,
+      "chunks": [
+        {
+          "start": 35.579,
+          "end": 36.43,
+          "words": [
+            {
+              "text": "Tip",
+              "start": 35.579,
+              "end": 35.755
+            },
+            {
+              "text": "maangta",
+              "start": 35.792,
+              "end": 36.24
+            },
+            {
+              "text": "hai",
+              "start": 36.303,
+              "end": 36.43
+            }
+          ]
+        },
+        {
+          "start": 36.474,
+          "end": 37.066,
+          "words": [
+            {
+              "text": "tu,",
+              "start": 36.474,
+              "end": 36.64
+            },
+            {
+              "text": "rating",
+              "start": 36.762,
+              "end": 36.981
+            },
+            {
+              "text": "bhi",
+              "start": 37.009,
+              "end": 37.066
+            }
+          ]
+        },
+        {
+          "start": 37.089,
+          "end": 37.808,
+          "words": [
+            {
+              "text": "maangta",
+              "start": 37.089,
+              "end": 37.522
+            },
+            {
+              "text": "hai",
+              "start": 37.602,
+              "end": 37.808
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "speaker": "fighter2",
+      "start": 37.837,
+      "end": 40.137,
+      "text": "Main Grover hoon bhai, har round mein jeet maangta hai",
+      "words": [
+        {
+          "text": "Main",
+          "start": 37.837,
+          "end": 37.925
+        },
+        {
+          "text": "Grover",
+          "start": 38.005,
+          "end": 38.317
+        },
+        {
+          "text": "hoon",
+          "start": 38.354,
+          "end": 38.466
+        },
+        {
+          "text": "bhai,",
+          "start": 38.536,
+          "end": 38.789
+        },
+        {
+          "text": "har",
+          "start": 38.83,
+          "end": 38.911
+        },
+        {
+          "text": "round",
+          "start": 38.96,
+          "end": 39.158
+        },
+        {
+          "text": "mein",
+          "start": 39.198,
+          "end": 39.318
+        },
+        {
+          "text": "jeet",
+          "start": 39.406,
+          "end": 39.556
+        },
+        {
+          "text": "maangta",
+          "start": 39.617,
+          "end": 40.072
+        },
+        {
+          "text": "hai",
+          "start": 40.09,
+          "end": 40.137
+        }
+      ],
+      "punchline": true,
+      "chunks": [
+        {
+          "start": 37.837,
+          "end": 38.789,
+          "words": [
+            {
+              "text": "Main",
+              "start": 37.837,
+              "end": 37.925
+            },
+            {
+              "text": "Grover",
+              "start": 38.005,
+              "end": 38.317
+            },
+            {
+              "text": "hoon",
+              "start": 38.354,
+              "end": 38.466
+            },
+            {
+              "text": "bhai,",
+              "start": 38.536,
+              "end": 38.789
+            }
+          ]
+        },
+        {
+          "start": 38.83,
+          "end": 39.556,
+          "words": [
+            {
+              "text": "har",
+              "start": 38.83,
+              "end": 38.911
+            },
+            {
+              "text": "round",
+              "start": 38.96,
+              "end": 39.158
+            },
+            {
+              "text": "mein",
+              "start": 39.198,
+              "end": 39.318
+            },
+            {
+              "text": "jeet",
+              "start": 39.406,
+              "end": 39.556
+            }
+          ]
+        },
+        {
+          "start": 39.617,
+          "end": 40.137,
+          "words": [
+            {
+              "text": "maangta",
+              "start": 39.617,
+              "end": 40.072
+            },
+            {
+              "text": "hai",
+              "start": 40.09,
+              "end": 40.137
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

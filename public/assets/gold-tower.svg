@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img">
+  <title>Golden Tower and Crown Emblem</title>
+  <path d="M60 216V84l60-48 60 48v132z" fill="#1E1304" stroke="#F59E0B" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M44 84l34-44 42 32 42-32 34 44z" fill="#FACC15" stroke="#B45309" stroke-width="8" stroke-linejoin="round"/>
+  <rect x="88" y="110" width="24" height="28" fill="#FACC15"/>
+  <rect x="128" y="110" width="24" height="28" fill="#FACC15"/>
+  <rect x="88" y="152" width="24" height="28" fill="#FACC15"/>
+  <rect x="128" y="152" width="24" height="28" fill="#FACC15"/>
+</svg>

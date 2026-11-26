@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img">
+  <title>Stylized Ashneer Grover in black blazer, slicked-back hair and microphone</title>
+  <defs>
+    <linearGradient id="grover-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#04140A"/>
+      <stop offset="50%" stop-color="#0B3B1C"/>
+      <stop offset="100%" stop-color="#020A05"/>
+    </linearGradient>
+    <linearGradient id="grover-suit" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1F2937"/>
+      <stop offset="55%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#090D16"/>
+    </linearGradient>
+    <linearGradient id="grover-skin" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0%" stop-color="#D9A073"/>
+      <stop offset="100%" stop-color="#B87F55"/>
+    </linearGradient>
+    <linearGradient id="grover-hair" x1="0" y1="0" x2="1" y2="0.8">
+      <stop offset="0%" stop-color="#FFF08A"/>
+      <stop offset="50%" stop-color="#FACC15"/>
+      <stop offset="100%" stop-color="#CA8A04"/>
+    </linearGradient>
+    <linearGradient id="grover-tie" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#B91C1C"/>
+    </linearGradient>
+  </defs>
+  <!-- Rich Golden/Amber Arena Background -->
+  <rect width="600" height="760" fill="url(#grover-bg)"/>
+  <g stroke="#22C55E" stroke-opacity="0.18" stroke-width="2">
+    <line x1="0" y1="120" x2="600" y2="120"/>
+    <line x1="0" y1="240" x2="600" y2="240"/>
+    <line x1="0" y1="360" x2="600" y2="360"/>
+    <line x1="0" y1="480" x2="600" y2="480"/>
+    <line x1="150" y1="0" x2="150" y2="760"/>
+    <line x1="300" y1="0" x2="300" y2="760"/>
+    <line x1="450" y1="0" x2="450" y2="760"/>
+  </g>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="#22C55E" stroke-width="4" stroke-opacity="0.35"/>
+
+  <!-- Navy Suit Shoulders & Torso -->
+  <path d="M58 760V646c0-130 88-212 214-224h56c126 12 214 94 214 224v114" fill="url(#grover-suit)" stroke="#06080E" stroke-width="12"/>
+  <!-- Neck -->
+  <path d="M248 432h104l-10 74-42 32-42-32z" fill="url(#grover-skin)" stroke="#06080E" stroke-width="9"/>
+  <!-- Black blazer over green shirt -->
+  <path d="M232 442q68 56 136 0l18 26q-86 66-172 0z" fill="#16A34A" stroke="#06080E" stroke-width="8"/>
+  <path d="M168 470l70-30 24 70-60 40zM432 470l-70-30-24 70 60 40z" fill="#111827" stroke="#06080E" stroke-width="8"/>
+  <text x="300" y="650" text-anchor="middle" font-family="Anton, Impact, sans-serif" font-size="46" fill="#22C55E" stroke="#06080E" stroke-width="3">DOGLAPAN</text>
+
+  <!-- Ears -->
+  <ellipse cx="156" cy="318" rx="40" ry="58" fill="#B87F55" stroke="#06080E" stroke-width="9"/>
+  <ellipse cx="444" cy="318" rx="40" ry="58" fill="#B87F55" stroke="#06080E" stroke-width="9"/>
+
+  <!-- Head & Prominent Jaw/Chin -->
+  <path d="M164 244c0-100 60-156 136-156 88 0 140 60 136 164l-10 112c-8 86-64 130-126 130-68 0-120-44-126-130z" fill="url(#grover-skin)" stroke="#06080E" stroke-width="11"/>
+
+  <!-- Slicked-back black hair -->
+  <path d="M164 250c-12-112 50-176 140-176 92 0 150 60 134 176-16-50-50-86-96-96-50 10-122 24-178 96z" fill="#0B0B0F" stroke="#06080E" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M206 150c40-34 96-46 156-28M222 184c44-24 104-28 164-4" fill="none" stroke="#3F3F46" stroke-width="9" stroke-linecap="round"/>
+
+  <!-- Pale Eye Rings & Narrowed Expressive Eyes -->
+  <ellipse cx="244" cy="310" rx="38" ry="22" fill="#E6B88F" opacity="0.55"/>
+  <ellipse cx="358" cy="310" rx="38" ry="22" fill="#E6B88F" opacity="0.55"/>
+  <!-- Furrowed Golden-Blonde Eyebrows -->
+  <path d="M196 276l90 18M404 276l-90 18" stroke="#0B0B0F" stroke-width="14" stroke-linecap="round"/>
+  <!-- Eyes -->
+  <path d="M214 312q30-16 60 0-30 20-60 0zM328 312q30-16 60 0-30 20-60 0z" fill="#FFFFFF" stroke="#06080E" stroke-width="6"/>
+  <circle cx="244" cy="312" r="9" fill="#111827"/>
+  <circle cx="358" cy="312" r="9" fill="#111827"/>
+
+  <!-- Nose & Cheek Lines -->
+  <path d="M300 306l-14 62 32 4" fill="none" stroke="#8A5A3A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M228 392q-18 24-10 48M372 392q18 24 10 48" fill="none" stroke="#8A5A3A" stroke-width="6" stroke-linecap="round"/>
+  <!-- Chin Cleft / Double Chin Curve -->
+  <path d="M268 458q32 16 64 0" fill="none" stroke="#8A5A3A" stroke-width="6" stroke-linecap="round"/>
+
+  
+  <g id="mouth"><path d="M262 416q38-14 76 0-38 22-76 0z" fill="#8B3A3A" stroke="#2A0606" stroke-width="8" stroke-linejoin="round"/></g>
+
+  <!-- Arm + hand gripping mic (aimed at mouth) -->
+  <path d="M40 760l70-150q22-30 56-26l44 40-52 136z" fill="#111827" stroke="#06080E" stroke-width="10" stroke-linejoin="round"/>
+  <g transform="translate(236 480) rotate(45)">
+    <rect x="-15" y="26" width="30" height="150" rx="14" fill="#475569" stroke="#06080E" stroke-width="8"/>
+    <rect x="-17" y="30" width="34" height="14" rx="5" fill="#22C55E" stroke="#06080E" stroke-width="5"/>
+    <ellipse cx="0" cy="0" rx="31" ry="38" fill="#1E293B" stroke="#22C55E" stroke-width="8"/>
+    <path d="M-20 -14h40M-24 0h48M-20 14h40M-8 -30v58M8 -30v58" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+    <rect x="-27" y="78" width="54" height="56" rx="22" fill="#D9A073" stroke="#06080E" stroke-width="8"/>
+    <path d="M-27 92h54M-27 108h54M-27 122h50" stroke="#06080E" stroke-width="4" opacity="0.55"/>
+  </g>
+</svg>

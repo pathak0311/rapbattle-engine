@@ -1,0 +1,100 @@
+{
+  "slug": "goyal_vs_grover",
+  "title": "GOYAL VS GROVER",
+  "hashtag": "#DOGLAPANWARS",
+  "sunoStyle": "Hindi desi hip-hop rap battle, Mumbai street boom-bap with dhol and tabla hits, 96 bpm, punchy drums, deep 808, two male Hindi rappers, verse 1 smooth cocky calm baritone, verse 2 loud brash raspy aggressive, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro, abrupt ending",
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "DEEPINDER GOYAL",
+      "badge": "ZOMATO CEO",
+      "color": "#E23744",
+      "svg": "assets/goyal-m0.svg",
+      "portrait": "assets/goyal-m0.svg",
+      "talkSvg": "assets/goyal-m2.svg",
+      "emblemSvg": "assets/goyal-emblem.svg",
+      "mouthSvgs": [
+        "assets/goyal-m0.svg",
+        "assets/goyal-m1.svg",
+        "assets/goyal-m2.svg"
+      ]
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "ASHNEER GROVER",
+      "badge": "DOGLAPAN KING",
+      "color": "#22C55E",
+      "svg": "assets/grover-m0.svg",
+      "portrait": "assets/grover-m0.svg",
+      "talkSvg": "assets/grover-m2.svg",
+      "emblemSvg": "assets/grover-emblem.svg",
+      "mouthSvgs": [
+        "assets/grover-m0.svg",
+        "assets/grover-m1.svg",
+        "assets/grover-m2.svg"
+      ]
+    }
+  },
+  "lines": [
+    {
+      "speaker": "fighter1",
+      "text": "Zomato ka CEO, Gurugram se aaya",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Dus minute mein delivery, tera funda toh bhaya",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Tu Shark tha, par tank mein machhli nikla",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Mera stock upar, tera Bharat Pe phisla",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Tera Third Unicorn ab hai Third Class",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Mera Blinkit aaya, tera ego hua mass",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Oye, ye sab doglapan hai bhai",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Tu delivery wala, main funding wala, samjha kya bhai",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Tere paas red t-shirt, mere paas red flag ka stock",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Sab bakwaas bolke main tod doon tera clock",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Tip maangta hai tu, rating bhi maangta hai",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Main Grover hoon bhai, har round mein jeet maangta hai",
+      "punchline": true
+    }
+  ]
+}

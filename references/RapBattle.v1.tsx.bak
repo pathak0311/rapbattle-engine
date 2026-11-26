@@ -1,0 +1,129 @@
+import React from 'react';
+import {Audio, useCurrentFrame, useVideoConfig, staticFile} from 'remotion';
+import {ReactiveStage} from './components/ReactiveStage';
+import {AudioVisualizer} from './components/AudioVisualizer';
+import {KineticLyrics} from './components/KineticLyrics';
+import {IntroOutro} from './components/IntroOutro';
+import {loadFonts} from './fonts';
+import type {BattleManifest} from './types';
+
+import battleManifest from '../public/battle.json' with {type: 'json'};
+const battle = battleManifest as BattleManifest;
+
+loadFonts();
+
+const speakerAt = (captions: BattleManifest['captions'], time: number): 'fighter1' | 'fighter2' | 'both' | 'host' | 'none' => {
+  const line = captions.find((c) => time >= c.start && time < c.end);
+  if (line) return line.speaker;
+  // Hold speaker across brief <0.9s breaths between consecutive lines
+  const prev = [...captions].reverse().find((c) => time >= c.end && time - c.end < 0.9);
+  if (prev) return prev.speaker;
+  return 'none';
+};
+
+const generateFreqData = (frame: number, fps: number, time: number): number[] => {
+  const bars = 64;
+  const data: number[] = [];
+  const beatInterval = 60 / battle.audio.bpm;
+  const phase = (time % beatInterval) / beatInterval;
+
+  for (let i = 0; i < bars; i++) {
+    const baseFreq = Math.sin(time * 8 + i * 0.5) * 0.3 + 0.4;
+    const beatBoost = Math.sin(phase * Math.PI * 2) * 0.5;
+    const variation = Math.sin(time * 3 + i * 0.8) * 0.2;
+    data.push(Math.max(0, Math.min(1, baseFreq + beatBoost + variation)));
+  }
+  return data;
+};
+
+export const RapBattle: React.FC = () => {
+  const frame = useCurrentFrame();
+  const {fps} = useVideoConfig();
+  const time = frame / fps;
+  const dur = battle.audio.duration;
+
+  const speaker = speakerAt(battle.captions, time);
+  const inIntro = time < battle.intro.end;
+  const inOutro = time >= battle.outro.start;
+  const phase = inIntro ? 'intro' : inOutro ? 'outro' : 'none';
+
+  // Get bass level from audio energy
+  let bassLevel = 0;
+  for (let i = 1; i < battle.audio.energy.length; i++) {
+    if (time < battle.audio.energy[i].t) {
+      const p = (time - battle.audio.energy[i - 1].t) / (battle.audio.energy[i].t - battle.audio.energy[i - 1].t);
+      bassLevel = battle.audio.energy[i - 1].v + p * (battle.audio.energy[i].v - battle.audio.energy[i - 1].v);
+      break;
+    }
+  }
+  if (bassLevel === 0 && battle.audio.energy.length > 0) {
+    bassLevel = battle.audio.energy[battle.audio.energy.length - 1].v;
+  }
+
+  const freqData = generateFreqData(frame, fps, time);
+
+  const activeColor = speaker === 'fighter1'
+    ? battle.fighters.fighter1.color
+    : speaker === 'fighter2'
+    ? battle.fighters.fighter2.color
+    : '#FFD166';
+
+  const f1 = battle.fighters.fighter1;
+  const f2 = battle.fighters.fighter2;
+
+  const f1Asset = f1.svg || f1.portrait || 'assets/jensen.svg';
+  const f2Asset = f2.svg || f2.portrait || 'assets/trump.svg';
+  const f1TalkAsset = f1.talkSvg || f1Asset;
+  const f2TalkAsset = f2.talkSvg || f2Asset;
+
+  return (
+    <>
+      <Audio src={staticFile(battle.audio.src)} />
+      <ReactiveStage
+        activeColor={activeColor}
+        bassLevel={bassLevel}
+        time={time}
+        totalDuration={dur}
+      />
+      {phase === 'none' && (
+        <>
+          <AudioVisualizer
+            bassLevel={bassLevel}
+            freqData={freqData}
+            activeFighter={speaker === 'host' ? 'none' : speaker}
+            f1Color={f1.color}
+            f2Color={f2.color}
+            f1Name={f1.name}
+            f2Name={f2.name}
+            f1Badge={f1.badge}
+            f2Badge={f2.badge}
+            time={time}
+            f1Portrait={staticFile(f1Asset)}
+            f2Portrait={staticFile(f2Asset)}
+            f1TalkPortrait={staticFile(f1TalkAsset)}
+            f2TalkPortrait={staticFile(f2TalkAsset)}
+            f1Emblem={f1.emblemSvg ? staticFile(f1.emblemSvg) : undefined}
+            f2Emblem={f2.emblemSvg ? staticFile(f2.emblemSvg) : undefined}
+          />
+          <KineticLyrics battle={battle} />
+        </>
+      )}
+      <IntroOutro
+        time={time}
+        duration={dur}
+        title={battle.title}
+        f1Name={f1.name}
+        f2Name={f2.name}
+        f1Badge={f1.badge}
+        f2Badge={f2.badge}
+        f1Color={f1.color}
+        f2Color={f2.color}
+        phase={phase}
+        f1Portrait={staticFile(f1Asset)}
+        f2Portrait={staticFile(f2Asset)}
+        f1Emblem={f1.emblemSvg ? staticFile(f1.emblemSvg) : undefined}
+        f2Emblem={f2.emblemSvg ? staticFile(f2.emblemSvg) : undefined}
+      />
+    </>
+  );
+};

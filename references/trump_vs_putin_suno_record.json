@@ -1,0 +1,60 @@
+{
+  "taskId": "a12587e6069d7acd38147fb31656db56",
+  "parentMusicId": "",
+  "param": "{\"callBackUrl\":\"https://example.com/noop\",\"customMode\":true,\"instrumental\":false,\"model\":\"V4_5\",\"negativeTags\":\"announcer, host, hype man, spoken word, narration, chorus, singing, female vocals, crowd\",\"prompt\":\"[Verse 1: Donald Trump]\\nVladimir, listen, I'll keep it plain and clear,\\nTwenty years in power, and you're still scared of a year?\\nYou hug a tiger, ride a bear, shirtless on a steed,\\nI do it all in a suit, and I'm the one they need.\\nBlack belt in judo? Your opponents all fell,\\nNobody throws the boss, that's the story they tell.\\nYou're a desk-job spy from Dresden, small man, big chair,\\nI wrote the Art of the Deal. You wrote the Art of the scare.\\n\\n[Verse 2: Vladimir Putin]\\nDonald, your hair has its own zip code,\\nIt's losing to the wind on every road.\\nGolden toilets in a tower, orange from the tan,\\nFired on TV twice, and you still call it a plan.\\nYou tweet at three AM about enemies near,\\nI sleep like a bear, and my enemies fear.\\nYour name's on a steak and a vodka, both gone,\\nMy name's on a whole country. Do svidaniya. I won.\\n\\n[End]\",\"style\":\"hardcore boom bap rap battle, 92 bpm, punchy drums, deep 808, dark piano stabs, two male rappers, verse 1 smooth calm baritone, verse 2 brash raspy loud, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro, abrupt ending\",\"title\":\"Trump Vs Putin\"}",
+  "response": {
+    "taskId": "a12587e6069d7acd38147fb31656db56",
+    "sunoData": [
+      {
+        "id": "671e02c2-2af9-446d-994a-2a991de517d7",
+        "prompt": "[Verse 1: Donald Trump]\nVladimir, listen, I'll keep it plain and clear,\nTwenty years in power, and you're still scared of a year?\nYou hug a tiger, ride a bear, shirtless on a steed,\nI do it all in a suit, and I'm the one they need.\nBlack belt in judo? Your opponents all fell,\nNobody throws the boss, that's the story they tell.\nYou're a desk-job spy from Dresden, small man, big chair,\nI wrote the Art of the Deal. You wrote the Art of the scare.\n\n[Verse 2: Vladimir Putin]\nDonald, your hair has its own zip code,\nIt's losing to the wind on every road.\nGolden toilets in a tower, orange from the tan,\nFired on TV twice, and you still call it a plan.\nYou tweet at three AM about enemies near,\nI sleep like a bear, and my enemies fear.\nYour name's on a steak and a vodka, both gone,\nMy name's on a whole country. Do svidaniya. I won.\n\n[End]",
+        "title": "Trump Vs Putin",
+        "tags": "Hardcore boom bap rap battle; two male rappers trade English verses, verse 1 smooth calm baritone, verse 2 brash raspy loud; 92 bpm head-nod drive; punchy drums, deep 808, dark piano stabs; hard-panned drum breaks answer the leads, short rap-sung backing voice replies, light vocal slapback echo, abrupt ending.",
+        "createTime": 1795437586150,
+        "duration": 65.84,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/671e02c2-2af9-446d-994a-2a991de517d7.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/671e02c2-2af9-446d-994a-2a991de517d7.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/671e02c2-2af9-446d-994a-2a991de517d7.mp3",
+        "image_url": "https://musicfile.sunoapi.org/NjcxZTAyYzItMmFmOS00NDZkLTk5NGEtMmE5OTFkZTUxN2Q3.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_671e02c2-2af9-446d-994a-2a991de517d7.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/671e02c2-2af9-446d-994a-2a991de517d7.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/671e02c2-2af9-446d-994a-2a991de517d7.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/671e02c2-2af9-446d-994a-2a991de517d7.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/NjcxZTAyYzItMmFmOS00NDZkLTk5NGEtMmE5OTFkZTUxN2Q3.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_671e02c2-2af9-446d-994a-2a991de517d7.jpeg",
+        "modelName": "chirp-hawk"
+      },
+      {
+        "id": "785c9e37-5816-4d9f-b369-38614f533f85",
+        "prompt": "[Verse 1: Donald Trump]\nVladimir, listen, I'll keep it plain and clear,\nTwenty years in power, and you're still scared of a year?\nYou hug a tiger, ride a bear, shirtless on a steed,\nI do it all in a suit, and I'm the one they need.\nBlack belt in judo? Your opponents all fell,\nNobody throws the boss, that's the story they tell.\nYou're a desk-job spy from Dresden, small man, big chair,\nI wrote the Art of the Deal. You wrote the Art of the scare.\n\n[Verse 2: Vladimir Putin]\nDonald, your hair has its own zip code,\nIt's losing to the wind on every road.\nGolden toilets in a tower, orange from the tan,\nFired on TV twice, and you still call it a plan.\nYou tweet at three AM about enemies near,\nI sleep like a bear, and my enemies fear.\nYour name's on a steak and a vodka, both gone,\nMy name's on a whole country. Do svidaniya. I won.\n\n[End]",
+        "title": "Trump Vs Putin",
+        "tags": "Hardcore boom bap rap, two male rappers in English: verse 1 smooth calm baritone with crooning legato rap phrasing, verse 2 brash raspy loud; punchy drums, deep 808, dark piano stabs; 92 bpm head-nod swing; dusty vinyl sample grit, doubled verse-end cadences, abrupt ending.",
+        "createTime": 1795437586150,
+        "duration": 65.6,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/785c9e37-5816-4d9f-b369-38614f533f85.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/785c9e37-5816-4d9f-b369-38614f533f85.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/785c9e37-5816-4d9f-b369-38614f533f85.mp3",
+        "image_url": "https://musicfile.sunoapi.org/Nzg1YzllMzctNTgxNi00ZDlmLWIzNjktMzg2MTRmNTMzZjg1.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_785c9e37-5816-4d9f-b369-38614f533f85.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/785c9e37-5816-4d9f-b369-38614f533f85.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/785c9e37-5816-4d9f-b369-38614f533f85.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/785c9e37-5816-4d9f-b369-38614f533f85.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/Nzg1YzllMzctNTgxNi00ZDlmLWIzNjktMzg2MTRmNTMzZjg1.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_785c9e37-5816-4d9f-b369-38614f533f85.jpeg",
+        "modelName": "chirp-hawk"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "type": "chirp-auk",
+  "operationType": "generate",
+  "errorCode": null,
+  "errorMessage": null,
+  "createTime": 1795437567000
+}

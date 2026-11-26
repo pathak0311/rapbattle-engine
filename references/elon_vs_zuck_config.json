@@ -1,0 +1,120 @@
+{
+  "slug": "elon_vs_zuck",
+  "title": "ELON VS ZUCK",
+  "hashtag": "#CAGEMATCH",
+  "sunoStyle": "epic hard-hitting rap battle beat, 94 bpm, cinematic orchestral hits, booming 808, trap hi-hats, two male rappers, verse 1 confident edgy deadpan male voice, verse 2 fast clipped nasal male voice, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro",
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "ELON MUSK",
+      "badge": "MARS OR BUST",
+      "color": "#EF4444",
+      "svg": "assets/elon2-m0.svg",
+      "portrait": "assets/elon2-m0.svg",
+      "talkSvg": "assets/elon2-m2.svg",
+      "emblemSvg": "assets/rocket-emblem.svg",
+      "mouthSvgs": [
+        "assets/elon2-m0.svg",
+        "assets/elon2-m1.svg",
+        "assets/elon2-m2.svg"
+      ]
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "MARK ZUCKERBERG",
+      "badge": "META OVERLORD",
+      "color": "#3B82F6",
+      "svg": "assets/zuck-m0.svg",
+      "portrait": "assets/zuck-m0.svg",
+      "talkSvg": "assets/zuck-m2.svg",
+      "emblemSvg": "assets/meta-emblem.svg",
+      "mouthSvgs": [
+        "assets/zuck-m0.svg",
+        "assets/zuck-m1.svg",
+        "assets/zuck-m2.svg"
+      ]
+    }
+  },
+  "lines": [
+    {
+      "speaker": "fighter1",
+      "text": "Rockets on the launchpad, I land 'em standing upright",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You built a whole metaverse with no legs in sight",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Tesla on autopilot, Starlink in the sky",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You're harvesting data, I'm teaching boosters to fly",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You called me to the cage, then you ghosted the date",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "I bought the bird for forty-four, now I run the debate",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Neuralink in the brain, I'm wired to the stars",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You're stuck in Menlo Park, I'm putting people on Mars!",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Elon, my man, let's be honest for a sec",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You paid forty-four billion just to wreck a blue check",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Three billion users logging in every day",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Your bird keeps dropping feathers while my Threads are here to stay",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "I train jiu-jitsu, I got medals, show respect",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Your Cybertruck's a toaster that the whole world rejects",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Open-source Llama, I'm the king of the stack",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "So go fly to Mars, buddy, and please don't come back!",
+      "punchline": true
+    }
+  ]
+}

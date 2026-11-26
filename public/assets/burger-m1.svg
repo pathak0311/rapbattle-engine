@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img">
+  <title>Boss Burger - Double Smash Burger Titan Rapper with Mic</title>
+  <defs>
+    <linearGradient id="burger-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E1304"/>
+      <stop offset="50%" stop-color="#3B2306"/>
+      <stop offset="100%" stop-color="#0C0702"/>
+    </linearGradient>
+    <linearGradient id="burger-bun" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0%" stop-color="#FBBF24"/>
+      <stop offset="55%" stop-color="#D97706"/>
+      <stop offset="100%" stop-color="#92400E"/>
+    </linearGradient>
+    <linearGradient id="burger-patty" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5C2D16"/>
+      <stop offset="50%" stop-color="#3E1D0D"/>
+      <stop offset="100%" stop-color="#230F06"/>
+    </linearGradient>
+    <linearGradient id="burger-jacket" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="60%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="760" fill="url(#burger-bg)"/>
+  <g stroke="#F59E0B" stroke-opacity="0.18" stroke-width="2">
+    <line x1="0" y1="120" x2="600" y2="120"/><line x1="0" y1="240" x2="600" y2="240"/><line x1="0" y1="360" x2="600" y2="360"/><line x1="0" y1="480" x2="600" y2="480"/>
+    <line x1="150" y1="0" x2="150" y2="760"/><line x1="300" y1="0" x2="300" y2="760"/><line x1="450" y1="0" x2="450" y2="760"/>
+  </g>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="#F59E0B" stroke-width="4" stroke-opacity="0.35"/>
+
+  <!-- Bomber Jacket & Gold Collar Trim -->
+  <path d="M58 760V646c0-130 88-206 214-218h56c126 12 214 88 214 218v114" fill="url(#burger-jacket)" stroke="#06080E" stroke-width="12"/>
+  <path d="M180 465l120 115 120-115" fill="none" stroke="#F59E0B" stroke-width="16" stroke-linecap="round"/>
+  <!-- Heavy Gold Cuban Link Chain -->
+  <path d="M205 495q95 90 190 0" fill="none" stroke="#FACC15" stroke-width="24" stroke-linecap="round"/>
+
+  <!-- Top Sesame Seed Bun (Head Dome & Eyes) -->
+  <path d="M135 280c-10-130 65-188 165-188s175 58 165 188z" fill="url(#burger-bun)" stroke="#06080E" stroke-width="11" stroke-linejoin="round"/>
+  <!-- Sesame Seeds -->
+  <g fill="#FEF3C7" stroke="#78350F" stroke-width="3">
+    <ellipse cx="220" cy="145" rx="10" ry="5" transform="rotate(-20 220 145)"/>
+    <ellipse cx="275" cy="130" rx="10" ry="5" transform="rotate(10 275 130)"/>
+    <ellipse cx="330" cy="135" rx="10" ry="5" transform="rotate(-8 330 135)"/>
+    <ellipse cx="385" cy="152" rx="10" ry="5" transform="rotate(22 385 152)"/>
+    <ellipse cx="250" cy="170" rx="10" ry="5" transform="rotate(14 250 170)"/>
+    <ellipse cx="355" cy="172" rx="10" ry="5" transform="rotate(-15 355 172)"/>
+    <ellipse cx="302" cy="158" rx="10" ry="5"/>
+  </g>
+
+  <!-- Crisp Lettuce Ruffles -->
+  <path d="M120 282q25-24 50 0t50 0 50 0 50 0 50 0 50 0 60 0q10 25-20 28H140q-30-3-20-28z" fill="#22C55E" stroke="#06080E" stroke-width="9"/>
+  <!-- Tomato Slice Peek -->
+  <rect x="155" y="298" width="290" height="22" rx="10" fill="#EF4444" stroke="#06080E" stroke-width="7"/>
+
+  <!-- Melted Cheddar Cheese Triangles hanging over patty -->
+  <path d="M140 315h320l-45 48-55-32-60 44-60-44-55 32z" fill="#FACC15" stroke="#06080E" stroke-width="8" stroke-linejoin="round"/>
+
+  <!-- Double Flame-Broiled Smash Patties (Cheeks & Mid-face) -->
+  <rect x="130" y="325" width="340" height="62" rx="30" fill="url(#burger-patty)" stroke="#06080E" stroke-width="11"/>
+  <rect x="138" y="378" width="324" height="56" rx="28" fill="url(#burger-patty)" stroke="#06080E" stroke-width="11"/>
+  <!-- Bottom Bun Chin -->
+  <path d="M150 426h300c8 45-38 72-150 72s-158-27-150-72z" fill="url(#burger-bun)" stroke="#06080E" stroke-width="11" stroke-linejoin="round"/>
+
+  <!-- Boss Sunglasses / Intense Eyes on Top Bun -->
+  <path d="M188 205l90 16M412 205l-90 16" stroke="#451A03" stroke-width="15" stroke-linecap="round"/>
+  <path d="M204 238q34-20 68 0-34 22-68 0zM328 238q34-20 68 0-34 22-68 0z" fill="#FFFFFF" stroke="#06080E" stroke-width="7"/>
+  <circle cx="240" cy="238" r="11" fill="#78350F"/>
+  <circle cx="360" cy="238" r="11" fill="#78350F"/>
+  <circle cx="237" cy="235" r="3.5" fill="#FFFFFF"/>
+  <circle cx="357" cy="235" r="3.5" fill="#FFFFFF"/>
+
+  <g id="mouth"><ellipse cx="300" cy="422" rx="32" ry="14" fill="#2A0A04" stroke="#78350F" stroke-width="8"/><path d="M280 411h40v6h-40z" fill="#FFFFFF"/></g>
+
+  <!-- Arm + hand gripping mic (aimed at mouth) -->
+  <path d="M40 760l70-150q22-30 56-26l44 40-52 136z" fill="#1E293B" stroke="#06080E" stroke-width="10" stroke-linejoin="round"/>
+  <g transform="translate(236 480) rotate(45)">
+    <rect x="-15" y="26" width="30" height="150" rx="14" fill="#475569" stroke="#06080E" stroke-width="8"/>
+    <rect x="-17" y="30" width="34" height="14" rx="5" fill="#F59E0B" stroke="#06080E" stroke-width="5"/>
+    <ellipse cx="0" cy="0" rx="31" ry="38" fill="#1E293B" stroke="#F59E0B" stroke-width="8"/>
+    <path d="M-20 -14h40M-24 0h48M-20 14h40M-8 -30v58M8 -30v58" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+    <rect x="-27" y="78" width="54" height="56" rx="22" fill="#D97706" stroke="#06080E" stroke-width="8"/>
+    <path d="M-27 92h54M-27 108h54M-27 122h50" stroke="#06080E" stroke-width="4" opacity="0.55"/>
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+{
+  "taskId": "87dec71192a049f86989fbb7e65fb839",
+  "parentMusicId": "",
+  "param": "{\"callBackUrl\":\"https://example.com/noop\",\"customMode\":true,\"instrumental\":false,\"model\":\"V4_5\",\"negativeTags\":\"announcer, host, hype man, spoken word, narration, chorus, singing, female vocals, crowd\",\"prompt\":\"[Verse 1: Genghis Khan]\\nI used spies to rule the world, you got played by one instead\\nThe Times says she's a suspect, and you admitted you were in her bed\\nYour board said \\\"you're out,\\\" then \\\"come back\\\" in eleven days\\nMy generals never flip-flopped, they just obeyed my ways\\nThey say a coworker too, now HR's got a horde\\nI had a hundred wives, but I never had a board\\nYou guard the world's top chips but you couldn't guard your own\\nI ran the best spy network, bro, you got played on your phone\\n\\n[Verse 2: Jensen Huang]\\nYour wife got snatched in your own camp, bro, you couldn't guard her bed\\nThen your own son called your firstborn a bastard to your head\\nYou burned whole cities down, then died of who-knows-what\\nFever, fall, or arrow, bro, they buried you and forgot\\nI slipped, I owned it, and the whole world brought me back\\nYour empire split in four the second you went black\\nEight hundred years, no tomb, no wife you could protect, no son you could trust\\nI'm the king of the cloud, you're a statue and some dust\\n\\n[End]\",\"style\":\"Dark cinematic trap hip-hop rap battle, thundering taiko and Mongolian war drums, morin khuur horsehead fiddle riff, tense spy-thriller bass pulses, deep 808, 94 bpm, two male English rappers, verse 1 very deep gravelly menacing commanding baritone, verse 2 sharp aggressive cocky mid-range tenor spitting hard and fast, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro, abrupt ending\",\"title\":\"Khan Vs Huang\"}",
+  "response": {
+    "taskId": "87dec71192a049f86989fbb7e65fb839",
+    "sunoData": [
+      {
+        "id": "37ae89d9-1e1c-40cf-9578-00be8fa961f8",
+        "prompt": "[Verse 1: Genghis Khan]\nI used spies to rule the world, you got played by one instead\nThe Times says she's a suspect, and you admitted you were in her bed\nYour board said \"you're out,\" then \"come back\" in eleven days\nMy generals never flip-flopped, they just obeyed my ways\nThey say a coworker too, now HR's got a horde\nI had a hundred wives, but I never had a board\nYou guard the world's top chips but you couldn't guard your own\nI ran the best spy network, bro, you got played on your phone\n\n[Verse 2: Jensen Huang]\nYour wife got snatched in your own camp, bro, you couldn't guard her bed\nThen your own son called your firstborn a bastard to your head\nYou burned whole cities down, then died of who-knows-what\nFever, fall, or arrow, bro, they buried you and forgot\nI slipped, I owned it, and the whole world brought me back\nYour empire split in four the second you went black\nEight hundred years, no tomb, no wife you could protect, no son you could trust\nI'm the king of the cloud, you're a statue and some dust\n\n[End]",
+        "title": "Khan Vs Huang",
+        "tags": "Dark cinematic trap hip-hop rap battle, two male English rappers: verse 1 very deep gravelly menacing, commanding baritone; verse 2 sharp aggressive, cocky mid-range tenor delivering hard, fast bars in a powerful full-voice belt. Roomy, unprocessed vocals ride tense spy-thriller bass pulses and deep 808; thundering taiko and Mongolian war drums hammer beneath a morin khuur horsehead fiddle riff, with a tense 94 bpm groove, rap verses only, and an abrupt ending.",
+        "createTime": 1795611096027,
+        "duration": 76.88,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/37ae89d9-1e1c-40cf-9578-00be8fa961f8.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/37ae89d9-1e1c-40cf-9578-00be8fa961f8.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/37ae89d9-1e1c-40cf-9578-00be8fa961f8.mp3",
+        "image_url": "https://musicfile.sunoapi.org/MzdhZTg5ZDktMWUxYy00MGNmLTk1NzgtMDBiZThmYTk2MWY4.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_37ae89d9-1e1c-40cf-9578-00be8fa961f8.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/37ae89d9-1e1c-40cf-9578-00be8fa961f8.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/37ae89d9-1e1c-40cf-9578-00be8fa961f8.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/37ae89d9-1e1c-40cf-9578-00be8fa961f8.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/MzdhZTg5ZDktMWUxYy00MGNmLTk1NzgtMDBiZThmYTk2MWY4.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_37ae89d9-1e1c-40cf-9578-00be8fa961f8.jpeg",
+        "modelName": "chirp-hawk"
+      },
+      {
+        "id": "46aaaaeb-0df1-4c5d-81ca-abc6682bf637",
+        "prompt": "[Verse 1: Genghis Khan]\nI used spies to rule the world, you got played by one instead\nThe Times says she's a suspect, and you admitted you were in her bed\nYour board said \"you're out,\" then \"come back\" in eleven days\nMy generals never flip-flopped, they just obeyed my ways\nThey say a coworker too, now HR's got a horde\nI had a hundred wives, but I never had a board\nYou guard the world's top chips but you couldn't guard your own\nI ran the best spy network, bro, you got played on your phone\n\n[Verse 2: Jensen Huang]\nYour wife got snatched in your own camp, bro, you couldn't guard her bed\nThen your own son called your firstborn a bastard to your head\nYou burned whole cities down, then died of who-knows-what\nFever, fall, or arrow, bro, they buried you and forgot\nI slipped, I owned it, and the whole world brought me back\nYour empire split in four the second you went black\nEight hundred years, no tomb, no wife you could protect, no son you could trust\nI'm the king of the cloud, you're a statue and some dust\n\n[End]",
+        "title": "Khan Vs Huang",
+        "tags": "Dark cinematic trap hip-hop rap battle; morin khuur horsehead fiddle riff over thundering taiko and Mongolian war drums, tense spy-thriller bass pulses and deep 808; dark sidechain swells and a touch of slapback echo on the voice; two male English rappers trade verses, verse one very deep gravelly menacing commanding baritone, verse two sharp aggressive cocky mid-range tenor spitting hard and fast with crooning legato phrase endings; 94 bpm, rap verses only, abrupt ending.",
+        "createTime": 1795611096027,
+        "duration": 76.0,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/46aaaaeb-0df1-4c5d-81ca-abc6682bf637.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/46aaaaeb-0df1-4c5d-81ca-abc6682bf637.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/46aaaaeb-0df1-4c5d-81ca-abc6682bf637.mp3",
+        "image_url": "https://musicfile.sunoapi.org/NDZhYWFhZWItMGRmMS00YzVkLTgxY2EtYWJjNjY4MmJmNjM3.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_46aaaaeb-0df1-4c5d-81ca-abc6682bf637.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/46aaaaeb-0df1-4c5d-81ca-abc6682bf637.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/46aaaaeb-0df1-4c5d-81ca-abc6682bf637.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/46aaaaeb-0df1-4c5d-81ca-abc6682bf637.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/NDZhYWFhZWItMGRmMS00YzVkLTgxY2EtYWJjNjY4MmJmNjM3.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_46aaaaeb-0df1-4c5d-81ca-abc6682bf637.jpeg",
+        "modelName": "chirp-hawk"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "type": "chirp-auk",
+  "operationType": "generate",
+  "errorCode": null,
+  "errorMessage": null,
+  "createTime": 1795611075000
+}

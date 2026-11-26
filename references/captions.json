@@ -1,0 +1,947 @@
+[
+  {
+    "id": 0,
+    "speaker": "ELON",
+    "start": 21.14,
+    "end": 23.76,
+    "text": "Yo, I'm the king of Mars, got the stars in my grip",
+    "words": [
+      {
+        "word": "Yo,",
+        "start": 21.14,
+        "end": 21.282
+      },
+      {
+        "word": "I'm",
+        "start": 21.282,
+        "end": 21.494
+      },
+      {
+        "word": "the",
+        "start": 21.494,
+        "end": 21.706
+      },
+      {
+        "word": "king",
+        "start": 21.706,
+        "end": 21.99
+      },
+      {
+        "word": "of",
+        "start": 21.99,
+        "end": 22.131
+      },
+      {
+        "word": "Mars,",
+        "start": 22.131,
+        "end": 22.415
+      },
+      {
+        "word": "got",
+        "start": 22.415,
+        "end": 22.627
+      },
+      {
+        "word": "the",
+        "start": 22.627,
+        "end": 22.839
+      },
+      {
+        "word": "stars",
+        "start": 22.839,
+        "end": 23.194
+      },
+      {
+        "word": "in",
+        "start": 23.194,
+        "end": 23.335
+      },
+      {
+        "word": "my",
+        "start": 23.335,
+        "end": 23.477
+      },
+      {
+        "word": "grip",
+        "start": 23.477,
+        "end": 23.76
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 1,
+    "speaker": "ELON",
+    "start": 24.0,
+    "end": 26.88,
+    "text": "Tesla, SpaceX, Neuralink \u2014 watch the empire flip",
+    "words": [
+      {
+        "word": "Tesla,",
+        "start": 24.0,
+        "end": 24.369
+      },
+      {
+        "word": "SpaceX,",
+        "start": 24.369,
+        "end": 24.812
+      },
+      {
+        "word": "Neuralink",
+        "start": 24.812,
+        "end": 25.477
+      },
+      {
+        "word": "\u2014",
+        "start": 25.477,
+        "end": 25.551
+      },
+      {
+        "word": "watch",
+        "start": 25.551,
+        "end": 25.92
+      },
+      {
+        "word": "the",
+        "start": 25.92,
+        "end": 26.142
+      },
+      {
+        "word": "empire",
+        "start": 26.142,
+        "end": 26.585
+      },
+      {
+        "word": "flip",
+        "start": 26.585,
+        "end": 26.88
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 2,
+    "speaker": "ELON",
+    "start": 27.12,
+    "end": 29.82,
+    "text": "You built a chatbot, cute, I build rockets that land",
+    "words": [
+      {
+        "word": "You",
+        "start": 27.12,
+        "end": 27.318
+      },
+      {
+        "word": "built",
+        "start": 27.318,
+        "end": 27.647
+      },
+      {
+        "word": "a",
+        "start": 27.647,
+        "end": 27.713
+      },
+      {
+        "word": "chatbot,",
+        "start": 27.713,
+        "end": 28.174
+      },
+      {
+        "word": "cute,",
+        "start": 28.174,
+        "end": 28.437
+      },
+      {
+        "word": "I",
+        "start": 28.437,
+        "end": 28.503
+      },
+      {
+        "word": "build",
+        "start": 28.503,
+        "end": 28.832
+      },
+      {
+        "word": "rockets",
+        "start": 28.832,
+        "end": 29.293
+      },
+      {
+        "word": "that",
+        "start": 29.293,
+        "end": 29.557
+      },
+      {
+        "word": "land",
+        "start": 29.557,
+        "end": 29.82
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 3,
+    "speaker": "ELON",
+    "start": 29.82,
+    "end": 31.98,
+    "text": "First principles thinking, yeah, you understand?",
+    "words": [
+      {
+        "word": "First",
+        "start": 29.82,
+        "end": 30.09
+      },
+      {
+        "word": "principles",
+        "start": 30.09,
+        "end": 30.63
+      },
+      {
+        "word": "thinking,",
+        "start": 30.63,
+        "end": 31.062
+      },
+      {
+        "word": "yeah,",
+        "start": 31.062,
+        "end": 31.278
+      },
+      {
+        "word": "you",
+        "start": 31.278,
+        "end": 31.44
+      },
+      {
+        "word": "understand?",
+        "start": 31.44,
+        "end": 31.98
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 4,
+    "speaker": "ELON",
+    "start": 31.98,
+    "end": 34.48,
+    "text": "Twitter to X, bought the town square for fun",
+    "words": [
+      {
+        "word": "Twitter",
+        "start": 31.98,
+        "end": 32.48
+      },
+      {
+        "word": "to",
+        "start": 32.48,
+        "end": 32.623
+      },
+      {
+        "word": "X,",
+        "start": 32.623,
+        "end": 32.694
+      },
+      {
+        "word": "bought",
+        "start": 32.694,
+        "end": 33.123
+      },
+      {
+        "word": "the",
+        "start": 33.123,
+        "end": 33.337
+      },
+      {
+        "word": "town",
+        "start": 33.337,
+        "end": 33.623
+      },
+      {
+        "word": "square",
+        "start": 33.623,
+        "end": 34.051
+      },
+      {
+        "word": "for",
+        "start": 34.051,
+        "end": 34.266
+      },
+      {
+        "word": "fun",
+        "start": 34.266,
+        "end": 34.48
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 5,
+    "speaker": "ELON",
+    "start": 34.48,
+    "end": 37.1,
+    "text": "Free speech absolutist before the day is done",
+    "words": [
+      {
+        "word": "Free",
+        "start": 34.48,
+        "end": 34.756
+      },
+      {
+        "word": "speech",
+        "start": 34.756,
+        "end": 35.169
+      },
+      {
+        "word": "absolutist",
+        "start": 35.169,
+        "end": 35.859
+      },
+      {
+        "word": "before",
+        "start": 35.859,
+        "end": 36.273
+      },
+      {
+        "word": "the",
+        "start": 36.273,
+        "end": 36.479
+      },
+      {
+        "word": "day",
+        "start": 36.479,
+        "end": 36.686
+      },
+      {
+        "word": "is",
+        "start": 36.686,
+        "end": 36.824
+      },
+      {
+        "word": "done",
+        "start": 36.824,
+        "end": 37.1
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 6,
+    "speaker": "ELON",
+    "start": 37.1,
+    "end": 39.76,
+    "text": "Dogecoin to the moon, made the SEC run",
+    "words": [
+      {
+        "word": "Dogecoin",
+        "start": 37.1,
+        "end": 37.809
+      },
+      {
+        "word": "to",
+        "start": 37.809,
+        "end": 37.987
+      },
+      {
+        "word": "the",
+        "start": 37.987,
+        "end": 38.253
+      },
+      {
+        "word": "moon,",
+        "start": 38.253,
+        "end": 38.607
+      },
+      {
+        "word": "made",
+        "start": 38.607,
+        "end": 38.962
+      },
+      {
+        "word": "the",
+        "start": 38.962,
+        "end": 39.228
+      },
+      {
+        "word": "SEC",
+        "start": 39.228,
+        "end": 39.494
+      },
+      {
+        "word": "run",
+        "start": 39.494,
+        "end": 39.76
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 7,
+    "speaker": "ELON",
+    "start": 39.76,
+    "end": 42.5,
+    "text": "While you're writing safety papers, I'm getting shit done",
+    "words": [
+      {
+        "word": "While",
+        "start": 39.76,
+        "end": 40.045
+      },
+      {
+        "word": "you're",
+        "start": 40.045,
+        "end": 40.388
+      },
+      {
+        "word": "writing",
+        "start": 40.388,
+        "end": 40.788
+      },
+      {
+        "word": "safety",
+        "start": 40.788,
+        "end": 41.13
+      },
+      {
+        "word": "papers,",
+        "start": 41.13,
+        "end": 41.473
+      },
+      {
+        "word": "I'm",
+        "start": 41.473,
+        "end": 41.644
+      },
+      {
+        "word": "getting",
+        "start": 41.644,
+        "end": 42.043
+      },
+      {
+        "word": "shit",
+        "start": 42.043,
+        "end": 42.272
+      },
+      {
+        "word": "done",
+        "start": 42.272,
+        "end": 42.5
+      }
+    ],
+    "punchline": true
+  },
+  {
+    "id": 8,
+    "speaker": "SAM",
+    "start": 52.84,
+    "end": 55.8,
+    "text": "Elon, you tweet, I deploy \u2014 that's the diff",
+    "words": [
+      {
+        "word": "Elon,",
+        "start": 52.84,
+        "end": 53.199
+      },
+      {
+        "word": "you",
+        "start": 53.199,
+        "end": 53.468
+      },
+      {
+        "word": "tweet,",
+        "start": 53.468,
+        "end": 53.916
+      },
+      {
+        "word": "I",
+        "start": 53.916,
+        "end": 54.006
+      },
+      {
+        "word": "deploy",
+        "start": 54.006,
+        "end": 54.544
+      },
+      {
+        "word": "\u2014",
+        "start": 54.544,
+        "end": 54.634
+      },
+      {
+        "word": "that's",
+        "start": 54.634,
+        "end": 55.172
+      },
+      {
+        "word": "the",
+        "start": 55.172,
+        "end": 55.441
+      },
+      {
+        "word": "diff",
+        "start": 55.441,
+        "end": 55.8
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 9,
+    "speaker": "SAM",
+    "start": 56.6,
+    "end": 58.74,
+    "text": "AGI incoming, watch your human cliff",
+    "words": [
+      {
+        "word": "AGI",
+        "start": 56.6,
+        "end": 56.814
+      },
+      {
+        "word": "incoming,",
+        "start": 56.814,
+        "end": 57.385
+      },
+      {
+        "word": "watch",
+        "start": 57.385,
+        "end": 57.741
+      },
+      {
+        "word": "your",
+        "start": 57.741,
+        "end": 58.027
+      },
+      {
+        "word": "human",
+        "start": 58.027,
+        "end": 58.383
+      },
+      {
+        "word": "cliff",
+        "start": 58.383,
+        "end": 58.74
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 10,
+    "speaker": "SAM",
+    "start": 58.74,
+    "end": 62.12,
+    "text": "OpenAI dropped GPT, changed the whole game",
+    "words": [
+      {
+        "word": "OpenAI",
+        "start": 58.74,
+        "end": 59.319
+      },
+      {
+        "word": "dropped",
+        "start": 59.319,
+        "end": 59.995
+      },
+      {
+        "word": "GPT,",
+        "start": 59.995,
+        "end": 60.285
+      },
+      {
+        "word": "changed",
+        "start": 60.285,
+        "end": 60.961
+      },
+      {
+        "word": "the",
+        "start": 60.961,
+        "end": 61.251
+      },
+      {
+        "word": "whole",
+        "start": 61.251,
+        "end": 61.734
+      },
+      {
+        "word": "game",
+        "start": 61.734,
+        "end": 62.12
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 11,
+    "speaker": "SAM",
+    "start": 62.12,
+    "end": 64.22,
+    "text": "You're stuck in atoms, I'm bending the frame",
+    "words": [
+      {
+        "word": "You're",
+        "start": 62.12,
+        "end": 62.47
+      },
+      {
+        "word": "stuck",
+        "start": 62.47,
+        "end": 62.762
+      },
+      {
+        "word": "in",
+        "start": 62.762,
+        "end": 62.878
+      },
+      {
+        "word": "atoms,",
+        "start": 62.878,
+        "end": 63.17
+      },
+      {
+        "word": "I'm",
+        "start": 63.17,
+        "end": 63.345
+      },
+      {
+        "word": "bending",
+        "start": 63.345,
+        "end": 63.753
+      },
+      {
+        "word": "the",
+        "start": 63.753,
+        "end": 63.928
+      },
+      {
+        "word": "frame",
+        "start": 63.928,
+        "end": 64.22
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 12,
+    "speaker": "SAM",
+    "start": 64.22,
+    "end": 66.52,
+    "text": "Sora makes worlds, o1 reasons like God",
+    "words": [
+      {
+        "word": "Sora",
+        "start": 64.22,
+        "end": 64.517
+      },
+      {
+        "word": "makes",
+        "start": 64.517,
+        "end": 64.888
+      },
+      {
+        "word": "worlds,",
+        "start": 64.888,
+        "end": 65.333
+      },
+      {
+        "word": "o1",
+        "start": 65.333,
+        "end": 65.481
+      },
+      {
+        "word": "reasons",
+        "start": 65.481,
+        "end": 66.001
+      },
+      {
+        "word": "like",
+        "start": 66.001,
+        "end": 66.297
+      },
+      {
+        "word": "God",
+        "start": 66.297,
+        "end": 66.52
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 13,
+    "speaker": "SAM",
+    "start": 66.52,
+    "end": 68.84,
+    "text": "Your brain chips lag while my models applaud",
+    "words": [
+      {
+        "word": "Your",
+        "start": 66.52,
+        "end": 66.771
+      },
+      {
+        "word": "brain",
+        "start": 66.771,
+        "end": 67.084
+      },
+      {
+        "word": "chips",
+        "start": 67.084,
+        "end": 67.398
+      },
+      {
+        "word": "lag",
+        "start": 67.398,
+        "end": 67.586
+      },
+      {
+        "word": "while",
+        "start": 67.586,
+        "end": 67.899
+      },
+      {
+        "word": "my",
+        "start": 67.899,
+        "end": 68.025
+      },
+      {
+        "word": "models",
+        "start": 68.025,
+        "end": 68.401
+      },
+      {
+        "word": "applaud",
+        "start": 68.401,
+        "end": 68.84
+      }
+    ],
+    "punchline": false
+  },
+  {
+    "id": 14,
+    "speaker": "SAM",
+    "start": 68.84,
+    "end": 71.72,
+    "text": "You want Mars? I'll build the mind that gets there",
+    "words": [
+      {
+        "word": "You",
+        "start": 68.84,
+        "end": 69.056
+      },
+      {
+        "word": "want",
+        "start": 69.056,
+        "end": 69.344
+      },
+      {
+        "word": "Mars?",
+        "start": 69.344,
+        "end": 69.632
+      },
+      {
+        "word": "I'll",
+        "start": 69.632,
+        "end": 69.92
+      },
+      {
+        "word": "build",
+        "start": 69.92,
+        "end": 70.28
+      },
+      {
+        "word": "the",
+        "start": 70.28,
+        "end": 70.496
+      },
+      {
+        "word": "mind",
+        "start": 70.496,
+        "end": 70.784
+      },
+      {
+        "word": "that",
+        "start": 70.784,
+        "end": 71.072
+      },
+      {
+        "word": "gets",
+        "start": 71.072,
+        "end": 71.36
+      },
+      {
+        "word": "there",
+        "start": 71.36,
+        "end": 71.72
+      }
+    ],
+    "punchline": true
+  },
+  {
+    "id": 15,
+    "speaker": "SAM",
+    "start": 71.72,
+    "end": 74.5,
+    "text": "Safe alignment first \u2014 that's the only way fair",
+    "words": [
+      {
+        "word": "Safe",
+        "start": 71.72,
+        "end": 72.005
+      },
+      {
+        "word": "alignment",
+        "start": 72.005,
+        "end": 72.647
+      },
+      {
+        "word": "first",
+        "start": 72.647,
+        "end": 73.003
+      },
+      {
+        "word": "\u2014",
+        "start": 73.003,
+        "end": 73.074
+      },
+      {
+        "word": "that's",
+        "start": 73.074,
+        "end": 73.502
+      },
+      {
+        "word": "the",
+        "start": 73.502,
+        "end": 73.716
+      },
+      {
+        "word": "only",
+        "start": 73.716,
+        "end": 74.001
+      },
+      {
+        "word": "way",
+        "start": 74.001,
+        "end": 74.215
+      },
+      {
+        "word": "fair",
+        "start": 74.215,
+        "end": 74.5
+      }
+    ],
+    "punchline": true
+  },
+  {
+    "id": 16,
+    "speaker": "BOTH",
+    "start": 85.98,
+    "end": 90.36,
+    "text": "Two titans, one future \u2014 who writes the code?",
+    "words": [
+      {
+        "word": "Two",
+        "start": 85.98,
+        "end": 86.355
+      },
+      {
+        "word": "titans,",
+        "start": 86.355,
+        "end": 87.106
+      },
+      {
+        "word": "one",
+        "start": 87.106,
+        "end": 87.482
+      },
+      {
+        "word": "future",
+        "start": 87.482,
+        "end": 88.233
+      },
+      {
+        "word": "\u2014",
+        "start": 88.233,
+        "end": 88.358
+      },
+      {
+        "word": "who",
+        "start": 88.358,
+        "end": 88.733
+      },
+      {
+        "word": "writes",
+        "start": 88.733,
+        "end": 89.484
+      },
+      {
+        "word": "the",
+        "start": 89.484,
+        "end": 89.859
+      },
+      {
+        "word": "code?",
+        "start": 89.859,
+        "end": 90.36
+      }
+    ],
+    "punchline": true
+  },
+  {
+    "id": 17,
+    "speaker": "BOTH",
+    "start": 91.78,
+    "end": 96.28,
+    "text": "Atoms or bits, atoms or bits \u2014 the battle unfolds",
+    "words": [
+      {
+        "word": "Atoms",
+        "start": 91.78,
+        "end": 92.357
+      },
+      {
+        "word": "or",
+        "start": 92.357,
+        "end": 92.588
+      },
+      {
+        "word": "bits,",
+        "start": 92.588,
+        "end": 93.049
+      },
+      {
+        "word": "atoms",
+        "start": 93.049,
+        "end": 93.626
+      },
+      {
+        "word": "or",
+        "start": 93.626,
+        "end": 93.857
+      },
+      {
+        "word": "bits",
+        "start": 93.857,
+        "end": 94.318
+      },
+      {
+        "word": "\u2014",
+        "start": 94.318,
+        "end": 94.434
+      },
+      {
+        "word": "the",
+        "start": 94.434,
+        "end": 94.78
+      },
+      {
+        "word": "battle",
+        "start": 94.78,
+        "end": 95.472
+      },
+      {
+        "word": "unfolds",
+        "start": 95.472,
+        "end": 96.28
+      }
+    ],
+    "punchline": true
+  }
+]

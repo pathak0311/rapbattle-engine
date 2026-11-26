@@ -1,0 +1,395 @@
+import React from 'react';
+import {useCurrentFrame} from 'remotion';
+
+interface AudioVisualizerProps {
+  bassLevel: number;
+  freqData: number[];
+  activeFighter: 'fighter1' | 'fighter2' | 'both' | 'none';
+  f1Color: string;
+  f2Color: string;
+  f1Name: string;
+  f2Name: string;
+  f1Badge?: string;
+  f2Badge?: string;
+  time: number;
+  f1Portrait: string;
+  f2Portrait: string;
+  f1TalkPortrait?: string;
+  f2TalkPortrait?: string;
+  f1Emblem?: string;
+  f2Emblem?: string;
+}
+
+export const AudioVisualizer: React.FC<AudioVisualizerProps> = ({
+  bassLevel,
+  freqData,
+  activeFighter,
+  f1Color,
+  f2Color,
+  f1Name,
+  f2Name,
+  f1Badge = 'AI CHIP KING',
+  f2Badge = 'MAGA MOGUL',
+  time,
+  f1Portrait,
+  f2Portrait,
+  f1TalkPortrait,
+  f2TalkPortrait,
+  f1Emblem,
+  f2Emblem,
+}) => {
+  const frame = useCurrentFrame();
+  const barCount = 64;
+  const radius = 225;
+
+  const isTalking = (activeFighter === 'fighter1' || activeFighter === 'fighter2' || activeFighter === 'both') &&
+    (Math.sin(time * 20) + bassLevel * 2.2 > 0.35);
+
+  const f1Img = isTalking && (activeFighter === 'fighter1' || activeFighter === 'both') && f1TalkPortrait
+    ? f1TalkPortrait
+    : f1Portrait;
+  const f2Img = isTalking && (activeFighter === 'fighter2' || activeFighter === 'both') && f2TalkPortrait
+    ? f2TalkPortrait
+    : f2Portrait;
+
+  const activeColor = activeFighter === 'fighter1' ? f1Color : activeFighter === 'fighter2' ? f2Color : '#FFD166';
+  const activePortrait = activeFighter === 'fighter1' ? f1Img : activeFighter === 'fighter2' ? f2Img : (Math.floor(time * 2) % 2 === 0 ? f1Img : f2Img);
+  const activeName = activeFighter === 'fighter1' ? f1Name : activeFighter === 'fighter2' ? f2Name : f1Name + ' vs ' + f2Name;
+  const activeBadge = activeFighter === 'fighter1' ? f1Badge : activeFighter === 'fighter2' ? f2Badge : 'TITAN CLASH';
+  const activeEmblem = activeFighter === 'fighter1' ? f1Emblem : activeFighter === 'fighter2' ? f2Emblem : (Math.floor(time * 2) % 2 === 0 ? f1Emblem : f2Emblem);
+
+  const ringScale = 1 + bassLevel * 0.14;
+  const shockwaveTrigger = bassLevel > 0.72;
+  const shockwaveScale = shockwaveTrigger ? 1 + (time * 50) % 1 : 0;
+  const shockwaveOpacity = shockwaveTrigger ? 0.8 : 0;
+
+  const inInstrumental = activeFighter === 'none';
+
+  return (
+    <div
+      style={{
+        position: 'absolute',
+        top: '50%',
+        left: '50%',
+        transform: 'translate(-50%, -50%)',
+        width: '1080px',
+        height: '1920px',
+        pointerEvents: 'none',
+        zIndex: 10,
+      }}
+    >
+      {/* Top Contestant HUD Cards (shows both SVG avatars with active glow) */}
+      <div
+        style={{
+          position: 'absolute',
+          top: '54px',
+          left: '48px',
+          right: '48px',
+          display: 'flex',
+          justifyContent: 'space-between',
+          alignItems: 'center',
+          zIndex: 25,
+        }}
+      >
+        {/* Fighter 1 HUD */}
+        <div
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: '14px',
+            padding: '10px 20px',
+            background: '#090D16EE',
+            border: `3px solid ${activeFighter === 'fighter1' || activeFighter === 'both' ? f1Color : '#334155'}`,
+            borderRadius: '20px',
+            opacity: activeFighter === 'fighter2' ? 0.55 : 1,
+            transform: `scale(${activeFighter === 'fighter1' ? 1.05 : 0.96})`,
+          }}
+        >
+          <img
+            src={f1Img}
+            alt={f1Name}
+            style={{
+              width: '64px',
+              height: '64px',
+              borderRadius: '50%',
+              border: `3px solid ${f1Color}`,
+              objectFit: 'cover',
+            }}
+          />
+          <div>
+            <div style={{fontFamily: 'Anton, sans-serif', fontSize: '26px', color: f1Color, letterSpacing: '2px', lineHeight: 1.1}}>
+              {f1Name}
+            </div>
+            <div style={{fontFamily: 'Anton, sans-serif', fontSize: '16px', color: '#CBD5E1', letterSpacing: '1.5px'}}>
+              {f1Badge}
+            </div>
+          </div>
+        </div>
+
+        {/* Fighter 2 HUD */}
+        <div
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: '14px',
+            padding: '10px 20px',
+            background: '#090D16EE',
+            border: `3px solid ${activeFighter === 'fighter2' || activeFighter === 'both' ? f2Color : '#334155'}`,
+            borderRadius: '20px',
+            opacity: activeFighter === 'fighter1' ? 0.55 : 1,
+            transform: `scale(${activeFighter === 'fighter2' ? 1.05 : 0.96})`,
+          }}
+        >
+          <div style={{textAlign: 'right'}}>
+            <div style={{fontFamily: 'Anton, sans-serif', fontSize: '26px', color: f2Color, letterSpacing: '2px', lineHeight: 1.1}}>
+              {f2Name}
+            </div>
+            <div style={{fontFamily: 'Anton, sans-serif', fontSize: '16px', color: '#CBD5E1', letterSpacing: '1.5px'}}>
+              {f2Badge}
+            </div>
+          </div>
+          <img
+            src={f2Img}
+            alt={f2Name}
+            style={{
+              width: '64px',
+              height: '64px',
+              borderRadius: '50%',
+              border: `3px solid ${f2Color}`,
+              objectFit: 'cover',
+            }}
+          />
+        </div>
+      </div>
+
+      {/* Circular frequency spectrum (Zero filter/blur for Pi 5 stability) */}
+      <svg
+        width="1080"
+        height="1920"
+        style={{
+          position: 'absolute',
+          top: '50%',
+          left: '50%',
+          transform: 'translate(-50%, -50%)',
+        }}
+        viewBox="-540 -960 1080 1920"
+      >
+        <defs>
+          {/* Circular mask for fighter SVG portrait */}
+          <clipPath id="portraitMask">
+            <circle cx="0" cy="0" r={radius - 15} />
+          </clipPath>
+        </defs>
+        {Array.from({length: barCount}).map((_, i) => {
+          const angle = (i / barCount) * Math.PI * 2 - Math.PI / 2;
+          const freqIndex = Math.min(i, freqData.length - 1);
+          const magnitude = freqData[freqIndex] || 0;
+          const barHeight = 20 + magnitude * 195;
+          const innerRadius = radius;
+          const outerRadius = radius + barHeight;
+
+          const x1 = Math.cos(angle) * innerRadius;
+          const y1 = Math.sin(angle) * innerRadius;
+          const x2 = Math.cos(angle) * outerRadius;
+          const y2 = Math.sin(angle) * outerRadius;
+
+          return (
+            <line
+              key={`bar${i}`}
+              x1={x1}
+              y1={y1}
+              x2={x2}
+              y2={y2}
+              stroke={activeColor}
+              strokeWidth={8}
+              strokeLinecap="round"
+              style={{
+                transformOrigin: '0px 0px',
+                transform: `scale(${ringScale})`,
+              }}
+            />
+          );
+        })}
+
+        {/* Shockwave ring on bass peaks */}
+        {shockwaveTrigger && (
+          <circle
+            cx={0}
+            cy={0}
+            r={radius * shockwaveScale * 1.8}
+            stroke={activeColor}
+            strokeWidth={3}
+            fill="none"
+            opacity={shockwaveOpacity * (1 - shockwaveScale + 1)}
+            style={{
+              transformOrigin: '0px 0px',
+              transform: `scale(${ringScale})`,
+            }}
+          />
+        )}
+
+        {/* Center fighter SVG portrait with pulsing ring */}
+        <g
+          style={{
+            transformOrigin: '0px 0px',
+            transform: `scale(${ringScale})`,
+          }}
+        >
+          {/* Pulsing outer ring */}
+          <circle
+            cx={0}
+            cy={0}
+            r={radius - 5}
+            fill="none"
+            stroke={activeColor}
+            strokeWidth={6}
+            opacity={0.45 + bassLevel * 0.5}
+          />
+          <circle
+            cx={0}
+            cy={0}
+            r={radius - 15}
+            fill="none"
+            stroke={activeColor}
+            strokeWidth={3}
+            opacity={0.25}
+          />
+
+          {/* Fighter SVG portrait - circular masked */}
+          <image
+            href={activePortrait}
+            x={-(radius - 15)}
+            y={-(radius - 15)}
+            width={2 * (radius - 15)}
+            height={2 * (radius - 15)}
+            clipPath="url(#portraitMask)"
+          />
+
+          {/* Corner SVG Emblem Badge on Ring */}
+          {activeEmblem && (
+            <image
+              href={activeEmblem}
+              x={radius - 95}
+              y={radius - 95}
+              width={86}
+              height={86}
+            />
+          )}
+
+          {/* NEXT UP badge during instrumental */}
+          {inInstrumental && (
+            <g transform={`translate(0, ${radius + 55})`}>
+              <rect
+                x={-140}
+                y={-25}
+                width={280}
+                height={50}
+                rx={25}
+                fill={activeColor}
+                opacity={0.95}
+              />
+              <text
+                x={0}
+                y={8}
+                textAnchor="middle"
+                dominantBaseline="middle"
+                fontFamily="Anton, sans-serif"
+                fontSize={24}
+                fill="#000"
+                fontWeight="400"
+                letterSpacing="3"
+              >
+                BEAT DROP
+              </text>
+            </g>
+          )}
+        </g>
+      </svg>
+
+      {/* Active speaker banner - upper third */}
+      {!inInstrumental && (
+        <div
+          style={{
+            position: 'absolute',
+            top: '190px',
+            left: '50%',
+            transform: 'translateX(-50%) rotate(-2deg)',
+            zIndex: 20,
+            pointerEvents: 'none',
+          }}
+        >
+          <div
+            style={{
+              display: 'inline-block',
+              padding: '10px 36px',
+              background: activeColor,
+              borderRadius: '50px',
+              border: '3px solid #000',
+              whiteSpace: 'nowrap',
+            }}
+          >
+            <span
+              style={{
+                fontFamily: 'Anton, sans-serif',
+                fontSize: '30px',
+                fontWeight: 400,
+                color: '#000',
+                letterSpacing: '4px',
+                textTransform: 'uppercase',
+              }}
+            >
+              {activeName.toUpperCase()} • {activeBadge}
+            </span>
+          </div>
+        </div>
+      )}
+
+      {/* Bottom mirrored sub-bass equalizer strip */}
+      <svg
+        width="1080"
+        height="200"
+        style={{
+          position: 'absolute',
+          bottom: '60px',
+          left: '50%',
+          transform: 'translateX(-50%)',
+        }}
+        viewBox="0 0 1080 200"
+      >
+        <defs>
+          <linearGradient id="subBassFade" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stopColor={activeColor} stopOpacity={0.85} />
+            <stop offset="100%" stopColor={activeColor} stopOpacity={0} />
+          </linearGradient>
+        </defs>
+        {Array.from({length: 32}).map((_, i) => {
+          const freqIndex = Math.min(i, freqData.length - 1);
+          const magnitude = freqData[freqIndex] || 0;
+          const barHeight = 10 + magnitude * 80;
+          return (
+            <g key={`sub${i}`} transform={`translate(${50 + i * 30}, 100)`}>
+              <rect
+                x={0}
+                y={-barHeight}
+                width={18}
+                height={barHeight}
+                fill="url(#subBassFade)"
+                rx={3}
+              />
+              <rect
+                x={0}
+                y={0}
+                width={18}
+                height={barHeight}
+                fill="url(#subBassFade)"
+                rx={3}
+                transform="scale(1, -1)"
+                opacity={0.4}
+              />
+            </g>
+          );
+        })}
+      </svg>
+    </div>
+  );
+};

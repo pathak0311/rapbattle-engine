@@ -1,0 +1,60 @@
+{
+  "taskId": "508b192269b14f4323d53c0406eb56f3",
+  "parentMusicId": "",
+  "param": "{\"callBackUrl\":\"https://example.com/noop\",\"customMode\":true,\"instrumental\":false,\"model\":\"V4_5\",\"negativeTags\":\"announcer, host, hype man, spoken word, narration, chorus, singing, female vocals, crowd\",\"prompt\":\"[Verse 1: Elon Musk]\\nRockets on the launchpad, I land 'em standing upright\\nYou built a whole metaverse with no legs in sight\\nTesla on autopilot, Starlink in the sky\\nYou're harvesting data, I'm teaching boosters to fly\\nYou called me to the cage, then you ghosted the date\\nI bought the bird for forty-four, now I run the debate\\nNeuralink in the brain, I'm wired to the stars\\nYou're stuck in Menlo Park, I'm putting people on Mars!\\n\\n[Verse 2: Mark Zuckerberg]\\nElon, my man, let's be honest for a sec\\nYou paid forty-four billion just to wreck a blue check\\nThree billion users logging in every day\\nYour bird keeps dropping feathers while my Threads are here to stay\\nI train jiu-jitsu, I got medals, show respect\\nYour Cybertruck's a toaster that the whole world rejects\\nOpen-source Llama, I'm the king of the stack\\nSo go fly to Mars, buddy, and please don't come back!\\n\\n[End]\",\"style\":\"epic hard-hitting rap battle beat, 94 bpm, cinematic orchestral hits, booming 808, trap hi-hats, two male rappers, verse 1 confident edgy deadpan male voice, verse 2 fast clipped nasal male voice, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro\",\"title\":\"Elon Vs Zuck\"}",
+  "response": {
+    "taskId": "508b192269b14f4323d53c0406eb56f3",
+    "sunoData": [
+      {
+        "id": "93a4e566-bbe4-49a6-8d54-5a322b080b4d",
+        "prompt": "[Verse 1: Elon Musk]\nRockets on the launchpad, I land 'em standing upright\nYou built a whole metaverse with no legs in sight\nTesla on autopilot, Starlink in the sky\nYou're harvesting data, I'm teaching boosters to fly\nYou called me to the cage, then you ghosted the date\nI bought the bird for forty-four, now I run the debate\nNeuralink in the brain, I'm wired to the stars\nYou're stuck in Menlo Park, I'm putting people on Mars!\n\n[Verse 2: Mark Zuckerberg]\nElon, my man, let's be honest for a sec\nYou paid forty-four billion just to wreck a blue check\nThree billion users logging in every day\nYour bird keeps dropping feathers while my Threads are here to stay\nI train jiu-jitsu, I got medals, show respect\nYour Cybertruck's a toaster that the whole world rejects\nOpen-source Llama, I'm the king of the stack\nSo go fly to Mars, buddy, and please don't come back!\n\n[End]",
+        "title": "Elon Vs Zuck",
+        "tags": "Battle rap, two male rappers trade verses only: a confident edgy deadpan male voice in verse 1, then a fast clipped nasal male voice in verse 2; tight dry rap vocals with stacked harmonies from the rappers on verse-ending accents; 94 bpm, huge, wide-stereo, hard-hitting pulse, cinematic orchestral hits, booming 808 and trap hi-hats.",
+        "createTime": 1795365739191,
+        "duration": 52.8,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/93a4e566-bbe4-49a6-8d54-5a322b080b4d.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/93a4e566-bbe4-49a6-8d54-5a322b080b4d.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/93a4e566-bbe4-49a6-8d54-5a322b080b4d.mp3",
+        "image_url": "https://musicfile.sunoapi.org/OTNhNGU1NjYtYmJlNC00OWE2LThkNTQtNWEzMjJiMDgwYjRk.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_93a4e566-bbe4-49a6-8d54-5a322b080b4d.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/93a4e566-bbe4-49a6-8d54-5a322b080b4d.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/93a4e566-bbe4-49a6-8d54-5a322b080b4d.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/93a4e566-bbe4-49a6-8d54-5a322b080b4d.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/OTNhNGU1NjYtYmJlNC00OWE2LThkNTQtNWEzMjJiMDgwYjRk.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_93a4e566-bbe4-49a6-8d54-5a322b080b4d.jpeg",
+        "modelName": "chirp-hawk"
+      },
+      {
+        "id": "468fb03a-77bf-4a18-9a45-a1561e514d51",
+        "prompt": "[Verse 1: Elon Musk]\nRockets on the launchpad, I land 'em standing upright\nYou built a whole metaverse with no legs in sight\nTesla on autopilot, Starlink in the sky\nYou're harvesting data, I'm teaching boosters to fly\nYou called me to the cage, then you ghosted the date\nI bought the bird for forty-four, now I run the debate\nNeuralink in the brain, I'm wired to the stars\nYou're stuck in Menlo Park, I'm putting people on Mars!\n\n[Verse 2: Mark Zuckerberg]\nElon, my man, let's be honest for a sec\nYou paid forty-four billion just to wreck a blue check\nThree billion users logging in every day\nYour bird keeps dropping feathers while my Threads are here to stay\nI train jiu-jitsu, I got medals, show respect\nYour Cybertruck's a toaster that the whole world rejects\nOpen-source Llama, I'm the king of the stack\nSo go fly to Mars, buddy, and please don't come back!\n\n[End]",
+        "title": "Elon Vs Zuck",
+        "tags": "Battle rap, booming 808 with hard-clipped saturation, cinematic orchestral hits and trap hi-hats; two male rappers, one confident edgy deadpan, the other fast clipped nasal, with warm mid-range crooning legato inflections within their rap delivery; 94 bpm, heavy half-time bounce; hard-clipped 808 saturation drives the second verse.",
+        "createTime": 1795365739191,
+        "duration": 60.4,
+        "audio_url": "https://tempfile.aiquickdraw.com/r/468fb03a-77bf-4a18-9a45-a1561e514d51.mp3",
+        "source_audio_url": "",
+        "stream_audio_url": "https://audiostream.api.box/stream/468fb03a-77bf-4a18-9a45-a1561e514d51.mp3",
+        "source_stream_audio_url": "https://audiostream.api.box/stream/468fb03a-77bf-4a18-9a45-a1561e514d51.mp3",
+        "image_url": "https://musicfile.sunoapi.org/NDY4ZmIwM2EtNzdiZi00YTE4LTlhNDUtYTE1NjFlNTE0ZDUx.jpeg",
+        "source_image_url": "https://cdn2.suno.ai/image_468fb03a-77bf-4a18-9a45-a1561e514d51.jpeg",
+        "model_name": "chirp-hawk",
+        "audioUrl": "https://tempfile.aiquickdraw.com/r/468fb03a-77bf-4a18-9a45-a1561e514d51.mp3",
+        "sourceAudioUrl": "",
+        "streamAudioUrl": "https://audiostream.api.box/stream/468fb03a-77bf-4a18-9a45-a1561e514d51.mp3",
+        "sourceStreamAudioUrl": "https://audiostream.api.box/stream/468fb03a-77bf-4a18-9a45-a1561e514d51.mp3",
+        "imageUrl": "https://musicfile.sunoapi.org/NDY4ZmIwM2EtNzdiZi00YTE4LTlhNDUtYTE1NjFlNTE0ZDUx.jpeg",
+        "sourceImageUrl": "https://cdn2.suno.ai/image_468fb03a-77bf-4a18-9a45-a1561e514d51.jpeg",
+        "modelName": "chirp-hawk"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "type": "chirp-auk",
+  "operationType": "generate",
+  "errorCode": null,
+  "errorMessage": null,
+  "createTime": 1795365718000
+}

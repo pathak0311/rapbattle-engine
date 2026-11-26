@@ -1,0 +1,120 @@
+{
+  "slug": "khan_vs_jensen2",
+  "title": "KHAN VS HUANG",
+  "hashtag": "#OPERATIONHORSEBACK",
+  "sunoStyle": "Dark cinematic trap hip-hop rap battle, thundering taiko and Mongolian war drums, morin khuur horsehead fiddle riff, tense spy-thriller bass pulses, deep 808, 94 bpm, two male English rappers, verse 1 very deep gravelly menacing commanding baritone, verse 2 sharp aggressive cocky mid-range tenor spitting hard and fast, rap verses only, no chorus, no announcer, no hype man, no spoken intro, no spoken outro, abrupt ending",
+  "fighters": {
+    "fighter1": {
+      "id": "fighter1",
+      "name": "GENGHIS KHAN",
+      "badge": "GREAT KHAN",
+      "color": "#E0A526",
+      "svg": "assets/khan-m0.svg",
+      "portrait": "assets/khan-m0.svg",
+      "talkSvg": "assets/khan-m2.svg",
+      "emblemSvg": "assets/khan-emblem.svg",
+      "mouthSvgs": [
+        "assets/khan-m0.svg",
+        "assets/khan-m1.svg",
+        "assets/khan-m2.svg"
+      ]
+    },
+    "fighter2": {
+      "id": "fighter2",
+      "name": "JENSEN HUANG",
+      "badge": "LEATHER JACKET CEO",
+      "color": "#76B900",
+      "svg": "assets/jhuang-m0.svg",
+      "portrait": "assets/jhuang-m0.svg",
+      "talkSvg": "assets/jhuang-m2.svg",
+      "emblemSvg": "assets/jhuang-emblem.svg",
+      "mouthSvgs": [
+        "assets/jhuang-m0.svg",
+        "assets/jhuang-m1.svg",
+        "assets/jhuang-m2.svg"
+      ]
+    }
+  },
+  "lines": [
+    {
+      "speaker": "fighter1",
+      "text": "I used spies to rule the world, you got played by one instead",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "The Times says she's a suspect, and you admitted you were in her bed",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "Your board said \"you're out,\" then \"come back\" in eleven days",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "My generals never flip-flopped, they just obeyed my ways",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "They say a coworker too, now HR's got a horde",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "I had a hundred wives, but I never had a board",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter1",
+      "text": "You guard the world's top chips but you couldn't guard your own",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter1",
+      "text": "I ran the best spy network, bro, you got played on your phone",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Your wife got snatched in your own camp, bro, you couldn't guard her bed",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Then your own son called your firstborn a bastard to your head",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "You burned whole cities down, then died of who-knows-what",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Fever, fall, or arrow, bro, they buried you and forgot",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "I slipped, I owned it, and the whole world brought me back",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Your empire split in four the second you went black",
+      "punchline": true
+    },
+    {
+      "speaker": "fighter2",
+      "text": "Eight hundred years, no tomb, no wife you could protect, no son you could trust",
+      "punchline": false
+    },
+    {
+      "speaker": "fighter2",
+      "text": "I'm the king of the cloud, you're a statue and some dust",
+      "punchline": true
+    }
+  ]
+}
